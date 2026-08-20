@@ -1,0 +1,37 @@
+Computing Careers 2026 — source bibliography and gap register
+Grade One, edition 1.0.0
+
+LICENCE
+
+This dataset is published under the Creative Commons Attribution 4.0
+International licence. https://creativecommons.org/licenses/by/4.0/
+
+You may copy, redistribute, adapt and build on it, including commercially, as
+long as you credit the source. Suggested credit:
+
+  Source bibliography and gap register, Computing Careers 2026, Grade One,
+  edition 1.0.0.
+
+WHAT THIS IS
+
+  sources.csv     200 sources on computing labour markets. Each carries the
+                  grade it earns under the book's five-grade hierarchy, the date
+                  it was published, the date it was read, a locator or a stated
+                  reason there is none, the figure it supports, and what it
+                  cannot tell you.
+  gaps.csv        Every question this book could not answer at the grade it
+                  requires, by role and by chapter, with the reason.
+
+The grades run 1 to 5, best first. Grade 1 is a body with the power to compel an
+answer and nothing to sell you. Grade 5 is somebody selling something.
+
+WHY THE GAP REGISTER IS PUBLISHED
+
+Because a list of what nobody measures is more useful to a researcher than
+another list of what somebody measured. Every entry marked closeable means a
+published source exists and has not been compiled. Those are the cheap ones.
+
+Third-party material inside these files is credited where it comes from. O*NET,
+published by the United States Department of Labor, Employment and Training
+Administration, and ESCO, published by the European Commission, are used under
+CC BY 4.0. Neither body has reviewed or endorsed this book.

@@ -1,0 +1,1002 @@
+[
+  {
+    "profile": "Backend engineer",
+    "chapter": 23,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "Backend engineer",
+    "chapter": 23,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Data engineer",
+    "chapter": 23,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "Data engineer",
+    "chapter": 23,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "DevOps / site reliability engineer",
+    "chapter": 23,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "DevOps / site reliability engineer",
+    "chapter": 23,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Machine learning engineer",
+    "chapter": 23,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "Machine learning engineer",
+    "chapter": 23,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Security generalist",
+    "chapter": 23,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "Security generalist",
+    "chapter": 23,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. This figure was carried at grade 2 against a survey that does not contain it, which made security look like the one baseline role with a measured entry time. It is not. No statistics office, survey or research body measures this for any role in this chapter."
+  },
+  {
+    "profile": "Entry-level data analyst",
+    "chapter": 24,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 3 analyst-specific pay data located, in any region."
+  },
+  {
+    "profile": "Entry-level data analyst",
+    "chapter": 24,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Generalist frontend / web development",
+    "chapter": 24,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No role-specific pay figure at grade 3 or better exists for this role. This profile prints the general US senior developer rate as a market reference. It carries a dagger and does not count towards this book's pay bar."
+  },
+  {
+    "profile": "Generalist frontend / web development",
+    "chapter": 24,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "IT support / helpdesk",
+    "chapter": 24,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 3 support-specific pay data located."
+  },
+  {
+    "profile": "Junior UX / UX research",
+    "chapter": 24,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 3 UX-specific pay data located in any region."
+  },
+  {
+    "profile": "Manual QA / software tester",
+    "chapter": 24,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 3 QA-specific pay data located in any region."
+  },
+  {
+    "profile": "Manual QA / software tester",
+    "chapter": 24,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Epic healthcare IT analyst",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No pay figure for this role reaches grade 3. Every figure below for what a hospital analyst earns is aggregator data, which Chapter 5 grades 4. The one grade-3 figure here covers Epic Systems' own staff in Wisconsin, who are a different job, and it is marked. The pay rise after certification is measured, but a rise is not a level: it tells you the direction and not the number. So the shape of this market is well understood here and the amounts are not."
+  },
+  {
+    "profile": "Mainframe / COBOL developer",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 3 security-specialisation pay data located in any region. A significant gap given how often this career is recommended."
+  },
+  {
+    "profile": "Automotive functional safety and embedded platforms",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measurement of entry time was located."
+  },
+  {
+    "profile": "Automotive functional safety and embedded platforms",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Core banking and payments engineering",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measurement of time to entry exists. The 24 to 48 month figure in the snapshot is inferred from posting requirements."
+  },
+  {
+    "profile": "Core banking and payments engineering",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Only aggregator data was located, and it keyword-matches postings rather than measuring a role. No grade 3 pay source found in any region."
+  },
+  {
+    "profile": "Core banking and payments engineering",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Defence and aerospace software",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "Clearance processing times are quoted widely and published rarely. No grade 1 or 2 figure for time to a first cleared role was located."
+  },
+  {
+    "profile": "Defence and aerospace software",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "The best available source is a cleared jobs board reporting its own members. That population already holds clearances, so it cannot separate the clearance from the seniority of the people who have one."
+  },
+  {
+    "profile": "Defence and aerospace software",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Government and public sector IT",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "Individual agencies publish their own hiring timelines, so grade 1 data exists in hundreds of places and nowhere in one place. This book has not compiled it. Check your own government's published process, which is the point of Chapter 8."
+  },
+  {
+    "profile": "Government and public sector IT",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Published pay scales exist and are grade 1, but they are national and this book has not yet compiled them. The aggregate figures below mix three different employers."
+  },
+  {
+    "profile": "Government and public sector IT",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Industrial automation and OT security",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measurement of entry time was located."
+  },
+  {
+    "profile": "Industrial automation and OT security",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Aggregators only, and they contradict each other by more than the salary of an entrant. Certification premiums come from training publishers, which is grade 5 in motive."
+  },
+  {
+    "profile": "Industrial automation and OT security",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 source measures how long entry takes. The snapshot figure is inference from job requirements."
+  },
+  {
+    "profile": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Medical device software",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measurement of entry time was located."
+  },
+  {
+    "profile": "Medical device software",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "The hardest gap in this chapter. No pay figure specific to medical device software was located at any grade, in any region. Appendix B records this as an open research task rather than a finding."
+  },
+  {
+    "profile": "Medical device software",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Telecom network and OSS/BSS systems",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measurement of entry time was located."
+  },
+  {
+    "profile": "Telecom network and OSS/BSS systems",
+    "chapter": 25,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Aggregators and staffing content only. The senior figures in particular come from firms describing a population they estimate at a few dozen companies nationally."
+  },
+  {
+    "profile": "Telecom network and OSS/BSS systems",
+    "chapter": 25,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Bioinformatics and computational biology",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of time from study to first role exists. The snapshot figure is study length, which is not the same thing and is marked as such."
+  },
+  {
+    "profile": "Bioinformatics and computational biology",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Quantitative finance (researcher, trader, developer)",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Quantum computing",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured figure for entry time exists. The snapshot shows study length, which is the honest available proxy."
+  },
+  {
+    "profile": "Quantum computing",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 1 to 3 pay data was located anywhere. For a field with a published headcount, that absence is striking and is recorded in Appendix B."
+  },
+  {
+    "profile": "Quantum computing",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Agricultural technology",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Agricultural technology",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "The only field-specific average found was the salary site's generic software engineer figure. What remains is a general agriculture software band at grade 4."
+  },
+  {
+    "profile": "Agricultural technology",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Climate and energy systems software",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Climate and energy systems software",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "The one specific average found for this field was the site's generic software engineer number, identical to the dollar across three unrelated specialisms. It is excluded rather than reported."
+  },
+  {
+    "profile": "Climate and energy systems software",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Computational chemistry and cheminformatics",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Computational chemistry and cheminformatics",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Aggregator data only, quoted hourly, mixing staff and contract work."
+  },
+  {
+    "profile": "Computational chemistry and cheminformatics",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Geospatial engineering and earth observation",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Geospatial engineering and earth observation",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Legal technology",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time exists. Every figure found was published by a training seller."
+  },
+  {
+    "profile": "Legal technology",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No grade 1 to 4 pay source was located. The quoted figures of $180,000 to $350,000 for AI legal specialists are grade 5 and are not reproduced as data here."
+  },
+  {
+    "profile": "Legal technology",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Research computing and high-performance computing",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Research computing and high-performance computing",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No field-specific pay data was located at any grade. Public research salary scales are published nationally and would be grade 1, and this book has not yet compiled them."
+  },
+  {
+    "profile": "Research computing and high-performance computing",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Robotics and automation software",
+    "chapter": 26,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No grade 1 to 3 measure of entry time was located."
+  },
+  {
+    "profile": "Robotics and automation software",
+    "chapter": 26,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Leaving research: the doctorate in an ordinary job",
+    "chapter": 27,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Confirmed absent rather than merely unfound. Japan's national doctoral tracking survey publishes income for doctorate holders by sector, and industry pays them more than universities do. It carries no matched non-doctorate control group, so it cannot say what the doctorate itself is worth. Nothing found anywhere makes that comparison, and without it any claim about the pay value of the degree is guesswork."
+  },
+  {
+    "profile": "National laboratory and public institute researcher",
+    "chapter": 27,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured entry data was located for this route."
+  },
+  {
+    "profile": "National laboratory and public institute researcher",
+    "chapter": 27,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "National public research pay scales are grade 1 and freely available. This edition has not compiled them, which is a compilation gap rather than an evidence gap."
+  },
+  {
+    "profile": "Postdoctoral researcher",
+    "chapter": 27,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured figure for time from doctorate to postdoctoral post was located."
+  },
+  {
+    "profile": "Postdoctoral researcher",
+    "chapter": 27,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No statistics office, survey or research body measures it. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Teaching-focused faculty",
+    "chapter": 27,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No source measures entry to teaching-track positions separately from research faculty."
+  },
+  {
+    "profile": "Global-remote contracting from a talent-exporting region",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Fractional technical leadership",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured entry data exists. The figure shown is inferred from client requirements."
+  },
+  {
+    "profile": "Fractional technical leadership",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Every figure comes from a platform that places fractional executives. None are income, all are billing rates, and none say how many engagements a typical person actually holds."
+  },
+  {
+    "profile": "Fractional technical leadership",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Independent specialist consultant",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured data on time from starting out to a stable client base exists."
+  },
+  {
+    "profile": "Independent specialist consultant",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "Every rate figure found comes from platforms and rate calculators with an interest in high numbers. All of them quote billing rates rather than income."
+  },
+  {
+    "profile": "Independent specialist consultant",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Open source maintainer",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured data on time from first contribution to maintainership."
+  },
+  {
+    "profile": "Open source maintainer",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Small software products",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "Technical education and content",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "entry pathway",
+    "note": "No measured entry data was located for either the employed or independent version."
+  },
+  {
+    "profile": "Technical education and content",
+    "chapter": 28,
+    "kind": "dimension",
+    "what": "pay",
+    "note": "No usable data was located at any grade for independent education income. Every figure found came from someone selling a course about selling courses."
+  },
+  {
+    "profile": "Technical education and content",
+    "chapter": 28,
+    "kind": "snapshot",
+    "what": "entry time",
+    "note": "How long entry actually takes. No source measures it for this career. Three near misses are worth knowing. Poland's graduate register and Italy's graduate survey both publish months to a first job for computing GRADUATES, which is a field of study and not a role. Audited bootcamps report placement at 90, 180 and 360 days, for a small set of schools. Everything else counts who is employed on a fixed date, which is a rate and not a duration. The figure shown is inferred and is below this book's grade 2 bar for entry time."
+  },
+  {
+    "profile": "",
+    "chapter": 2,
+    "kind": "chapter",
+    "what": "A route for someone leaving computing",
+    "note": "Six routes in, and none out. People do leave this field, for good reasons, and the decision deserves the same treatment as entering. This edition has no evidence base on where they go or how it works out, so it offers no route rather than an encouraging guess.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 7,
+    "kind": "chapter",
+    "what": "The computing figure from ten of the eleven confirmed graduate-earnings publishers",
+    "note": "Appendix G confirms eleven publishers of course-level graduate earnings matched to tax or register records, and every one of them breaks its figures out by field. Only Ireland's computing number is printed in this book. The other ten are named, with what they cover and how to reach them, and the reader is sent to open their own. That is work this edition did not do rather than data that does not exist.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 7,
+    "kind": "chapter",
+    "what": "Whether the countries with no graduate-earnings dataset truly have none",
+    "note": "No such dataset was found for seventeen of the markets this book serves. Those searches ran in English against national portals, and a dataset published only in a national language would have been missed. The claim is that none was found, which describes this edition rather than those countries.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 7,
+    "kind": "chapter",
+    "what": "Regulator findings on training providers in six of seventeen markets",
+    "note": "Appendix G names a regulator with jurisdiction in seventeen countries. In eleven of them something has happened to a provider, though only eight of those were fines from a consumer regulator. In one the regulator looked and found no breach. In the remaining five no published action was found at all. Several of those bodies publish almost nothing in English and resolve complaints by mediation, so the absence is very likely about publication rather than about behaviour.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 7,
+    "kind": "chapter",
+    "what": "How many schools currently submit outcomes to an independent audit",
+    "note": "No primary source gave a current membership count for the one widely used audit standard. The chapter asks the reader to put the question to the school instead, which works whatever the number is.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 13,
+    "kind": "chapter",
+    "what": "The size and pay of these jobs outside the United States",
+    "note": "The counts and the pay ranges in this chapter are American. The United States runs the best occupational survey in the world, and most countries publish nothing at this level of detail. Appendix G records which ones come close. A reader in India, Nigeria or Brazil should read the shape of these findings and not the amounts.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 13,
+    "kind": "chapter",
+    "what": "What share of job postings become jobs",
+    "note": "The direction findings in this chapter are built on job postings, because postings are the only thing published fast enough to describe a market this year. No job board publishes what share of its listings result in a hire. A posting can be duplicated, left up after the role is filled, or never filled at all. So the direction of those numbers is evidence and the level is not.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 13,
+    "kind": "chapter",
+    "what": "Graduate outcomes behind the entry-level contraction",
+    "note": "The finding that entry-level hiring is shrinking rests on posting seniority, not on what happened to graduates. Those are different measurements. The graduate unemployment figures in this chapter come from a different instrument again, and cover one country.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 14,
+    "kind": "chapter",
+    "what": "School system subject rules outside eleven countries",
+    "note": "This chapter now works through India, the United Kingdom, the United States, Germany, the International Baccalaureate, Egypt, Bangladesh, Pakistan, the Philippines, Indonesia and Vietnam. Nigeria and Brazil remain uncovered and both send large numbers of students into computing. The method in the first half of the chapter is written to work anywhere. The worked examples are not.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 14,
+    "kind": "chapter",
+    "what": "Whether the rule that mathematics is the binding subject holds outside these eleven",
+    "note": "It holds in all eleven systems described here, which is the strongest pattern in this chapter. Eleven is not a sample of the world's school systems, and the countries were chosen by where readers are rather than at random. So the rule is a well-supported generalisation and not a measured one.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 15,
+    "kind": "chapter",
+    "what": "What happens to people who start a route and stop",
+    "note": "Every figure in this chapter describes people who finished something. No published source follows the person who left a degree in year two, or stopped a certificate ladder after the first exam. That group is large and it is invisible, and it is exactly the group a reader is trying not to join.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 15,
+    "kind": "chapter",
+    "what": "Apprenticeship availability outside the United Kingdom and Germany",
+    "note": "The two apprenticeship systems described here are the two this edition could describe. Many countries run something similar under another name, and some run nothing at all. A reader elsewhere cannot tell from this chapter which case they are in.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 15,
+    "kind": "chapter",
+    "what": "Employer tuition support, at scale",
+    "note": "This chapter recommends a route that depends on employers paying for study later. That happens. How often it happens, in which countries, and how many people actually use it are all unknown here. The recommendation rests on the route existing, not on a measured rate of take-up.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 15,
+    "kind": "chapter",
+    "what": "Credit transfer and early-credit routes outside the United States",
+    "note": "The chapter shows how to make the same degree cheaper by starting at a lower-cost institution and transferring. The mechanism is described from the United States community college system. Which countries run an equivalent, what it is called there, and what it saves are not compiled. The chapter gives an instruction that works anywhere instead of a figure that works in one place.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 16,
+    "kind": "chapter",
+    "what": "Whether complaining achieves anything in the six markets with no published case",
+    "note": "Appendix G now names a consumer regulator, its statute and its filing route for seventeen countries, which closes the gap this chapter carried in the first edition. In eleven, a specific action against a provider can be named. In five none was found and in one the regulator found no breach, so the book can say where to complain and cannot say what complaining is worth there.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 16,
+    "kind": "chapter",
+    "what": "What to check before signing an employment contract, outside India",
+    "note": "Service bonds now have a section here and a worked treatment in Appendix H, for one country. Probation, notice, non-competition clauses and what total pay actually contains all differ by country, and sixteen other origin markets have none of it compiled. Contract norms by country sit outside this edition's scope.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 18,
+    "kind": "chapter",
+    "what": "How long each stage of the sequence actually takes",
+    "note": "The timings in this chapter are read off the 46 profiles in Book B and the gates described in Chapter 25. They are not measured. Nobody publishes time-to-first-job for almost any computing field, which is why 35 of the 46 profiles declare an entry-time gap. The stage lengths here are therefore the book's own reading of its own data, and they are stated as rough on purpose. Treat them as an order of magnitude.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 20,
+    "kind": "chapter",
+    "what": "Any test of whether this book's framework actually picks well",
+    "note": "The ten dimensions have never been scored against an outcome. No cohort was followed, no retrodiction was run, and no prediction was scored. The obvious test is to apply the framework as of 2015 and check its picks against 2026, and this edition did not run it, because whoever ran it would already know how 2026 turned out and would be marking their own homework with the answers in front of them. Nor can the claim be tested against published data: it would need somebody to follow two groups of entrants for five years, and no such study exists or is being funded. The chapter says so, and registers five dated checks on the market machinery instead — two that could go wrong and three that probably will not, labelled as such, with a rule forbidding the easy three from averaging out a failure in the other two. Until somebody runs the cohort study, the framework is a well-organised argument rather than a tested instrument, and the book should be read as one.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 22,
+    "kind": "chapter",
+    "what": "How many jobs exist, for the roles a US occupation survey does count",
+    "note": "Chapter 13 prints employment counts for seventeen computing occupations from the American survey, and 39 of 46 profiles still read \"not established\" for market size. The counts are not wired into the profiles because no profile carries an occupation code, and this book copies those codes from research rather than inferring them: a guessed code is checkable, authoritative-looking and wrong, which is the failure Part I teaches readers to detect. This edition planned to close it by matching each profile's name against the American job-title file, which lists the titles employers actually use against each code, and called that a download rather than a judgement. The download was done. It is a judgement. The file lists \"Maintainer\" under machinery maintenance and \"Quantitative Trader\" under securities sales, so a copied code can be exact, official and still describe a different job. One profile in thirty-nine came through it cleanly. Copying a code stops you inventing an occupation; it does not tell you the occupation is yours.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 22,
+    "kind": "chapter",
+    "what": "The complete role lists from the taxonomies this book cites",
+    "note": "Four public frameworks are used here to prove that roles exist. This edition read their structures and the specific codes it prints, not their full contents. So the enumeration in Appendix D is a floor rather than a ceiling, and the chapter says which parts were read.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 22,
+    "kind": "chapter",
+    "what": "How many of these jobs exist, for most of the 46",
+    "note": "Every profile now carries a \"how many jobs\" line, and 39 of 46 read \"not established\". Seven have a count because somebody publishes one: quantum, computational chemistry, bioinformatics, geospatial, tenure-track academia, junior UX and Epic. For the rest no source counts openings or headcount at the level of a named computing role, in any country. This book teaches readers to ask \"percent of what?\" and could not answer it about most of its own recommendations until an outside review said so.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 22,
+    "kind": "chapter",
+    "what": "Non-English-language occupational classifications",
+    "note": "Every framework used here publishes in English. National classifications exist in many other languages and were not consulted. A role that is named and counted only in, say, Japanese or Portuguese statistics is invisible to this book.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 29,
+    "kind": "chapter",
+    "what": "Everything a profile would contain, for every role in this chapter",
+    "note": "This is the only chapter in Book B with no profiles, and the absence is the finding. A profile needs pay data at grade 3 and entry data at grade 2. A role that appeared eighteen months ago has neither, because nobody has yet done it long enough to be surveyed. Writing profiles anyway would mean inventing the numbers, in the part of the book most likely to be acted on by someone in a hurry.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 29,
+    "kind": "chapter",
+    "what": "Whether any of these roles will still exist in five years",
+    "note": "The chapter records what emerged and what was absorbed by August 2026. It has no way to tell which of the emerging categories becomes a durable occupation and which is absorbed in turn. The one honest thing it can do is give the reader the test, which is the last section.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 29,
+    "kind": "chapter",
+    "what": "Emergence outside the United States and Europe",
+    "note": "Almost every measurement here is from United States postings. New role categories usually appear in one market first and spread, but this edition cannot say which of these have spread, how far, or how fast.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 30,
+    "kind": "chapter",
+    "what": "Measured role-to-role transition rates",
+    "note": "Every ladder in this chapter is compiled from what each profile says about how people enter that role. That evidences the direction of the move. It does not evidence the rate. No source found publishes what share of help desk workers reach a security role, or how long the median move takes, or how many never move at all. The chapter says which way the ladders run. It cannot tell you the odds of climbing one.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 30,
+    "kind": "chapter",
+    "what": "Ladders between roles this book does not profile",
+    "note": "These ladders connect the 46 roles in Book B. Appendix D indexes every job title the book can place, which is a much smaller set than the roles that exist. A ladder running through a role the index does not hold is invisible to this chapter, and the method at the end of the chapter is the only tool it can offer for finding it.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 30,
+    "kind": "chapter",
+    "what": "How often the sideways move fails",
+    "note": "The profiles describe how people who arrived in a role arrived. Nobody publishes what happened to the people who took the same first rung and stayed on it. That group is larger than the group described here, and this book cannot size it.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 31,
+    "kind": "chapter",
+    "what": "Independent measurement of what any certificate adds to pay",
+    "note": "Every pay premium in this chapter comes from a party with an interest in the answer: a training body, a sector job site, or people who hold the certificate reporting their own pay. No source found compares certificate holders against matched non-holders doing the same job. So this chapter can rank certificates by who controls access, which is structural and checkable, and cannot rank them by what they pay.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 31,
+    "kind": "chapter",
+    "what": "Saturation figures for certificates other than Salesforce",
+    "note": "The Salesforce case is the one place this book has a measured supply-and-demand ratio. The same mechanism almost certainly operates on other buyable certificates, and this edition has not measured it anywhere else. The reader is given the mechanism and told to check their own market, because that is what the evidence supports.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 31,
+    "kind": "chapter",
+    "what": "Renewal costs for enterprise vendors that do not publish a price",
+    "note": "The ten-year table covers eighteen certificates whose issuers publish their prices. Several large vendors do not, among them ServiceNow, Palo Alto Networks, Splunk, Fortinet, CREST and the gated platforms in category one. Their figures circulate only on aggregator sites, which Chapter 5 grades 4, so they are left out rather than printed at a lower grade. A vendor that will not publish its price is itself telling you something.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 32,
+    "kind": "chapter",
+    "what": "Any timing at all for the argument in this afterword",
+    "note": "The afterword reasons from the structure of why jobs exist, and from what has happened to other kinds of work before. Neither of those is a measurement. It cannot say when a field thins out, or whether this one will, and it says so in its own text rather than in a footnote. By the book's own grading it is the weakest evidence in the book.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "Pay for any named computing role in India",
+    "note": "The national labour survey publishes earnings by occupation group, not by specialisation. Institutional placement medians are reported by the institution being judged. Aggregator sites are grade 4 and excluded everywhere else in this book, so they are excluded here. No source at grade 3 or better gives pay for a named Indian computing role, which leaves the book's largest market with the weakest pay evidence in it.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "The methodology behind the apprenticeship employment figures",
+    "note": "The first edition of this annex said no evaluation existed. It does, and the government reports 72% and 74% employment on completion. This book has read the government's summary rather than the underlying evaluations, and one official wording says apprentices \"reported receiving offers\", which is weaker than a verified placement. The sample, the definition of employment and the timing all need checking before those figures are treated as settled.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "What each employer type pays, relative to the others",
+    "note": "This is now a confirmed absence with a known cause rather than a failed search. Indian law compels a listed company to publish the pay of its median employee, so the services side is measurable. A capability centre is an unlisted private subsidiary and owes no such figure, and its foreign parent can only report a global median. One side of the comparison is required by law and the other cannot exist. Consultancy surveys put the premium at 12% to 20% without publishing a method.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "An India-only pay figure from any of these companies",
+    "note": "Every median in this annex is global. These firms employ heavily outside India and onsite staff earn far more, so each figure is pulled upward by people who do not live here. None of the eight reports read for this edition splits its median by country. That is the single most valuable thing still missing, because it is the difference between a number about an employer and a number about India.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "Why the senior grades look the way they do",
+    "note": "One large employer publishes near parity at junior level and about four men to one woman at senior level, with equal median pay at the bottom. A single year's snapshot cannot separate people leaving from who was hired a decade ago, and both would produce that picture. Nothing found distinguishes them, and guessing would be the exact reasoning error Chapter 5 tells readers to refuse.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "Pay by employer type, still",
+    "note": "The cohort here is eight listed services firms. Their medians span a wide range, and the mid-sized specialists sit well above the largest firms. That is a real finding and it is not the comparison readers want, which remains impossible for the reason given below.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "Product companies and startups, separately from fintech",
+    "note": "Neither headcount nor attrition is published for Indian product-software firms on their own. They are folded in with fintech and e-commerce, which churn at 25% to 28% and pull any combined figure upward. The archetype most often held up as aspirational is the one with no numbers.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 40,
+    "kind": "chapter",
+    "what": "The other fifteen origin markets",
+    "note": "Two country annexes exist, this one and Appendix I for Nigeria. Brazil, the Philippines, Indonesia, Pakistan, Vietnam, Bangladesh, Egypt, Mexico, Kenya, Poland, Ukraine, Turkey, Argentina, Colombia and South Africa need the same treatment and do not have it. Fifteen, not sixteen: this list named Nigeria until August 2026, after Appendix I had already been written.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 41,
+    "kind": "chapter",
+    "what": "Any occupation-level pay figure for computing work in Nigeria",
+    "note": "The national labour force survey is a serious instrument and publishes participation, unemployment, informality and the split between wage and self-employment. It does not publish earnings by occupation, so there is no official figure for what any computing role pays. This was searched for directly and confirmed absent rather than assumed.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 41,
+    "kind": "chapter",
+    "what": "How many Nigerians earn abroad on remote contracts",
+    "note": "This is the single most important economic fact about Nigerian computing careers and nobody has sized it. Remittance flows through licensed operators are published, but they cover everybody sending money home, not developers billing foreign clients.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 41,
+    "kind": "chapter",
+    "what": "Headcount at the fintech companies that dominate the sector",
+    "note": "One telecoms operator discloses its staff numbers, and that is the only clean employer figure in this annex. The fintech firms most graduates want to join publish nothing comparable.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 41,
+    "kind": "chapter",
+    "what": "Emigration volume, and where people go",
+    "note": "Nigeria has no exit-visa system and publishes little emigration data. The route to a real number is visa issuance published by destination countries, and this edition has not compiled it.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
+    "chapter": 42,
+    "kind": "chapter",
+    "what": "Pay for any named computing role in five of these six countries",
+    "note": "Only the Philippines publishes a government wage figure that names a computing occupation. Vietnam publishes wages at the broadest occupation group, where every professional is counted together. Indonesia collapses everything into eight groups and computing disappears inside professionals and technicians. Pakistan, Bangladesh and Egypt publish sector or economy-wide averages only. So for five of the six there is no role-level pay figure at any grade this book accepts, and the aggregate figures printed here must not be read as salaries.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 42,
+    "kind": "chapter",
+    "what": "Whether the export receipts can be turned into a per-person figure",
+    "note": "They cannot, and the temptation is strong enough to state it. Central bank export receipts are the best recorded earnings data these countries have. They are aggregate flows of foreign currency. Dividing one by a headcount would produce a number that looks like average pay and is not, because nobody publishes how many people the receipts belong to.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 42,
+    "kind": "chapter",
+    "what": "Enforcement records for training providers",
+    "note": "No regulator in any of the six publishes a named decision against a training provider for false job-placement claims. That was searched for in the national language in every case and confirmed absent rather than assumed. It is a negative finding about the published record, not proof that no enforcement has ever happened.",
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 42,
+    "kind": "chapter",
+    "what": "A reconciled Egyptian sector wage figure",
+    "note": "The statistics office's information and communication sector wage is quoted at EGP 12,897 a month for 2024 and EGP 19,179 for 2023 in secondary reporting. A sector average that falls by a third in a year needs checking against the original bulletin before either figure is relied on. This edition prints both and trusts neither.",
+    "closeable": "yes"
+  }
+]
