@@ -657,6 +657,14 @@
   },
   {
     "profile": "",
+    "chapter": 9,
+    "kind": "chapter",
+    "what": "How much of software testing employment is manual, and how much is automation",
+    "note": "The Bureau projects software quality assurance analysts and testers as one occupation, growing 10.0% to 2034. That code counts people who test by hand and people who write test automation together, and publishes no split between them. This book argues that purely manual testing is closing as a career while automation work is not, and the occupation figure can neither confirm nor contradict that, because it is their average. No published source separates the two.",
+    "closeable": "yes"
+  },
+  {
+    "profile": "",
     "chapter": 13,
     "kind": "chapter",
     "what": "The size and pay of these jobs outside the United States",

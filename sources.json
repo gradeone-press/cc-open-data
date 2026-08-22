@@ -20,7 +20,7 @@
     "id": "cra-taulbee-2026",
     "title": "CRA Taulbee Survey, 55th edition",
     "publisher": "Computing Research Association",
-    "url": "https://cra.org/cra/resources/taulbee-survey/",
+    "url": "https://cra.org/resources/taulbee-survey/",
     "date": "2026-06",
     "reliability": 2,
     "method": "Voluntary annual survey of PhD-granting computing departments in the United States and Canada. 134 units participated in the 2025 salary round, submitting individual or aggregate department data. Reporting thresholds suppress cells below four units. US salaries are nine-month; Canadian are twelve-month in CAD and are not comparable.",
@@ -223,12 +223,12 @@
     "publisher": "Indeed Hiring Lab",
     "date": "2025-10-10",
     "reliability": 2,
+    "no_url": "A continuously updated tracker rather than a dated report: the series is revised in place and no address identifies the October 2025 reading, checked 2026-08-20.",
     "key_figure": "Down 36.4% vs Feb 1 2020 baseline; down 6.7% YoY",
     "used_in": [
       "ch06",
       "ch09"
     ],
-    "url": "https://www.hiringlab.org/",
     "caveat": "Counts job postings, not jobs. A posting can be duplicated, left up after a role is filled, or never filled at all, and no board publishes what share of its listings end in a hire. The direction is evidence; the level is not."
   },
   {
@@ -1236,9 +1236,9 @@
     "publisher": "Ministry of Education, India",
     "date": "2026-04",
     "reliability": 1,
+    "no_url": "The scheme is administered through a portal whose content sits behind navigation with no per-document address, checked 2026-08-20.",
     "key_figure": "A one-year apprenticeship for graduates and diploma holders, administered through four regional boards. Minimum stipend ₹12,300 a month for graduate apprentices, ₹10,900 for technician (diploma) apprentices and ₹9,600 for technician (vocational) apprentices from April 2026, with the government reimbursing half to the employer. A certificate of proficiency is issued at the end.",
     "caveat": "Outcome evaluations do exist; see india-apprenticeship-outcomes in this file. What remains unverified is the methodology behind the reported employment rates.",
-    "url": "https://nats.education.gov.in/",
     "retrieved": "2026-08-10",
     "used_in": [
       "ch15"
@@ -1694,7 +1694,7 @@
       "ch20",
       "ch24"
     ],
-    "url": "https://www.hiringlab.org/"
+    "url": "https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/"
   },
   {
     "id": "indeed-seniority-2026",
@@ -1707,7 +1707,7 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://www.hiringlab.org/"
+    "url": "https://hiringlab.indeed.com/2026/07/23/the-labor-market-is-tilting-toward-seniority/"
   },
   {
     "id": "indeed-snapshot-2026-06",
@@ -1720,7 +1720,7 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://www.hiringlab.org/"
+    "url": "https://hiringlab.indeed.com/2026/07/23/us-labor-market-snapshot-june-2026/"
   },
   {
     "id": "cyberseek-2026",
@@ -1929,10 +1929,10 @@
     "date": 2026,
     "retrieved": "2026-08-06",
     "reliability": 1,
+    "no_url": "The gov.pl page for this permit was retired: the address now redirects to the portal front page, checked 2026-08-20. The threshold is derived from the Statistics Poland average-wage announcement each year rather than published as a standalone document.",
     "method": "Set at 150% of the average gross monthly wage in the national economy, as announced by Statistics Poland (GUS), recalculated annually.",
     "key_figure": "About PLN 13,355 gross a month for 2026 applications. Contract must run at least one year. IT specialists may qualify on three years of experience instead of a degree, against five years for other fields.",
     "caveat": "This threshold is indexed to the national average wage, so it rises each year rather than falling. Older figures circulate widely — around PLN 11,700 was current a few years ago — so check the year before using one. Published figures differ in the last digit between PLN 13,355.34 and PLN 13,355.84, which is why this record rounds; do not print more precision than the sources agree on.",
-    "url": "https://www.gov.pl/web/gov/uzyskaj-zezwolenie-na-pobyt-czasowy-w-celu-wykonywania-pracy-w-zawodzie-wymagajacym-wysokich-kwalifikacji",
     "used_in": [
       "ch12"
     ]
@@ -1977,7 +1977,7 @@
     "method": "Points table published by the Immigration Services Agency; separate designated-activities statuses for J-Skip and J-Find.",
     "key_figure": "70 points designates a Highly Skilled Professional, with permanent residence in three years, or one year at 80 points. Points come from degree, annual salary, age, Japanese language ability and research output. J-Skip bypasses the table for engineers and researchers earning ¥20 million or more. J-Find allows graduates of highly ranked universities to enter and job-hunt for up to two years.",
     "caveat": "The book previously gave only informal salary guidance of 5 to 7 million yen for junior roles, with no threshold and no source. That guidance is not a rule and has been replaced with the published points bar. J-Find is the entry-level route and the book had not mentioned it.",
-    "url": "https://www.isa.go.jp/en/publications/materials/newimmiact_3_index.html",
+    "url": "https://www.moj.go.jp/isa/content/001398882.pdf",
     "used_in": [
       "ch12"
     ]
@@ -1985,14 +1985,14 @@
   {
     "id": "ae-golden-visa-2026",
     "title": "Golden Visa for skilled professionals",
-    "publisher": "United Arab Emirates Government",
+    "publisher": "Abu Dhabi Department of Economic Development",
     "date": 2026,
-    "retrieved": "2026-08-06",
+    "retrieved": "2026-08-21",
     "reliability": 1,
     "method": "Published eligibility criteria for the ten-year skilled-professional category.",
-    "key_figure": "Ten-year residence requiring a monthly BASIC salary of at least AED 30,000, a bachelor's degree or higher, and an employment contract registered with the labour ministry in skill level 1 or 2. Software engineering sits in level 2.",
-    "caveat": "The basic-versus-gross distinction is the whole point and the book already had it right. Housing, transport and other allowances do not count, so an offer with a headline package above the threshold can still fail. Verified unchanged in August 2026.",
-    "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/long-term-residence-visas-in-the-uae",
+    "key_figure": "Ten-year residence requiring a monthly salary of at least AED 30,000, a bachelor's degree or higher, and an employment contract approved in the UAE, in labour-ministry skill level 1 or 2. Software engineering sits in level 2.",
+    "caveat": "TWO THINGS CHANGED HERE ON 2026-08-21 AND BOTH MATTER. The federal portal page this record used to cite was retired and now 404s, and the page that replaced it lists investor and exceptional-talent categories with no salary band for skilled professionals at all. The threshold is now cited to the Abu Dhabi government, which publishes it plainly; it is an emirate statement of a federal rule, which is a step down from where this record started. Separately, this record previously said BASIC salary and asserted that the basic-versus-gross distinction was the point. The cited page does not say basic. It says \"minimum monthly salary of AED 30,000 or equivalent\". Every source found that specifies basic salary excluding allowances is a visa consultancy, which Chapter 5 grades at 5 and this book does not print. So the qualifier is removed rather than kept on evidence the book would reject from anyone else. A reader near the threshold should assume the stricter reading and ask the employer which figure the contract states.",
+    "url": "https://www.added.gov.ae/en/live/long-term-residency/abu-dhabi-golden-visa/for-specialists/for-skilled-professionals",
     "used_in": [
       "ch12"
     ]
@@ -2113,19 +2113,24 @@
   },
   {
     "id": "bls-employment-projections-2024-2034",
-    "title": "Employment Projections, 2024–2034",
+    "title": "Table 1.2, Occupational projections, 2024–2034, and worker characteristics, 2024",
     "publisher": "U.S. Bureau of Labor Statistics",
-    "date": 2024,
-    "retrieved": "2026-08-08",
+    "date": 2026,
+    "retrieved": "2026-08-22",
     "reliability": 1,
-    "method": "Ten-year occupational projection programme, separate from the OEWS survey. Base-year employment is modelled from several inputs rather than taken from the OEWS estimate, which is why the two disagree. Read from the US Department of Labor's O*NET OnLine republication.",
-    "key_figure": "Software developers: base-year employment 1,693,800 for 2024, with 115,200 job openings projected each year over 2024 to 2034, and growth classed as much faster than average at 7% or higher.",
-    "caveat": "THIS IS A DIFFERENT OCCUPATION FROM THE HEADLINE SERIES, and that is the point of citing it. The Handbook's 15% growth and 129,200 openings cover \"Software Developers, Quality Assurance Analysts, and Testers\" as one occupation. This record is software developers alone, 15-1252.00, and it projects 7% or higher and 115,200. Neither is wrong; they count different populations, and Chapter 9 now prints both because the gap between them is what the chapter is about. An outside review on 2026-08-14 found the book carrying both figures without reconciling them — the exact reading error Chapter 9 exists to teach, made inside Chapter 9. A projection is not a measurement. Projected openings combine growth with replacement of people who leave the occupation, so most of the annual figure is churn rather than new jobs. The 1,693,800 base-year count is from a different BLS programme than the 1,687,890 OEWS estimate and the two must not be presented as rival versions of one number.",
+    "method": "The Employment Projections programme's detailed occupation table, read from the published workbook rather than from any republication of it. Separate from the OEWS survey: base-year employment is modelled from several inputs rather than taken from the OEWS estimate, which is why the two disagree.",
+    "key_figure": "Software developers, SOC 15-1252: employment 1,693,800 in 2024 rising to 1,961,400 in 2034, a change of 267,700 and 15.8 percent, with 115,200 occupational openings a year and a median annual wage of $133,080. Software quality assurance analysts and testers, SOC 15-1253: employment 201,700 rising to 221,900, a change of 20,200 and 10.0 percent, with 14,000 openings a year and a median annual wage of $102,610.",
+    "caveat": "THE TWO ROWS SUM TO THE HEADLINE, WHICH IS HOW THE BUNDLE CAN BE TAKEN APART. Their 2024 employment adds to 1,895,500 and their annual openings to 129,200, which is exactly the figure the Occupational Outlook Handbook publishes for \"Software Developers, Quality Assurance Analysts, and Testers\" as one occupation, at 15 percent growth. So the published bundle is these two occupations and nothing else. THIS RECORD REPLACED A WRONG ONE ON 2026-08-22, and the error is worth keeping in view. The previous version cited O*NET OnLine, which reports projected growth as a BAND rather than a number, and its page for this occupation reads \"Much faster than average (7% or higher)\". That band floor was recorded as though it were the occupation's growth rate, so the book printed 7 percent for software developers against 15 percent for the bundle, and concluded the headline overstated developers. The truth is the reverse: developers grow at 15.8 percent, faster than the bundle, and it is quality assurance and testing at 10.0 percent that the headline flatters. The record was also graded 1 and attributed to the Bureau while citing a republication, which is two further faults in one entry. A projection is not a measurement. Projected openings combine growth with replacement of people who leave the occupation, so most of the annual figure is churn rather than new jobs. The 1,693,800 base-year count is from a different BLS programme than the 1,687,890 OEWS estimate and the two must not be presented as rival versions of one number.",
+    "distinct_from": {
+      "oews-2025": "Two different BLS programmes measuring two different things, and the book prints both on purpose. The shared digits are the SOC codes 15-1252 and 15-1253 and the number 15, not a shared measurement. OEWS is a survey of what employers currently pay and employ; this is a ten-year projection whose base-year employment is modelled rather than surveyed, which is why 1,693,800 here and 1,687,890 there are both correct and must never be presented as rival versions of one figure."
+    },
     "used_in": [
       "ch09",
-      "ch13"
+      "ch13",
+      "ch34",
+      "ch38"
     ],
-    "url": "https://www.onetonline.org/link/summary/15-1252.00"
+    "no_url": "bls.gov returns 403 to automated requests, so this workbook cannot be fetched programmatically and no stable link is offered in place of one that cannot be checked the way the book asks readers to check. It is Table 1.2 of the 2024-34 Employment Projections, published at bls.gov/emp under Occupational projections, and it downloads as occupation.xlsx. Retrieved by hand on 2026-08-22."
   },
   {
     "id": "nyfed-college-labor-market",
@@ -2150,13 +2155,13 @@
     "date": 2026,
     "retrieved": "2026-08-08",
     "reliability": 4,
+    "no_url": "The page was read on 2026-08-08 and has since been removed; the address now returns 404, checked 2026-08-20. The record is kept because the point of citing it is that a well-ranked page carried impossible figures, and that a page can vanish is part of why Chapter 5 grades this tier last.",
     "method": "Encountered as the leading search result while trying to reach the BLS figures during compilation of this edition, 2026-08-08. Recorded as a documented error, never used as data.",
     "key_figure": "The page attributes to BLS OEWS May 2025 a software developer median of $132,684 and employment of 1,225,060, against the published $135,980 and 1,687,890. It also prints a 10th-to-90th percentile range of $138,420 to $289,150, placing its own stated 10th percentile of $138,420 above its own stated median of $132,684, which is arithmetically impossible.",
     "caveat": "One page on one date. It is cited as a worked example of what a reader meets when the primary source is hard to retrieve, not as evidence about the wider quality of secondary salary sites. Pass 12 documents four more of the same shape, including a widely-read page attributing May 2023 figures to May 2024.",
     "used_in": [
       "ch13"
     ],
-    "url": "https://www.salarytruth.org/salary/software-developer",
     "distinct_from": {
       "oews-2025": "Shares the figures 10, 90 and 135980 with the OEWS record because it quotes the percentile labels and the correct median in order to contrast them with the wrong ones. It is the error, not the source."
     }
@@ -2321,7 +2326,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch09",
-      "ch23"
+      "ch23",
+      "ch38"
     ],
     "caveat": "A projection, not a measurement. It models a decade ahead from assumptions the publisher states, and Chapter 6 explains why a projection cannot be checked the way a count can. The annual openings figure combines growth with replacing people who leave, so most of it is churn rather than new jobs."
   },
@@ -2649,13 +2655,13 @@
     "date": "2026-06-28",
     "retrieved": "2026-08-07",
     "reliability": 1,
+    "no_url": "The central bank issues these as dated press releases that are rotated off the site; no stable locator remained for the March 2024 announcement, checked 2026-08-20.",
     "method": "The central bank's own special monetary policy statement for the float. The export figures are agency statements made at a public summit.",
     "key_figure": "On 6 March 2024 the Central Bank of Egypt announced the exchange rate would be set by market forces and raised rates by 600 basis points. The pound moved from about 30.9 to the dollar to a record of about 50.6 the same day. Residents may hold foreign-currency bank accounts, and inbound foreign currency is converted to pounds only if it lands in a pound account. No bespoke freelancer foreign-exchange scheme and no export-board registration requirement was located. The technology agency reports US$5.2 billion of digital-services offshoring revenue for 2025 and 850,000 active digital freelancers, and targets US$6 billion for 2026.",
     "caveat": "MIXED GRADES IN ONE RECORD, deliberately. The float and the account rules are central-bank facts and are grade 1. The US$5.2 billion and the 850,000 are agency-reported by the body that promotes the sector, and the US$6 billion is an explicit TARGET rather than an achieved figure — it must never be printed as one. The absence of a freelancer scheme is a negative finding after searching in Arabic, not a proven absence.",
     "used_in": [
       "ch42"
-    ],
-    "url": "https://www.cbe.org.eg/"
+    ]
   },
   {
     "id": "vn-training-bond",
@@ -2742,10 +2748,10 @@
     "publisher": "Government research institute, for the Polish science ministry",
     "date": 2026,
     "reliability": 2,
+    "no_url": "ELA publishes through an interactive portal; a query result has no durable address and the front page is the only stable locator, checked 2026-08-20.",
     "method": "Administrative linkage of higher-education records to social-insurance records, covering graduates rather than a survey sample. Reports per institution and per field of study, including the time a graduate took to find salaried employment.",
     "key_figure": "The system publishes time to salaried employment, in months, by field of study. Computing is one of the named fields. No national computing figure has been read from it for this edition.",
     "caveat": "Established, not read. This book has confirmed what the system publishes and how it is built; it has not opened the reports or extracted a figure, which is why this sits at grade 2 while the underlying instrument is grade 1. Two further limits matter for computing specifically. It measures time to SALARIED employment only, and self-employment and business-to- business contracting are excluded — both are common in Polish technology work, so the measure sees less of that market than of others. And a field of study is not an occupation.",
-    "url": "https://ela.nauka.gov.pl",
     "retrieved": "2026-08-14",
     "used_in": [
       "ch18",
@@ -2829,7 +2835,7 @@
       "ch07",
       "ch15"
     ],
-    "url": "https://cirr.org/"
+    "url": "https://www.cirr.org/our-standards"
   },
   {
     "id": "app-academy-outcomes-course-report",
