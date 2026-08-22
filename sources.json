@@ -2105,7 +2105,7 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://www.onetonline.org/link/localwages/15-1252.00",
+    "no_url": "The figures were read from the publisher's own bulk release, national_M2025_dl.xlsx, and bls.gov returns 403 to automated requests so that file cannot be linked in a way a reader could check the way this book asks. This record previously carried an O*NET link, which locates the occupation but not the release these numbers were read from: a locator that points somewhere other than where the data came from is the fault corrected in bls-employment-projections-2024-2034 on 2026-08-22, found again here by the audit that followed it. Downloadable from bls.gov/oes under the May 2025 national release.",
     "distinct_from": {
       "india-infosys-seniority-bands": "Shares 10, 11 and 25 by coincidence. Those are percentile labels and lakh figures respectively. One record is an American establishment survey; the other is one Indian company's disclosure.",
       "onet-soc-computing-2026": "Shares 1211, 1299 and 15 because both use the same Standard Occupational Classification, so the code fragments necessarily match. They are different documents: that record is the occupational taxonomy, this one is the wage and employment survey reported against it."
