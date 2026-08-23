@@ -1,0 +1,35 @@
+#!/bin/sh
+# Refuse a commit that would stamp a local timezone onto public history.
+#
+# WHY THIS EXISTS
+#
+# This book is published anonymously. A commit records the author's UTC offset,
+# and an offset is a location: +0530 narrows it to India or Sri Lanka, on a book
+# that carries an India annex. Every commit is public the moment it is pushed.
+#
+# Seventeen commits across the three repositories carried +0530. They had been
+# normalised to UTC once already, by hand, and the offset came back the next
+# time somebody committed — because nothing enforced it. A fix applied once and
+# not made structural is a fix with an expiry date, which is the failure this
+# project keeps writing down.
+#
+# So this refuses rather than corrects. A hook cannot set the committer date for
+# the commit that is running it, and a hook that silently rewrote what you asked
+# for would be worse than one that stops.
+#
+#     TZ=UTC git commit -m "..."
+#
+# Installed by pointing core.hooksPath at the directory holding this file.
+offset=$(date +%z)
+if [ "$offset" != "+0000" ]; then
+    echo "pre-commit: refusing to commit at UTC offset $offset." >&2
+    echo >&2
+    echo "  A commit timestamp carries your timezone, a timezone is a location," >&2
+    echo "  and this book is published under no name. Commit in UTC:" >&2
+    echo >&2
+    echo "      TZ=UTC git commit -m \"...\"" >&2
+    echo >&2
+    echo "  To check what is already in history:" >&2
+    echo "      git log --format='%ad' | grep -v '+0000'" >&2
+    exit 1
+fi

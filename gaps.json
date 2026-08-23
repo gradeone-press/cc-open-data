@@ -661,7 +661,7 @@
     "kind": "chapter",
     "what": "How much of software testing employment is manual, and how much is automation",
     "note": "The Bureau projects software quality assurance analysts and testers as one occupation, growing 10.0% to 2034. That code counts people who test by hand and people who write test automation together, and publishes no split between them. This book argues that purely manual testing is closing as a career while automation work is not, and the occupation figure can neither confirm nor contradict that, because it is their average. No published source separates the two.",
-    "closeable": "yes"
+    "closeable": ""
   },
   {
     "profile": "",
@@ -709,7 +709,7 @@
     "kind": "chapter",
     "what": "What happens to people who start a route and stop",
     "note": "Every figure in this chapter describes people who finished something. No published source follows the person who left a degree in year two, or stopped a certificate ladder after the first exam. That group is large and it is invisible, and it is exactly the group a reader is trying not to join.",
-    "closeable": "yes"
+    "closeable": ""
   },
   {
     "profile": "",
@@ -757,7 +757,7 @@
     "kind": "chapter",
     "what": "How long each stage of the sequence actually takes",
     "note": "The timings in this chapter are read off the 46 profiles in Book B and the gates described in Chapter 25. They are not measured. Nobody publishes time-to-first-job for almost any computing field, which is why 35 of the 46 profiles declare an entry-time gap. The stage lengths here are therefore the book's own reading of its own data, and they are stated as rough on purpose. Treat them as an order of magnitude.",
-    "closeable": "yes"
+    "closeable": ""
   },
   {
     "profile": "",
@@ -765,7 +765,7 @@
     "kind": "chapter",
     "what": "Any test of whether this book's framework actually picks well",
     "note": "The ten dimensions have never been scored against an outcome. No cohort was followed, no retrodiction was run, and no prediction was scored. The obvious test is to apply the framework as of 2015 and check its picks against 2026, and this edition did not run it, because whoever ran it would already know how 2026 turned out and would be marking their own homework with the answers in front of them. Nor can the claim be tested against published data: it would need somebody to follow two groups of entrants for five years, and no such study exists or is being funded. The chapter says so, and registers five dated checks on the market machinery instead — two that could go wrong and three that probably will not, labelled as such, with a rule forbidding the easy three from averaging out a failure in the other two. Until somebody runs the cohort study, the framework is a well-organised argument rather than a tested instrument, and the book should be read as one.",
-    "closeable": "yes"
+    "closeable": ""
   },
   {
     "profile": "",
@@ -877,7 +877,15 @@
     "kind": "chapter",
     "what": "Any timing at all for the argument in this afterword",
     "note": "The afterword reasons from the structure of why jobs exist, and from what has happened to other kinds of work before. Neither of those is a measurement. It cannot say when a field thins out, or whether this one will, and it says so in its own text rather than in a footnote. By the book's own grading it is the weakest evidence in the book.",
-    "closeable": "yes"
+    "closeable": ""
+  },
+  {
+    "profile": "",
+    "chapter": 32,
+    "kind": "chapter",
+    "what": "Whether cheaper computing thins this field out or enlarges it",
+    "note": "The afterword's mechanism is observed at the level of a single role, in Chapter 29, and the step from there to the whole field is an extrapolation of exactly the kind Chapter 4 warns about. The same chapter records four kinds of work that appeared over the same two years. The obvious reply to the afterword is that each previous round of computing getting cheaper was followed by more computing work rather than less, and this book has no measurement that settles it either way. So the afterword argues its side and prints the reply beside it rather than deciding between them.",
+    "closeable": ""
   },
   {
     "profile": "",

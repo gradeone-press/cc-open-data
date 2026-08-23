@@ -10,7 +10,7 @@ Licensed **CC BY 4.0**. See `LICENCE.txt`.
 | File | Rows | What it holds |
 |---|---|---|
 | `sources.csv` / `.json` | 200 | Every source the book used, graded, dated, with what it cannot tell you |
-| `gaps.csv` / `.json` | 137 | Every question the book could not answer at the grade it requires |
+| `gaps.csv` / `.json` | 138 | Every question the book could not answer at the grade it requires |
 
 **`sources.csv`** carries, for each source: the grade it earns under the book's
 five-grade hierarchy, the date it was published, the date it was read, a
@@ -19,8 +19,8 @@ caveat. 75 of the 200 are grade 1.
 
 **`gaps.csv`** carries, for each gap: the role and chapter it belongs to, what
 is missing, why, and whether it is *closeable* — meaning a published source
-exists and nobody has compiled it. 27 are closeable. Of the 137,
-88 come from the career profiles and 49 are declared
+exists and nobody has compiled it. 22 are closeable. Of the 138,
+88 come from the career profiles and 50 are declared
 by the chapters themselves.
 
 ## The grades
