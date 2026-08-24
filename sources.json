@@ -14,7 +14,8 @@
     "distinct_from": {
       "stanford-canaries": "Coincidence on the ages 22 and 25 and the number 20. One counts advertised faculty searches, the other is a payroll panel of millions of workers.",
       "iso26262-pay-2026": "Coincidence on small counts. One counts faculty searches, the other is automotive functional-safety pay."
-    }
+    },
+    "grade": 2
   },
   {
     "id": "cra-taulbee-2026",
@@ -29,7 +30,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch27"
-    ]
+    ],
+    "grade": 2
   },
   {
     "id": "ukri-stipend-2026",
@@ -43,7 +45,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch27"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "tvl-e13-2026",
@@ -57,7 +60,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch27"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "phd-stipends-intl-2026",
@@ -72,7 +76,8 @@
     ],
     "distinct_from": {
       "cfpb-bloomtech-2024": "Coincidence on 30000 and 50000, which are a stipend and an income-share trigger. Unrelated documents in unrelated countries."
-    }
+    },
+    "grade": 4
   },
   {
     "id": "ai-brain-drain-2026",
@@ -85,7 +90,8 @@
     "used_in": [
       "ch27"
     ],
-    "no_url": "Several academic papers and press reports read together. No single document carries the claim."
+    "no_url": "Several academic papers and press reports read together. No single document carries the claim.",
+    "grade": 2
   },
   {
     "id": "ai-research-pay-2026",
@@ -97,7 +103,8 @@
     "caveat": "Recruiter content describing the most visible employers during a hiring race. The very high figures apply to a few hundred people worldwide, not to research scientists generally.",
     "used_in": [
       "ch27"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "cert-ten-year-costs-2026",
@@ -116,7 +123,8 @@
     "distinct_from": {
       "compbiojobs-market-2026": "Shares the digits 1, 2 and 80 by coincidence. That record counts bioinformatics job postings; this one lists certification exam fees. No figure means the same thing in both.",
       "quant-total-comp-industry-2026": "Shares 1, 300 and 600 by coincidence. That record covers total compensation in quantitative finance; here 300 and 600 are the Cisco CCNA exam fee and the Google Cloud ten-year total."
-    }
+    },
+    "grade": 1
   },
   {
     "id": "cert-employer-gated-platforms",
@@ -131,7 +139,8 @@
     "used_in": [
       "ch31"
     ],
-    "no_url": "Read from each vendor's certification pages during pass 13. Three publish terms without a stable public URL for the quoted sentence; the fourth publishes nothing, which is the record's point."
+    "no_url": "Read from each vendor's certification pages during pass 13. Three publish terms without a stable public URL for the quoted sentence; the fourth publishes nothing, which is the record's point.",
+    "grade": 1
   },
   {
     "id": "cert-no-individual-credential",
@@ -146,7 +155,8 @@
     "used_in": [
       "ch31"
     ],
-    "no_url": "Read from the certifying bodies' programme pages during pass 13. The quoted experience-deferral wording is from the functional-safety programme's own FAQ."
+    "no_url": "Read from the certifying bodies' programme pages during pass 13. The quoted experience-deferral wording is from the functional-safety programme's own FAQ.",
+    "grade": 1
   },
   {
     "id": "stanford-canaries",
@@ -173,7 +183,8 @@
       "ch06",
       "ch09",
       "ch10"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "stanford-canaries-timing-2026",
@@ -195,7 +206,8 @@
       "ch06",
       "ch09",
       "ch10"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "eig-looking-for-the-ladder-2026",
@@ -215,7 +227,8 @@
     "used_in": [
       "ch06",
       "ch20"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "indeed-hiring-lab-2025-10",
@@ -229,7 +242,8 @@
       "ch06",
       "ch09"
     ],
-    "caveat": "Counts job postings, not jobs. A posting can be duplicated, left up after a role is filled, or never filled at all, and no board publishes what share of its listings end in a hire. The direction is evidence; the level is not."
+    "caveat": "Counts job postings, not jobs. A posting can be duplicated, left up after a role is filled, or never filled at all, and no board publishes what share of its listings end in a hire. The direction is evidence; the level is not.",
+    "grade": 2
   },
   {
     "id": "wapman-nature-2022",
@@ -250,7 +264,8 @@
     "used_in": [
       "ch27"
     ],
-    "caveat": "United States faculty only, and a snapshot of who currently holds posts rather than of who is hired now. It describes the hierarchy that exists, not the odds facing a particular applicant today."
+    "caveat": "United States faculty only, and a snapshot of who currently holds posts rather than of who is hired now. It describes the hierarchy that exists, not the odds facing a particular applicant today.",
+    "grade": 1
   },
   {
     "id": "cgs-phd-completion",
@@ -264,7 +279,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch27"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "isc2-workforce-2025",
@@ -280,7 +296,8 @@
       "ch04",
       "ch20",
       "ch25"
-    ]
+    ],
+    "grade": 2
   },
   {
     "id": "isc2-workforce-2024",
@@ -293,7 +310,8 @@
     "used_in": [
       "ch04"
     ],
-    "caveat": "Published by a body that sells security certifications, so it has a direct interest in a large stated workforce gap. This is the 2024 edition and the figure was withdrawn in 2025; it is kept because the book uses it as a worked example of a claim to distrust rather than as evidence about the workforce."
+    "caveat": "Published by a body that sells security certifications, so it has a direct interest in a large stated workforce gap. This is the 2024 edition and the figure was withdrawn in 2025; it is kept because the book uses it as a worked example of a claim to distrust rather than as evidence about the workforce.",
+    "grade": 2
   },
   {
     "id": "signalfire-2026",
@@ -307,7 +325,8 @@
     "used_in": [
       "ch09"
     ],
-    "no_url": "The firm publishes the report behind a contact form and states no method. There is no stable public document to link."
+    "no_url": "The firm publishes the report behind a contact form and states no method. There is no stable public document to link.",
+    "grade": 2
   },
   {
     "id": "reuters-cobol-2017",
@@ -320,7 +339,8 @@
     "used_in": [
       "ch04",
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "10k-salesforce-ecosystem",
@@ -341,7 +361,8 @@
     "url": "https://www.salesforceben.com/the-state-of-the-salesforce-job-market-in-2025-26-according-to-the-10k-report/",
     "distinct_from": {
       "sap-india-pay-2026": "Coincidence on single-digit growth percentages. Different platform, different market, different publisher."
-    }
+    },
+    "grade": 2
   },
   {
     "id": "lemonio-rates-2026",
@@ -358,7 +379,8 @@
       "ch24",
       "ch28"
     ],
-    "no_url": "Rates are shown inside a live marketplace calculator rather than in a document, so any link would show a different number to a later reader."
+    "no_url": "Rates are shown inside a live marketplace calculator rather than in a document, so any link would show a different number to a later reader.",
+    "grade": 3
   },
   {
     "id": "howdy-latam-payroll-2026",
@@ -375,7 +397,8 @@
       "ch28"
     ],
     "no_url": "Payroll aggregates published as marketing collateral behind a form, not as a stable document.",
-    "caveat": "Published by a company that places LATAM developers with foreign employers, so it has an interest in the rates it reports. It is an average across a whole region and several countries, which hides more than it shows, and it describes contract placements rather than local employment."
+    "caveat": "Published by a company that places LATAM developers with foreign employers, so it has an interest in the rates it reports. It is an average across a whole region and several countries, which hides more than it shows, and it describes contract placements rather than local employment.",
+    "grade": 3
   },
   {
     "id": "ravio-entry-level-2026",
@@ -388,7 +411,8 @@
     "used_in": [
       "ch09"
     ],
-    "no_url": "Benchmarking output published to customers and summarised in press coverage. No public document."
+    "no_url": "Benchmarking output published to customers and summarised in press coverage. No public document.",
+    "grade": 3
   },
   {
     "id": "eu-junior-postings-2026",
@@ -400,7 +424,8 @@
     "caveat": "Recruiters describing the market they sell into, and the 2026 figure is a projection rather than a measurement. Quoted here for direction only, and the book says so in the text.",
     "used_in": [
       "ch09"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "india-services-hiring-2026",
@@ -414,7 +439,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch09"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ats-applications-per-opening-2026",
@@ -427,7 +453,8 @@
     "used_in": [
       "ch11"
     ],
-    "no_url": "The vendor's figures reached this book through press coverage rather than a published report. Recorded as 'as reported' for that reason."
+    "no_url": "The vendor's figures reached this book through press coverage rather than a published report. Recorded as 'as reported' for that reason.",
+    "grade": 4
   },
   {
     "id": "applications-roundup-claims-2026",
@@ -439,7 +466,8 @@
     "caveat": "Aggregated by content sites without stated methods, and frequently circular, with each site citing another. Cited in Ch 9 only to show what the weaker figures look like beside a measured one.",
     "used_in": [
       "ch11"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "interview-practice-2026",
@@ -451,7 +479,8 @@
     "caveat": "Mostly written by companies selling interview tooling or coaching, which is grade 5 in motive. Graded 4 because the same pattern appears independently across unrelated publishers and matches what candidates report. Ch 9 states plainly that it is describing patterns, not measures.",
     "used_in": [
       "ch11"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "training-provider-enforcement-vacuum",
@@ -466,7 +495,8 @@
     "used_in": [
       "ch19"
     ],
-    "no_url": "The finding is the absence of a document. It is reproduced by searching each regulator's own domain, which pass 14 and pass 15 name individually."
+    "no_url": "The finding is the absence of a document. It is reproduced by searching each regulator's own domain, which pass 14 and pass 15 name individually.",
+    "grade": 1
   },
   {
     "id": "pk-computing-admission-rules",
@@ -481,7 +511,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from the university's admissions pages and the regulator's numbered regulations during pass 15. The regulation numbers are given in full so the documents can be requested directly, which is more durable than an admissions URL that moves every intake."
+    "no_url": "Read from the university's admissions pages and the regulator's numbered regulations during pass 15. The regulation numbers are given in full so the documents can be requested directly, which is more durable than an admissions URL that moves every intake.",
+    "grade": 1
   },
   {
     "id": "bd-buet-admission-subjects",
@@ -496,7 +527,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from the university's own admission circular during pass 15. The circular is reissued each intake at a new address, so a link would point at a superseded document within a year."
+    "no_url": "Read from the university's own admission circular during pass 15. The circular is reissued each intake at a new address, so a link would point at a superseded document within a year.",
+    "grade": 1
   },
   {
     "id": "eg-thanaweya-amma-computing-admission",
@@ -511,7 +543,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from ministry coordination reporting in Arabic during pass 15. The placement office publishes cut-offs per cycle rather than as a standing document."
+    "no_url": "Read from ministry coordination reporting in Arabic during pass 15. The placement office publishes cut-offs per cycle rather than as a standing document.",
+    "grade": 1
   },
   {
     "id": "ph-shs-strand-and-college-entry",
@@ -526,7 +559,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from the two numbered issuances during pass 14. Both are cited by number so they can be retrieved from the issuing body directly."
+    "no_url": "Read from the two numbered issuances during pass 14. Both are cited by number so they can be retrieved from the issuing body directly.",
+    "grade": 1
   },
   {
     "id": "id-kurikulum-merdeka-stream-abolition",
@@ -541,7 +575,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from the numbered ministry regulation and the institute's admission guidance during pass 14, in Bahasa Indonesia."
+    "no_url": "Read from the numbered ministry regulation and the institute's admission guidance during pass 14, in Bahasa Indonesia.",
+    "grade": 1
   },
   {
     "id": "vn-thpt-subject-combinations",
@@ -556,7 +591,8 @@
     "used_in": [
       "ch14"
     ],
-    "no_url": "Read from university admission schemes during pass 14, in Vietnamese. Each university publishes its own scheme annually at its own address."
+    "no_url": "Read from university admission schemes during pass 14, in Vietnamese. Each university publishes its own scheme annually at its own address.",
+    "grade": 1
   },
   {
     "id": "india-jee-subject-eligibility",
@@ -569,7 +605,8 @@
     "gap": true,
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "india-science-stream-volume",
@@ -582,7 +619,8 @@
     "gap": true,
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "germany-dual-ausbildung",
@@ -595,7 +633,8 @@
     "used_in": [
       "ch14",
       "ch15"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "college-board-ap-cs",
@@ -607,7 +646,8 @@
     "caveat": "Published by the body that sells the exams. The course descriptions are a verifiable fact about the product; any claim about what either is worth in admissions is not.",
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "us-transfer-and-early-credit",
@@ -620,7 +660,8 @@
     "gap": true,
     "used_in": [
       "ch15"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "graduate-earnings-by-course",
@@ -638,7 +679,8 @@
       "ch07",
       "ch14",
       "ch15"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "dol-lca-epic-systems-2026",
@@ -652,6 +694,7 @@
     "note": "Partial win. This is a real Tier 3 anchor and it tells us the vendor side of the market. The hospital side stays unsourced - see the gap note on the pay dimension.",
     "no_url": "Filed disclosure data, read through a third-party viewer. The underlying quarterly files are bulk downloads from the Department of Labor, not per-employer pages.",
     "caveat": "Covers Epic Systems' OWN staff in Wisconsin, not the hospital analysts most of this profile is about. Sponsored roles only, and an offered wage is not an accepted one. It is a real grade-3 anchor for the vendor side of the market and says nothing about the customer side.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -665,6 +708,7 @@
     "key_figure": "Entry $55-70k, mid $70-90k, senior/expert $90-155k (US)",
     "caveat": "Self-reported, field-mixed, likely inflated at the top of the range.",
     "replace_with": "H-1B/LCA disclosure filings for 'Epic' / 'clinical systems analyst' job titles at named hospital systems. Public, employer-attested, Tier 3. This is the single highest-value research task for this profile.",
+    "grade": 4,
     "used_in": [
       "ch25"
     ]
@@ -679,6 +723,7 @@
     "note": "The sponsorship rule is vendor policy and is well documented. The 25-30% pay rise figure is weaker than the policy claim - split these before ship.",
     "no_url": "The vendor's training material is available only to staff of customer organisations. That restriction is itself the finding in Chapter 25.",
     "caveat": "Two claims of very different strength in one record. The sponsorship rule is vendor policy, stated by the vendor, and is solid. The 25-30% pay rise is self-reported by people who took the training, so it carries the selection bias Chapter 4 describes: those who paid the cost and stayed are the ones answering. A rise is also not a level.",
+    "grade": 2,
     "used_in": [
       "ch25"
     ]
@@ -691,6 +736,7 @@
     "reliability": 4,
     "key_figure": "~40,000+ postings",
     "caveat": "Platform-specific. Postings are not openings. One opening can generate several postings.",
+    "grade": 4,
     "used_in": [
       "ch25"
     ]
@@ -703,6 +749,7 @@
     "reliability": 4,
     "key_figure": "18% YoY growth in remote Epic roles",
     "caveat": "Single source, no published method, staffing-firm origin. Ch 5 teaches readers to distrust exactly this. Either upgrade or cut.",
+    "grade": 4,
     "used_in": [
       "ch25"
     ]
@@ -715,6 +762,7 @@
     "reliability": 4,
     "key_figure": "$80-100/hr billing",
     "caveat": "Billing rate, not earnings. Vendor-adjacent source.",
+    "grade": 4,
     "used_in": [
       "ch25"
     ]
@@ -730,7 +778,8 @@
     "used_in": [
       "ch05",
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "compbiojobs-market-2026",
@@ -743,7 +792,8 @@
     "used_in": [
       "ch26"
     ],
-    "no_url": "A job board's own posting counts, read from the live board. The count changes daily and a link would not reproduce it."
+    "no_url": "A job board's own posting counts, read from the live board. The count changes daily and a link would not reproduce it.",
+    "grade": 3
   },
   {
     "id": "bioinformatics-pay-2026",
@@ -755,7 +805,8 @@
     "caveat": "Posting-derived and skewed towards well-funded American biotech. Academic and non-US bioinformatics pay is far lower and is not in these figures.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "qedc-quantum-workforce-2026",
@@ -771,7 +822,8 @@
       "ch04",
       "ch26"
     ],
-    "url": "https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report/"
+    "url": "https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report/",
+    "grade": 2
   },
   {
     "id": "quantum-projection-2035",
@@ -783,7 +835,8 @@
     "caveat": "A forward projection published by a sector media company whose audience is the sector. Chapter 6 explains why a projection is not a measurement. Set it beside the 16,500 people who exist today and decide for yourself.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "geospatial-market-2026",
@@ -795,7 +848,8 @@
     "caveat": "Published by training providers and a niche job board, so grade 5 in motive. The gap between the analyst and engineer figures is the useful part, not the figures themselves.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "cheminformatics-pay-2026",
@@ -807,7 +861,8 @@
     "caveat": "Aggregator pay. The posting counts are more interesting than the salary: a national market this small is the actual finding.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "robotics-pay-2026",
@@ -819,7 +874,8 @@
     "caveat": "The humanoid figures come from a staffing firm during a funding boom in that specific niche. Treat them as a snapshot of one moment, not a level.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "legal-tech-claims-2026",
@@ -831,7 +887,8 @@
     "caveat": "Nearly all of this traces to sites that sell courses or recruit. The percentage rise has no stated base. This book cites the field as an example of coverage running far ahead of measurement.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "agritech-pay-2026",
@@ -843,7 +900,8 @@
     "caveat": "See ziprecruiter-generic-fallback. The precision agriculture figure should not be used at all, and the reason it should not be used is worth more than the figure would have been.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "climate-grid-pay-2026",
@@ -855,7 +913,8 @@
     "caveat": "See ziprecruiter-generic-fallback. The posting band is real; the average is not specific to the field.",
     "used_in": [
       "ch26"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "sap-germany-pay-2026",
@@ -867,7 +926,8 @@
     "caveat": "Market compilation without a published method. German language is often required and this is not priced separately.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "sap-india-pay-2026",
@@ -879,7 +939,8 @@
     "caveat": "Recruiter-sourced. The S/4HANA premium is real and widely reported; the exact bands are not measured.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "sap-offshore-rates-2026",
@@ -892,7 +953,8 @@
     "used_in": [
       "ch25",
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "cobol-pay-us-2026",
@@ -904,7 +966,8 @@
     "caveat": "Three aggregators disagreeing by nearly $30,000 on the same job title is itself the finding. Treat the $80k-$125k band as directional and the individual figures as unreliable.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "swift-iso20022-nov2026",
@@ -919,7 +982,8 @@
     "retrieved_via": "publisher",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "iso20022-pay-us-2026",
@@ -931,7 +995,8 @@
     "caveat": "Keyword-matched postings, not a role. It mixes testers, analysts and engineers, which is why the band is so wide and so low against the seniority the work actually needs.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "guidewire-pay-us-2026",
@@ -943,7 +1008,8 @@
     "caveat": "A $40,000 disagreement on one job title. See Ch 5 on aggregators. The direction, well above generalist development, is consistent across all three.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "insurance-workforce-deficit",
@@ -955,7 +1021,8 @@
     "caveat": "Repeated everywhere and traceable nowhere in the form quoted. This book cites it as an example of a claim to distrust, in the manner of Ch 4. The tightness is real; the number is not evidence.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "do178-pay-us-2026",
@@ -967,7 +1034,8 @@
     "caveat": "The two figures measure different jobs under similar titles. Postings mentioning DO-178 skew senior; the avionics engineer figure does not.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "clearance-premium-2026",
@@ -979,7 +1047,8 @@
     "caveat": "Self-reported data from a cleared jobs board, so the population is people who already hold clearances. It cannot tell you what clearance causes, only what cleared people earn. Ch 5, comparison trap 3.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "automotive-supply-gap-2026",
@@ -991,7 +1060,8 @@
     "caveat": "A staffing firm publishing a shortage number about the roles it is paid to fill. Ch 5, grade 5 territory in motive if not in method. Directional only.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "iso26262-pay-2026",
@@ -1003,7 +1073,8 @@
     "caveat": "Aggregators throughout. The India figure comes from a small self-reported sample.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "iec62304-ed2-2026",
@@ -1016,7 +1087,8 @@
     "used_in": [
       "ch25"
     ],
-    "no_url": "The standard is sold, not published. Its scope and dates come from the standards body's catalogue entry and from commission notices."
+    "no_url": "The standard is sold, not published. Its scope and dates come from the standards body's catalogue entry and from commission notices.",
+    "grade": 2
   },
   {
     "id": "cra-nis2-deadlines",
@@ -1030,7 +1102,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ot-security-pay-2026",
@@ -1042,7 +1115,8 @@
     "caveat": "The certification premiums come from training-adjacent publishers, which is grade 5 in motive. The gap between the two PLC figures is the usual title problem: one counts controls technicians, the other counts engineers.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "telecom-oss-pay-2026",
@@ -1054,7 +1128,8 @@
     "caveat": "The senior architect figure comes from a staffing firm describing a population it estimates at a few dozen firms nationally. Treat it as a description of scarcity, not a salary you can plan on.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "govt-it-pay-us-2026",
@@ -1067,7 +1142,8 @@
     "used_in": [
       "ch25"
     ],
-    "no_url": "A salary aggregator's live pages. Chapter 5 grades these 4 and this book does not link to them, because sending a reader to a site it has told them to distrust works against the text."
+    "no_url": "A salary aggregator's live pages. Chapter 5 grades these 4 and this book does not link to them, because sending a reader to a site it has told them to distrust works against the text.",
+    "grade": 4
   },
   {
     "id": "us-federal-pay-schedule-2026",
@@ -1082,7 +1158,8 @@
     "url": "https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "govt-legacy-demand-2026",
@@ -1094,7 +1171,8 @@
     "caveat": "Staffing-vendor content. The pattern matches Ch 13's argument, which is a reason for extra suspicion, not less.",
     "used_in": [
       "ch25"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "cobol-workforce-age",
@@ -1107,7 +1185,8 @@
     "used_in": [
       "ch04",
       "ch25"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "github-sponsors-100m",
@@ -1120,7 +1199,8 @@
     "caveat": "A platform reporting its own totals, which makes the figures reliable and the framing promotional. It covers one platform only, and excludes foundations, grants and employment, which fund most serious open source work.",
     "used_in": [
       "ch28"
-    ]
+    ],
+    "grade": 3
   },
   {
     "id": "oss-maintainer-pay-2026",
@@ -1133,7 +1213,8 @@
     "used_in": [
       "ch28"
     ],
-    "no_url": "Several community surveys and reports read together. No single document."
+    "no_url": "Several community surveys and reports read together. No single document.",
+    "grade": 3
   },
   {
     "id": "indie-saas-distribution-2026",
@@ -1146,7 +1227,8 @@
     "used_in": [
       "ch28"
     ],
-    "no_url": "Independent revenue trackers and community analyses read together. The trackers change continuously."
+    "no_url": "Independent revenue trackers and community analyses read together. The trackers change continuously.",
+    "grade": 3
   },
   {
     "id": "freelance-rates-2026",
@@ -1158,7 +1240,8 @@
     "caveat": "Published by platforms and rate-calculator sites that benefit from confident numbers. Billing rate is not income. See Ch 5, trap 3.",
     "used_in": [
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "fractional-cto-rates-2026",
@@ -1170,7 +1253,8 @@
     "caveat": "Every source found sells fractional placements. The Gartner forecast is quoted second-hand throughout and was not read directly for this book. One platform also reports demand falling over the most recent 90 days, which sits oddly beside the growth story and is worth more attention than the forecast.",
     "used_in": [
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "india-plfs-earnings",
@@ -1185,7 +1269,8 @@
       "ch12",
       "ch40"
     ],
-    "no_url": "Published as periodic survey reports carrying many tables. The earnings figures used here are read from the report rather than from a page that states them."
+    "no_url": "Published as periodic survey reports carrying many tables. The earnings figures used here are read from the report rather than from a page that states them.",
+    "grade": 2
   },
   {
     "id": "india-pay-granularity-gap",
@@ -1199,7 +1284,8 @@
     "used_in": [
       "ch12"
     ],
-    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding."
+    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
+    "grade": 2
   },
   {
     "id": "india-jee-main-2026",
@@ -1213,7 +1299,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-aicte-subject-flexibility",
@@ -1228,7 +1315,8 @@
     "retrieved_via": "secondary",
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-nats-apprenticeship",
@@ -1242,7 +1330,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch15"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-nasscom-zinnov-gcc",
@@ -1256,7 +1345,8 @@
       "ch12",
       "ch40"
     ],
-    "no_url": "Industry association report published behind registration. Figures reached this book through press coverage of it."
+    "no_url": "Industry association report published behind registration. Figures reached this book through press coverage of it.",
+    "grade": 3
   },
   {
     "id": "india-labour-codes-2026",
@@ -1270,7 +1360,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch16"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-emigration-clearance",
@@ -1284,7 +1375,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-it-attrition-fy27",
@@ -1298,7 +1390,8 @@
       "ch13",
       "ch40"
     ],
-    "no_url": "Several companies' quarterly results read together. There is no single document to link to."
+    "no_url": "Several companies' quarterly results read together. There is no single document to link to.",
+    "grade": 3
   },
   {
     "id": "india-it-services-employment",
@@ -1311,7 +1404,8 @@
     "used_in": [
       "ch13"
     ],
-    "no_url": "Industry association aggregate, published in press releases rather than as a standing document."
+    "no_url": "Industry association aggregate, published in press releases rather than as a standing document.",
+    "grade": 3
   },
   {
     "id": "india-gcc-attrition",
@@ -1326,7 +1420,8 @@
       "ch13",
       "ch40"
     ],
-    "no_url": "Consultancy survey published to clients and summarised in press coverage."
+    "no_url": "Consultancy survey published to clients and summarised in press coverage.",
+    "grade": 3
   },
   {
     "id": "india-wipro-median-remuneration",
@@ -1345,7 +1440,8 @@
     "retrieved": "2026-08-10",
     "distinct_from": {
       "india-it-cohort-median-pay": "Not a duplicate, and the closest call in this file. The cohort record is compiled from eight annual reports and Wipro is one of the eight, so Wipro's median, headcount and year-on-year change legitimately appear in both. The company record is the primary reading; the cohort record is the comparison. Merging them would lose the comparison."
-    }
+    },
+    "grade": 1
   },
   {
     "id": "india-hcltech-median-remuneration",
@@ -1360,7 +1456,8 @@
     "used_in": [
       "ch13"
     ],
-    "retrieved": "2026-08-10"
+    "retrieved": "2026-08-10",
+    "grade": 1
   },
   {
     "id": "india-infosys-median-remuneration",
@@ -1375,7 +1472,8 @@
     "used_in": [
       "ch13"
     ],
-    "retrieved": "2026-08-10"
+    "retrieved": "2026-08-10",
+    "grade": 1
   },
   {
     "id": "india-infosys-seniority-bands",
@@ -1391,7 +1489,8 @@
     "used_in": [
       "ch13",
       "ch40"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-it-cohort-median-pay",
@@ -1406,7 +1505,8 @@
     "used_in": [
       "ch13",
       "ch40"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-persistent-india-vs-us",
@@ -1422,7 +1522,8 @@
       "ch13",
       "ch40"
     ],
-    "retrieved": "2026-08-10"
+    "retrieved": "2026-08-10",
+    "grade": 1
   },
   {
     "id": "india-coforge-brsr-medians",
@@ -1437,7 +1538,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-gcc-pay-premium-unmeasurable",
@@ -1452,7 +1554,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-apprenticeship-outcomes",
@@ -1466,7 +1569,8 @@
     "used_in": [
       "ch15"
     ],
-    "no_url": "A government summary citing commissioned evaluations that are not themselves published. The gap register records that the underlying evaluations were not read."
+    "no_url": "A government summary citing commissioned evaluations that are not themselves published. The gap register records that the underlying evaluations were not read.",
+    "grade": 3
   },
   {
     "id": "lca-insurance-core-2025",
@@ -1479,6 +1583,7 @@
     "key_figure": "112 certified filings. Offered annual wage, lowest tenth $85,178, median $116,208, highest tenth $160,436. GEICO entities filed 19 of the 112.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 112 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1494,6 +1599,7 @@
     "key_figure": "2488 certified filings. Offered annual wage, lowest tenth $85,276, median $112,930, highest tenth $160,000. IBM filed 63 and Yash Technologies 34. The count is the largest of any specialisation here.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 2488 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1509,6 +1615,7 @@
     "key_figure": "222 certified filings. Offered annual wage, lowest tenth $82,381, median $105,998, highest tenth $136,899. IBM filed 12. The spread is the narrowest in the pass.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 222 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1524,6 +1631,7 @@
     "key_figure": "222 certified filings. Offered annual wage, lowest tenth $88,000, median $130,125, highest tenth $186,940. Ford filed 61 and Lucid 37, so the figure leans toward vehicle manufacturers rather than suppliers.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 222 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1539,6 +1647,7 @@
     "key_figure": "246 certified filings. Offered annual wage, lowest tenth $85,740, median $131,867, highest tenth $200,001. ArcBest Technologies filed 10 and Tesla 9.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 246 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch26"
     ]
@@ -1554,6 +1663,7 @@
     "key_figure": "361 certified filings. Offered annual wage, lowest tenth $70,000, median $100,000, highest tenth $152,080. St. Jude filed 17 and PPD Development 12, so research institutes and contract research dominate.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 361 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch26"
     ]
@@ -1569,6 +1679,7 @@
     "key_figure": "107 certified filings. Offered annual wage, lowest tenth $58,690, median $83,200, highest tenth $127,035. The lowest median of any specialisation in this pass.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 107 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch26"
     ]
@@ -1584,6 +1695,7 @@
     "key_figure": "3604 certified filings. Offered annual wage, lowest tenth $58,656, median $68,000, highest tenth $82,000. University of Michigan filed 119 and Stanford 96. The narrowest spread in the pass, which is what a public pay scale looks like.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 3604 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch27"
     ]
@@ -1599,6 +1711,7 @@
     "key_figure": "2663 certified filings. Offered annual wage, lowest tenth $68,957, median $109,616, highest tenth $220,700. Meta filed 420 and Stanford 100. The widest spread in the pass, because the title covers both.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 2663 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch27"
     ]
@@ -1614,6 +1727,7 @@
     "key_figure": "49 certified filings. Offered annual wage, lowest tenth $72,338, median $109,699, highest tenth $146,574. Thin at 49 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 49 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1629,6 +1743,7 @@
     "key_figure": "37 certified filings. Offered annual wage, lowest tenth $61,090, median $93,205, highest tenth $175,606. Thin at 37 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 37 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1644,6 +1759,7 @@
     "key_figure": "26 certified filings. Offered annual wage, lowest tenth $72,667, median $118,633, highest tenth $202,400. Thin at 26, AND THE THINNESS IS THE FINDING: this work generally needs a security clearance, a clearance needs citizenship, so sponsored workers structurally cannot hold most of these roles. Chapter 25's clearance gate predicts exactly this.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 26 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch25"
     ]
@@ -1659,6 +1775,7 @@
     "key_figure": "13 certified filings. Offered annual wage, lowest tenth $94,664, median $150,000, highest tenth $183,560. Very thin at 13 filings, all pharmaceutical: Bristol-Myers Squibb and Wave Life Sciences.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 13 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch26"
     ]
@@ -1674,6 +1791,7 @@
     "key_figure": "18 certified filings. Offered annual wage, lowest tenth $74,851, median $101,837, highest tenth $143,800. Very thin at 18 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 18 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "grade": 3,
     "used_in": [
       "ch26"
     ]
@@ -1694,7 +1812,8 @@
       "ch20",
       "ch24"
     ],
-    "url": "https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/"
+    "url": "https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
+    "grade": 2
   },
   {
     "id": "indeed-seniority-2026",
@@ -1707,7 +1826,8 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://hiringlab.indeed.com/2026/07/23/the-labor-market-is-tilting-toward-seniority/"
+    "url": "https://hiringlab.indeed.com/2026/07/23/the-labor-market-is-tilting-toward-seniority/",
+    "grade": 2
   },
   {
     "id": "indeed-snapshot-2026-06",
@@ -1720,7 +1840,8 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://hiringlab.indeed.com/2026/07/23/us-labor-market-snapshot-june-2026/"
+    "url": "https://hiringlab.indeed.com/2026/07/23/us-labor-market-snapshot-june-2026/",
+    "grade": 2
   },
   {
     "id": "cyberseek-2026",
@@ -1733,7 +1854,8 @@
     "used_in": [
       "ch13"
     ],
-    "url": "https://www.cyberseek.org/heatmap.html"
+    "url": "https://www.cyberseek.org/heatmap.html",
+    "grade": 2
   },
   {
     "id": "gdc-game-industry-2026",
@@ -1748,7 +1870,8 @@
       "ch13",
       "ch29"
     ],
-    "no_url": "Survey published as a downloadable report behind a form."
+    "no_url": "Survey published as a downloadable report behind a form.",
+    "grade": 2
   },
   {
     "id": "layoffs-trackers-2026",
@@ -1761,7 +1884,8 @@
     "gap": true,
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "finops-2026",
@@ -1776,7 +1900,8 @@
       "ch13",
       "ch29"
     ],
-    "no_url": "Foundation survey published to members and summarised publicly."
+    "no_url": "Foundation survey published to members and summarised publicly.",
+    "grade": 2
   },
   {
     "id": "semiconductor-workforce-2026",
@@ -1789,7 +1914,8 @@
     "used_in": [
       "ch13",
       "ch29"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "qa-sdet-shift-2026",
@@ -1802,7 +1928,8 @@
     "used_in": [
       "ch13",
       "ch29"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "prompt-engineer-absorption-2026",
@@ -1816,7 +1943,8 @@
     "used_in": [
       "ch13",
       "ch29"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "forward-deployed-engineer-2026",
@@ -1830,7 +1958,8 @@
     "used_in": [
       "ch13",
       "ch29"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "data-annotation-shift-2026",
@@ -1844,7 +1973,8 @@
     "used_in": [
       "ch13",
       "ch29"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "onet-soc-computing-2026",
@@ -1858,7 +1988,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch22"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "nice-framework-800-181",
@@ -1873,7 +2004,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch22"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "esco-occupations",
@@ -1888,7 +2020,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch22"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "sfia-9",
@@ -1902,7 +2035,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch22"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "de-blue-card-2026",
@@ -1920,7 +2054,8 @@
     ],
     "distinct_from": {
       "10k-salesforce-ecosystem": "Shares 1, 21 and 27 by coincidence. Here they are Section 18g and the settlement months at B1 and A1 German; there they are percentages of ecosystem growth."
-    }
+    },
+    "grade": 1
   },
   {
     "id": "pl-blue-card-2026",
@@ -1935,7 +2070,8 @@
     "caveat": "This threshold is indexed to the national average wage, so it rises each year rather than falling. Older figures circulate widely — around PLN 11,700 was current a few years ago — so check the year before using one. Published figures differ in the last digit between PLN 13,355.34 and PLN 13,355.84, which is why this record rounds; do not print more precision than the sources agree on.",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "uk-skilled-worker-2026",
@@ -1950,7 +2086,8 @@
     "url": "https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "sg-employment-pass-2026",
@@ -1965,7 +2102,8 @@
     "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "jp-highly-skilled-professional-2026",
@@ -1980,7 +2118,8 @@
     "url": "https://www.moj.go.jp/isa/content/001398882.pdf",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ae-golden-visa-2026",
@@ -1995,7 +2134,8 @@
     "url": "https://www.added.gov.ae/en/live/long-term-residency/abu-dhabi-golden-visa/for-specialists/for-skilled-professionals",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "nigeria-labour-force-survey",
@@ -2009,7 +2149,8 @@
     "used_in": [
       "ch12"
     ],
-    "no_url": "Published as periodic statistical releases. The figures used here are read from the release rather than from a page that states them."
+    "no_url": "Published as periodic statistical releases. The figures used here are read from the release rather than from a page that states them.",
+    "grade": 2
   },
   {
     "id": "nigeria-pay-null",
@@ -2023,7 +2164,8 @@
     "used_in": [
       "ch12"
     ],
-    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding."
+    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
+    "grade": 2
   },
   {
     "id": "nigeria-minimum-wage",
@@ -2037,7 +2179,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "nigeria-mtn-pay-disclosure",
@@ -2050,7 +2193,8 @@
     "used_in": [
       "ch12"
     ],
-    "no_url": "Read from the company's annual report PDF, which is reissued yearly at a changing address."
+    "no_url": "Read from the company's annual report PDF, which is reissued yearly at a changing address.",
+    "grade": 3
   },
   {
     "id": "nigeria-cbn-remittance-rules",
@@ -2064,7 +2208,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch12"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "nigeria-jamb-subjects",
@@ -2077,7 +2222,8 @@
     "gap": true,
     "used_in": [
       "ch14"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "nigeria-3mtt-programme",
@@ -2090,7 +2236,8 @@
     "gap": true,
     "used_in": [
       "ch15"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "oews-2025",
@@ -2109,7 +2256,8 @@
     "distinct_from": {
       "india-infosys-seniority-bands": "Shares 10, 11 and 25 by coincidence. Those are percentile labels and lakh figures respectively. One record is an American establishment survey; the other is one Indian company's disclosure.",
       "onet-soc-computing-2026": "Shares 1211, 1299 and 15 because both use the same Standard Occupational Classification, so the code fragments necessarily match. They are different documents: that record is the occupational taxonomy, this one is the wage and employment survey reported against it."
-    }
+    },
+    "grade": 1
   },
   {
     "id": "bls-employment-projections-2024-2034",
@@ -2130,7 +2278,8 @@
       "ch34",
       "ch38"
     ],
-    "no_url": "bls.gov returns 403 to automated requests, so this workbook cannot be fetched programmatically and no stable link is offered in place of one that cannot be checked the way the book asks readers to check. It is Table 1.2 of the 2024-34 Employment Projections, published at bls.gov/emp under Occupational projections, and it downloads as occupation.xlsx. Retrieved by hand on 2026-08-22."
+    "no_url": "bls.gov returns 403 to automated requests, so this workbook cannot be fetched programmatically and no stable link is offered in place of one that cannot be checked the way the book asks readers to check. It is Table 1.2 of the 2024-34 Employment Projections, published at bls.gov/emp under Occupational projections, and it downloads as occupation.xlsx. Retrieved by hand on 2026-08-22.",
+    "grade": 1
   },
   {
     "id": "nyfed-college-labor-market",
@@ -2146,7 +2295,8 @@
       "ch04",
       "ch13"
     ],
-    "url": "https://www.newyorkfed.org/research/college-labor-market"
+    "url": "https://www.newyorkfed.org/research/college-labor-market",
+    "grade": 1
   },
   {
     "id": "bls-figures-mangled-2026",
@@ -2164,7 +2314,8 @@
     ],
     "distinct_from": {
       "oews-2025": "Shares the figures 10, 90 and 135980 with the OEWS record because it quotes the percentile labels and the correct median in order to contrast them with the wrong ones. It is the error, not the source."
-    }
+    },
+    "grade": 4
   },
   {
     "id": "bls-automated-access-blocked-2026",
@@ -2179,7 +2330,8 @@
     "used_in": [
       "ch13"
     ],
-    "no_url": "The record is an observation about a publisher's access behaviour rather than a document. Reproduce by requesting bls.gov/news.release/ocwage.t01.htm without a browser."
+    "no_url": "The record is an observation about a publisher's access behaviour rather than a document. Reproduce by requesting bls.gov/news.release/ocwage.t01.htm without a browser.",
+    "grade": 1
   },
   {
     "id": "h1b-quant-researcher-2026",
@@ -2196,7 +2348,8 @@
       "ch05",
       "ch25",
       "ch26"
-    ]
+    ],
+    "grade": 3
   },
   {
     "id": "quant-total-comp-industry-2026",
@@ -2206,6 +2359,7 @@
     "reliability": 4,
     "key_figure": "Mid-level $300k-$600k total comp; senior $1M+ at top proprietary trading firms",
     "caveat": "Recruiter-sourced and survivorship-biased. These are the numbers that attract applicants, drawn from the best-paid firms in the best years. Present them as a ceiling, never as an expectation.",
+    "grade": 4,
     "used_in": [
       "ch26"
     ]
@@ -2218,6 +2372,7 @@
     "reliability": 4,
     "key_figure": "Entry quant developer ~£50,000 base",
     "caveat": "Aggregator, thin sample for a small specialist market.",
+    "grade": 4,
     "used_in": [
       "ch26"
     ]
@@ -2230,6 +2385,7 @@
     "reliability": 4,
     "key_figure": "Lagos senior developers $3,500-$7,500/month on international remote contracts",
     "caveat": "Platform-sourced, covers developers who already reached international clients. Strong selection bias - it does not describe the average Lagos developer.",
+    "grade": 4,
     "used_in": [
       "ch28"
     ]
@@ -2242,6 +2398,7 @@
     "reliability": 4,
     "key_figure": "Vietnam senior remote ~$45,848/year expected",
     "caveat": "Expected rather than realised pay, from a platform with an interest in high numbers.",
+    "grade": 4,
     "used_in": [
       "ch28"
     ]
@@ -2260,7 +2417,8 @@
       "ch25"
     ],
     "no_url": "Published behind a registration form. Figures reached this book through the institute's own summaries of it.",
-    "caveat": "A survey of employers who chose to answer a security training provider's questionnaire, so the sample leans toward organisations already engaged with training. It ranks what employers say they weigh, which is not the same as what their hiring actually does."
+    "caveat": "A survey of employers who chose to answer a security training provider's questionnaire, so the sample leans toward organisations already engaged with training. It ranks what employers say they weigh, which is not the same as what their hiring actually does.",
+    "grade": 2
   },
   {
     "id": "singapore-dev-pay-2026",
@@ -2273,7 +2431,8 @@
     "used_in": [
       "ch12",
       "ch23"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "poland-dev-rates-2026",
@@ -2286,7 +2445,8 @@
     "used_in": [
       "ch12",
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "ukraine-dev-rates-2026",
@@ -2299,7 +2459,8 @@
     "used_in": [
       "ch12",
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "kenya-sa-dev-pay-2026",
@@ -2312,7 +2473,8 @@
     "used_in": [
       "ch12",
       "ch28"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "bls-swe-outlook-2026",
@@ -2329,7 +2491,8 @@
       "ch23",
       "ch38"
     ],
-    "caveat": "A projection, not a measurement. It models a decade ahead from assumptions the publisher states, and Chapter 6 explains why a projection cannot be checked the way a count can. The annual openings figure combines growth with replacing people who leave, so most of it is churn rather than new jobs."
+    "caveat": "A projection, not a measurement. It models a decade ahead from assumptions the publisher states, and Chapter 6 explains why a projection cannot be checked the way a count can. The annual openings figure combines growth with replacing people who leave, so most of it is churn rather than new jobs.",
+    "grade": 1
   },
   {
     "id": "bls-tech-writer-outlook-2026",
@@ -2343,7 +2506,8 @@
     "used_in": [
       "ch24"
     ],
-    "caveat": "A projection, not a measurement, with the same limits as any ten-year forecast. Flat growth is a modelled expectation and not an observed count."
+    "caveat": "A projection, not a measurement, with the same limits as any ten-year forecast. Flat growth is a modelled expectation and not an observed count.",
+    "grade": 1
   },
   {
     "id": "nngroup-ux-2026",
@@ -2356,7 +2520,8 @@
       "ch24"
     ],
     "no_url": "Drawn from several of the group's articles and its own job-market commentary rather than from one report.",
-    "caveat": "Published by a consultancy that sells user-experience training and certification, so it has an interest in the health of the field it reports on. The direction is corroborated elsewhere; treat the emphasis as interested."
+    "caveat": "Published by a consultancy that sells user-experience training and certification, so it has an interest in the health of the field it reports on. The direction is corroborated elsewhere; treat the emphasis as interested.",
+    "grade": 2
   },
   {
     "id": "academy-ux-postings-2025",
@@ -2368,7 +2533,8 @@
     "caveat": "Single-source posting count with no published method.",
     "used_in": [
       "ch24"
-    ]
+    ],
+    "grade": 4
   },
   {
     "id": "graduate-earnings-registry",
@@ -2384,7 +2550,8 @@
       "ch14",
       "ch15"
     ],
-    "no_url": "Compiled by this book from eleven national statistical sources and education ministries. Appendix G lists each one separately with its own route in."
+    "no_url": "Compiled by this book from eleven national statistical sources and education ministries. Appendix G lists each one separately with its own route in.",
+    "grade": 2
   },
   {
     "id": "graduate-earnings-absence",
@@ -2398,7 +2565,8 @@
     "used_in": [
       "ch07"
     ],
-    "no_url": "A recorded absence rather than a document. It states that no such dataset was found for seventeen markets."
+    "no_url": "A recorded absence rather than a document. It states that no such dataset was found for seventeen markets.",
+    "grade": 2
   },
   {
     "id": "consumer-regulator-registry",
@@ -2413,7 +2581,8 @@
       "ch07",
       "ch16"
     ],
-    "no_url": "Compiled by this book from national consumer-protection authorities. Appendix G lists each one separately."
+    "no_url": "Compiled by this book from national consumer-protection authorities. Appendix G lists each one separately.",
+    "grade": 2
   },
   {
     "id": "india-ccpa-coaching-enforcement",
@@ -2430,7 +2599,8 @@
       "ch07",
       "ch16",
       "ch39"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-employment-bonds",
@@ -2445,7 +2615,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch16"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "india-rule5-median-pay-duty",
@@ -2460,7 +2631,8 @@
     "retrieved": "2026-08-10",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "uk-ceo-pay-ratio-regulations",
@@ -2474,7 +2646,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "us-sec-pay-ratio-rule",
@@ -2488,7 +2661,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "eu-pay-transparency-directive",
@@ -2503,7 +2677,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "au-wgea-employer-pay-gaps",
@@ -2518,7 +2693,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "br-salary-transparency-law",
@@ -2533,7 +2709,8 @@
       "ch13"
     ],
     "no_url": "There is no single document, because there is one report per employer. Reports are looked up at relatoriodetransparenciasalarial.trabalho.gov.br, which takes that employer's public tax number and returns a one-page PDF. No login is needed and the number is the company's, not the reader's. The three read for this edition are named in the method above and can be pulled again the same way. Employers must also publish their own report on their own channels, which is a second route to one.",
-    "retrieved": "2026-08-13"
+    "retrieved": "2026-08-13",
+    "grade": 1
   },
   {
     "id": "jp-gender-wage-gap-disclosure",
@@ -2549,7 +2726,8 @@
     "used_in": [
       "ch13",
       "ch39"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "qilt-gos-2024",
@@ -2565,7 +2743,8 @@
     "used_in": [
       "ch07",
       "ch39"
-    ]
+    ],
+    "grade": 2
   },
   {
     "id": "spain-pay-register-2020",
@@ -2580,7 +2759,8 @@
     "retrieved": "2026-08-14",
     "used_in": [
       "ch13"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ph-occupational-wages-2024",
@@ -2595,7 +2775,8 @@
     "used_in": [
       "ch42"
     ],
-    "url": "https://psa.gov.ph/statistics/occupational-wages-survey"
+    "url": "https://psa.gov.ph/statistics/occupational-wages-survey",
+    "grade": 1
   },
   {
     "id": "pk-ict-export-receipts",
@@ -2610,7 +2791,8 @@
     "used_in": [
       "ch42"
     ],
-    "no_url": "Published as a chapter of the annual Economic Survey PDF on the finance ministry's site, reissued each year at a new address."
+    "no_url": "Published as a chapter of the annual Economic Survey PDF on the finance ministry's site, reissued each year at a new address.",
+    "grade": 1
   },
   {
     "id": "pk-freelancer-fx-regime",
@@ -2628,7 +2810,8 @@
     "distinct_from": {
       "bd-ict-exports-and-incentive": "Shares 30, 50 and 5000 with the Bangladeshi record, and the overlap is real rather than coincidental: both regimes settled on a 50% retention quota and a US$5,000 threshold, and both set a lower rate for non-technology services. They are two central banks writing separate circulars, and the parallel design is a finding in itself rather than evidence of one document."
     },
-    "no_url": "Issued as numbered circulars on the central bank's site. Individual circular pages move; the manual is the standing document."
+    "no_url": "Issued as numbered circulars on the central bank's site. Individual circular pages move; the manual is the standing document.",
+    "grade": 1
   },
   {
     "id": "bd-ict-exports-and-incentive",
@@ -2646,7 +2829,8 @@
     "distinct_from": {
       "indie-saas-distribution-2026": "Shares 10, 10000 and 50 by coincidence. That record covers independent software revenue distribution; here the figures are a US$10,000 per-transaction gateway cap, a US$20,000 declaration threshold and a 50% retention quota."
     },
-    "no_url": "Central bank circulars are issued as dated PDFs; the marketplace list was submitted by the ICT Division and endorsed by circular rather than published as a standing page."
+    "no_url": "Central bank circulars are issued as dated PDFs; the marketplace list was submitted by the ICT Division and endorsed by circular rather than published as a standing page.",
+    "grade": 1
   },
   {
     "id": "eg-float-and-digital-exports",
@@ -2661,7 +2845,8 @@
     "caveat": "MIXED GRADES IN ONE RECORD, deliberately. The float and the account rules are central-bank facts and are grade 1. The US$5.2 billion and the 850,000 are agency-reported by the body that promotes the sector, and the US$6 billion is an explicit TARGET rather than an achieved figure — it must never be printed as one. The absence of a freelancer scheme is a negative finding after searching in Arabic, not a proven absence.",
     "used_in": [
       "ch42"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "vn-training-bond",
@@ -2676,7 +2861,8 @@
     "used_in": [
       "ch42"
     ],
-    "no_url": "Read from the consolidated statutes during pass 14, in Vietnamese. Both are published as gazette instruments rather than at a stable page."
+    "no_url": "Read from the consolidated statutes during pass 14, in Vietnamese. Both are published as gazette instruments rather than at a stable page.",
+    "grade": 1
   },
   {
     "id": "vn-id-national-wages",
@@ -2691,7 +2877,8 @@
     "used_in": [
       "ch42"
     ],
-    "url": "https://www.bps.go.id/en/statistics-table/2/MTUyMSMy/rata-rata-upah-gaji.html"
+    "url": "https://www.bps.go.id/en/statistics-table/2/MTUyMSMy/rata-rata-upah-gaji.html",
+    "grade": 1
   },
   {
     "id": "id-apprenticeship-and-prakerja",
@@ -2709,7 +2896,8 @@
     "distinct_from": {
       "indie-saas-distribution-2026": "Shares 100000, 20 and 6 by coincidence. That record covers independent software revenue; here they are a rupiah survey incentive, a 20% cap on apprentices as a share of workforce, and a regulation number."
     },
-    "url": "https://bantuan.kemnaker.go.id/support/solutions/articles/43000568759-apa-manfaat-kartu-prakerja-"
+    "url": "https://bantuan.kemnaker.go.id/support/solutions/articles/43000568759-apa-manfaat-kartu-prakerja-",
+    "grade": 1
   },
   {
     "id": "vn-graduate-employment-inflation",
@@ -2724,7 +2912,8 @@
     "used_in": [
       "ch42"
     ],
-    "no_url": "Published inside each university's annual admission scheme rather than as one national dataset, which is part of why the figures are unverifiable."
+    "no_url": "Published inside each university's annual admission scheme rather than as one national dataset, which is part of why the figures are unverifiable.",
+    "grade": 2
   },
   {
     "id": "almalaurea-time-to-first-job",
@@ -2740,7 +2929,8 @@
     "used_in": [
       "ch18",
       "ch22"
-    ]
+    ],
+    "grade": 2
   },
   {
     "id": "poland-ela-graduate-tracking",
@@ -2756,7 +2946,8 @@
     "used_in": [
       "ch18",
       "ch22"
-    ]
+    ],
+    "grade": 2
   },
   {
     "id": "cfpb-bloomtech-2024",
@@ -2773,7 +2964,8 @@
       "ch07",
       "ch15",
       "ch16"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "cfpb-prehired-2023",
@@ -2789,7 +2981,8 @@
     "used_in": [
       "ch07",
       "ch16"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ftc-career-step-2024",
@@ -2805,7 +2998,8 @@
     "used_in": [
       "ch07",
       "ch16"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "ftc-job-scams-advice",
@@ -2819,7 +3013,8 @@
     "retrieved": "2026-08-12",
     "used_in": [
       "ch07"
-    ]
+    ],
+    "grade": 1
   },
   {
     "id": "cirr-standard",
@@ -2835,7 +3030,8 @@
       "ch07",
       "ch15"
     ],
-    "url": "https://www.cirr.org/our-standards"
+    "url": "https://www.cirr.org/our-standards",
+    "grade": 2
   },
   {
     "id": "app-academy-outcomes-course-report",
@@ -2848,7 +3044,8 @@
     "caveat": "Cited in this book as a worked example of the denominator problem, not as evidence about App Academy, which is one of the more transparent schools precisely because it publishes the whole funnel. Compounding the three published rates gives about 71% of everyone who enrolled, against a headline of 91%. Reached through a secondary aggregator rather than the primary report, so treat the exact percentages as a range.",
     "used_in": [
       "ch07"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "stack-overflow-2024",
@@ -2863,7 +3060,8 @@
       "ch07",
       "ch15"
     ],
-    "url": "https://survey.stackoverflow.co/2024/developer-profile"
+    "url": "https://survey.stackoverflow.co/2024/developer-profile",
+    "grade": 2
   },
   {
     "id": "comptia-stackable-pathways",
@@ -2876,7 +3074,8 @@
     "used_in": [
       "ch07",
       "ch31"
-    ]
+    ],
+    "grade": 5
   },
   {
     "id": "hackerrank-skills-2025",
@@ -2892,6 +3091,7 @@
       "ch11",
       "ch31"
     ],
-    "no_url": "Vendor report published behind a form. Figures reached this book through its public summary."
+    "no_url": "Vendor report published behind a form. Figures reached this book through its public summary.",
+    "grade": 2
   }
 ]

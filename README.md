@@ -29,11 +29,11 @@ Grades run 1 to 5, best first.
 
 | Grade | What it means |
 |---|---|
-| **1** | A body with the power to compel an answer, and nothing to sell you |
-| **2** | An institution reporting on itself under an obligation |
-| **3** | A serious survey with a published method |
-| **4** | An aggregator republishing what people typed in |
-| **5** | Somebody selling something |
+| **1** | A primary source. Somebody with the power to compel the answer |
+| **2** | A structured survey that publishes its method |
+| **3** | A verified transaction. Money that actually changed hands |
+| **4** | An aggregator. A website republishing what people typed in |
+| **5** | Somebody selling you something |
 
 ## Why the gap register is published
 
