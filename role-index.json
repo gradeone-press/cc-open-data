@@ -1,0 +1,2714 @@
+[
+  {
+    "title": "5G core engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "5G RAN engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "a11y engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "ABAP developer",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "academic career",
+    "covered_by": "The academic path: doctorate to tenure-track faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Accessibility specialist",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "ADAS software engineer",
+    "covered_by": "Automotive functional safety and embedded platforms",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "agile coach",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Agricultural technology",
+    "covered_by": "Agricultural technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "agritech engineer",
+    "covered_by": "Agricultural technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "AI agent engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI assurance specialist",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI compliance analyst",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "AI governance specialist",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI infrastructure engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "AI product manager",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI red-teamer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI research scientist",
+    "covered_by": "Industrial research scientist",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "AI safety researcher",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "AI training data specialist",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "absorbed"
+  },
+  {
+    "title": "alignment researcher",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "all-source analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Analog and mixed-signal design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "analyst programmer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "contracting"
+  },
+  {
+    "title": "Analytics engineer",
+    "covered_by": "Data engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "Android engineer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "application security",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Application security engineer",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "applications developer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "applied AI engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "applied scientist",
+    "covered_by": "Industrial research scientist",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "applied statistician",
+    "covered_by": "not profiled",
+    "chapter": "27",
+    "status": "stable"
+  },
+  {
+    "title": "appsec engineer",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "assistant professor",
+    "covered_by": "The academic path: doctorate to tenure-track faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Automotive functional safety and embedded platforms",
+    "covered_by": "Automotive functional safety and embedded platforms",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Autonomous vehicle engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "AUTOSAR developer",
+    "covered_by": "Automotive functional safety and embedded platforms",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "AV perception engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "avionics software engineer",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "backend chip design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Backend engineer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "profiled"
+  },
+  {
+    "title": "BI developer",
+    "covered_by": "Entry-level data analyst",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "Bioinformatics and computational biology",
+    "covered_by": "Bioinformatics and computational biology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "bioinformatics scientist",
+    "covered_by": "Bioinformatics and computational biology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Blockchain developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "stable"
+  },
+  {
+    "title": "blue team analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "bootstrapped software",
+    "covered_by": "Small software products",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "brain-computer interface engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "BSS developer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Bug bounty hunter",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "business analyst",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Business intelligence developer",
+    "covered_by": "Entry-level data analyst",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "carbon accounting engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "CBTC engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "cheminformatics scientist",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Chief information security officer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "chip design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "CISO",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "citizen developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "civil service developer",
+    "covered_by": "Government and public sector IT",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "cleared software engineer",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Climate and energy systems software",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Climate modeller",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "climate tech engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Climate technology engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Clinical informatics specialist",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "clinical systems analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "clinical systems analyst (Cerner)",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "cloud architect",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "growing"
+  },
+  {
+    "title": "Cloud engineer",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "growing"
+  },
+  {
+    "title": "cloud financial analyst",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "cloud operations engineer",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "growing"
+  },
+  {
+    "title": "Cloud security engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Cloud solutions architect",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "growing"
+  },
+  {
+    "title": "cloud systems administrator",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "growing"
+  },
+  {
+    "title": "CMS developer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "COBOL programmer",
+    "covered_by": "Mainframe / COBOL developer",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "compiler engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "compliance analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "computational biologist",
+    "covered_by": "Bioinformatics and computational biology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "computational chemist",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Computational chemistry and cheminformatics",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "computational linguist",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "absorbed"
+  },
+  {
+    "title": "computational materials scientist",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Computational neuroscientist",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "Computational physicist",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "Computer and information research scientist",
+    "covered_by": "Industrial research scientist",
+    "chapter": "27",
+    "status": "growing"
+  },
+  {
+    "title": "Computer and information systems manager",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "Computer network architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Computer network support specialist",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Computer programmer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "contracting"
+  },
+  {
+    "title": "Computer system validation specialist",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Computer systems analyst",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Computer user support specialist",
+    "covered_by": "IT support / helpdesk",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "Computer vision engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "context engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "contractor",
+    "covered_by": "Independent specialist consultant",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "controls engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Core banking and payments engineering",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "core banking developer",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "course creator",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "cryptographic modernisation engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "CSV engineer",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "CUDA engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Customer success engineer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "cyber crime investigator",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Cyber defence analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Cyber defence incident responder",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "data architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "data center technician",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Data centre technician",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Data engineer",
+    "covered_by": "Data engineer",
+    "chapter": "23",
+    "status": "profiled"
+  },
+  {
+    "title": "Data governance specialist",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "data labeller",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "absorbed"
+  },
+  {
+    "title": "data protection engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Data scientist",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "data steward",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Database administrator",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Database architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "database internals engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "DBA",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "decision scientist",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Defence and aerospace software",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "delivery manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "deployment engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Design verification engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "desktop support technician",
+    "covered_by": "IT support / helpdesk",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "Detection engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Developer advocate",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "developer educator",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "developer relations engineer",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "DevOps / site reliability engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "profiled"
+  },
+  {
+    "title": "DevRel",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "DFIR analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "digital accessibility engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "digital evidence analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Digital forensics analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Digital twin engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "distributed systems engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "DO-178C developer",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "doctoral position",
+    "covered_by": "The funded doctorate as a route abroad",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "documentation engineer",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "domain expert annotator",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "absorbed"
+  },
+  {
+    "title": "Drone engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Duck Creek configurer",
+    "covered_by": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "DV engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Dynamics 365 developer",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "e-commerce developer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "e-discovery specialist",
+    "covered_by": "Legal technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "earth system modeller",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "EDA software engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "electronic design automation engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Embedded software engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "energy modelling engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "engine programmer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "engineering manager",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "Enterprise architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Entry-level data analyst",
+    "covered_by": "Entry-level data analyst",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "Epic analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Epic application analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Epic healthcare IT analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "equipment engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "ERP functional consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "ethical hacker",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "evaluations engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Expert data annotator",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "absorbed"
+  },
+  {
+    "title": "exploitation analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "fab process engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "farm data engineer",
+    "covered_by": "Agricultural technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "FDE",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "FinOps engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "FinOps practitioner",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Fintech engineer",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "firmware engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "flight software engineer (space)",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Forward-deployed engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "FPGA engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "fractional CTO",
+    "covered_by": "Fractional technical leadership",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Fractional technical leadership",
+    "covered_by": "Fractional technical leadership",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "freelance developer",
+    "covered_by": "Independent specialist consultant",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "front-end developer",
+    "covered_by": "Generalist frontend / web development",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "full-stack developer",
+    "covered_by": "Generalist frontend / web development",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "funded PhD",
+    "covered_by": "The funded doctorate as a route abroad",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Game developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "gameplay programmer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "Generalist frontend / web development",
+    "covered_by": "Generalist frontend / web development",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "generative AI engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "genomics data scientist",
+    "covered_by": "Bioinformatics and computational biology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "geospatial data engineer",
+    "covered_by": "Geospatial engineering and earth observation",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Geospatial engineering and earth observation",
+    "covered_by": "Geospatial engineering and earth observation",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "GIS developer",
+    "covered_by": "Geospatial engineering and earth observation",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "global remote",
+    "covered_by": "Global-remote contracting from a talent-exporting region",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Global-remote contracting from a talent-exporting region",
+    "covered_by": "Global-remote contracting from a talent-exporting region",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "governance risk compliance",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Governance, risk and compliance analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Government and public sector IT",
+    "covered_by": "Government and public sector IT",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "government scientist",
+    "covered_by": "National laboratory and public institute researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "govtech engineer",
+    "covered_by": "Government and public sector IT",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "GPU kernel engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "graphics programmer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "GRC analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "grid software engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Guidewire developer",
+    "covered_by": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "GxP validation",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "hardware layout engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Hardware test engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "head of engineering",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "head of security",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "health informatics analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Healthcare IT analyst (Cerner)",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "HPC engineer",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "IAM engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "ICS security engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Identity and access management engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "IEC 62304 engineer",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "imaging machine learning engineer",
+    "covered_by": "Medical device software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Implementation consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "incident responder",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "incident response",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "independent consultant",
+    "covered_by": "Independent specialist consultant",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Independent specialist consultant",
+    "covered_by": "Independent specialist consultant",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "indie product",
+    "covered_by": "Small software products",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Industrial automation and OT security",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Industrial research scientist",
+    "covered_by": "Industrial research scientist",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "industry transition",
+    "covered_by": "Leaving research: the doctorate in an ordinary job",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "inference engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "infrastructure engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "instructor",
+    "covered_by": "Teaching-focused faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Insurance core systems (Guidewire and Duck Creek)",
+    "covered_by": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "interim engineering leader",
+    "covered_by": "Fractional technical leadership",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "internal developer platform engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "international freelancing",
+    "covered_by": "Global-remote contracting from a talent-exporting region",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "internationalisation engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "iOS engineer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "ISO 26262 engineer",
+    "covered_by": "Automotive functional safety and embedded platforms",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "IT auditor",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "IT manager",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "IT project manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "IT support / helpdesk",
+    "covered_by": "IT support / helpdesk",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "Junior UX / UX research",
+    "covered_by": "Junior UX / UX research",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "kernel developer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "Kubernetes engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "Leaving research: the doctorate in an ordinary job",
+    "covered_by": "Leaving research: the doctorate in an ordinary job",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "lecturer",
+    "covered_by": "Teaching-focused faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "legal engineer",
+    "covered_by": "Legal technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "legal operations technologist",
+    "covered_by": "Legal technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Legal technology",
+    "covered_by": "Legal technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "LLMOps engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Localisation engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "localization engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "Low-code developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Machine learning engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "profiled"
+  },
+  {
+    "title": "Mainframe / COBOL developer",
+    "covered_by": "Mainframe / COBOL developer",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "mainframe developer",
+    "covered_by": "Mainframe / COBOL developer",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "maintainer",
+    "covered_by": "Open source maintainer",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Malware analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Manual QA / software tester",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "master data management specialist",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Materials informatics scientist",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Medical device software",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Medical imaging AI engineer",
+    "covered_by": "Medical device software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "micro SaaS",
+    "covered_by": "Small software products",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Microsoft Dynamics consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "MLOps engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "Mobile developer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "molecular modelling scientist",
+    "covered_by": "Computational chemistry and cheminformatics",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "monitoring engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "national lab staff scientist",
+    "covered_by": "National laboratory and public institute researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "National laboratory and public institute researcher",
+    "covered_by": "National laboratory and public institute researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Natural language processing engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "absorbed"
+  },
+  {
+    "title": "Network and computer systems administrator",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "contracting"
+  },
+  {
+    "title": "network architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "network engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "network operations technician",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "neural engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "NLP engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "absorbed"
+  },
+  {
+    "title": "no-code specialist",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "NOC technician",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "numerical simulation scientist",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "numerical weather prediction scientist",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "nursing informatics specialist",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Observability engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "Open source maintainer",
+    "covered_by": "Open source maintainer",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Operations research analyst",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "optical engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "optimisation analyst",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Oracle applications consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Oracle EBS consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Oracle Fusion consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Oracle Health analyst",
+    "covered_by": "Epic healthcare IT analyst",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "OSS engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "part-time technical leadership",
+    "covered_by": "Fractional technical leadership",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "payments engineer",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "payments platform engineer",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "PCB design engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Penetration tester",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "perception engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "performance data analyst",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "personalisation engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "pharma validation engineer",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "PhD exit",
+    "covered_by": "Leaving research: the doctorate in an ordinary job",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Photonics engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Physical design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Platform engineer",
+    "covered_by": "DevOps / site reliability engineer",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "PLC programmer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "policy administration developer",
+    "covered_by": "Insurance core systems (Guidewire and Duck Creek)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "post-academic career",
+    "covered_by": "Leaving research: the doctorate in an ordinary job",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Post-quantum cryptography migration engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "postdoc",
+    "covered_by": "Postdoctoral researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Postdoctoral researcher",
+    "covered_by": "Postdoctoral researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Power Platform developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "PQC engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "pre-sales engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "precision agriculture developer",
+    "covered_by": "Agricultural technology",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Privacy engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "privacy officer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "product manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "product owner",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "product security engineer",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "professor of practice",
+    "covered_by": "Teaching-focused faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "programmer analyst",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "contracting"
+  },
+  {
+    "title": "Prompt engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "absorbed"
+  },
+  {
+    "title": "public research institute",
+    "covered_by": "National laboratory and public institute researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "public sector modernisation",
+    "covered_by": "Government and public sector IT",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "QA engineer",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "absorbed"
+  },
+  {
+    "title": "quant",
+    "covered_by": "Quantitative finance (researcher, trader, developer)",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quant developer",
+    "covered_by": "Quantitative finance (researcher, trader, developer)",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quant researcher",
+    "covered_by": "Quantitative finance (researcher, trader, developer)",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Quantitative finance (researcher, trader, developer)",
+    "covered_by": "Quantitative finance (researcher, trader, developer)",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quantitative trader",
+    "covered_by": "Quantitative finance (researcher, trader, developer)",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Quantum computing",
+    "covered_by": "Quantum computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quantum error correction engineer",
+    "covered_by": "Quantum computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quantum researcher",
+    "covered_by": "Quantum computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "quantum software engineer",
+    "covered_by": "Quantum computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "radio frequency engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "radiology AI engineer",
+    "covered_by": "Medical device software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "RAG engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Rail signalling engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "railway control systems engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "RAN software engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "ranking engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "Recommender systems engineer",
+    "covered_by": "Machine learning engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "red team operator",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "regulated medical software engineer",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "remote contracting",
+    "covered_by": "Global-remote contracting from a talent-exporting region",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "remote sensing engineer",
+    "covered_by": "Geospatial engineering and earth observation",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "reporting analyst",
+    "covered_by": "Entry-level data analyst",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "research associate",
+    "covered_by": "Postdoctoral researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Research computing and high-performance computing",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "research fellow",
+    "covered_by": "Postdoctoral researcher",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "research migration route",
+    "covered_by": "The funded doctorate as a route abroad",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "research scientist",
+    "covered_by": "Industrial research scientist",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "research software engineer",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "reverse engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "RF engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Robotics and automation software",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "robotics software engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "RTL design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Rust systems engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "S/4HANA functional",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Sales engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "Salesforce administrator",
+    "covered_by": "Salesforce administrator",
+    "chapter": "24",
+    "status": "profiled"
+  },
+  {
+    "title": "SaMD developer",
+    "covered_by": "Medical device software",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "SAP Basis",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "SAP consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "SAP S/4HANA (ABAP, Basis, functional)",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "satellite software engineer",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "SCADA engineer",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "scientific computing specialist",
+    "covered_by": "Research computing and high-performance computing",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "scrum master",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "SDE",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "SDET",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "absorbed"
+  },
+  {
+    "title": "secure software developer",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Security architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "security content engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Security generalist",
+    "covered_by": "Security generalist",
+    "chapter": "23",
+    "status": "profiled"
+  },
+  {
+    "title": "security operations",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "security operations centre analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "security researcher (independent)",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "self-driving engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "Semiconductor process engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "service desk analyst",
+    "covered_by": "IT support / helpdesk",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "ServiceNow administrator",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "ServiceNow architect",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "ServiceNow developer",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Shopify developer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "silicon photonics engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "simulation engineer (industrial)",
+    "covered_by": "Industrial automation and OT security",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Small software products",
+    "covered_by": "Small software products",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "smart contract auditor",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "stable"
+  },
+  {
+    "title": "smart contract engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "stable"
+  },
+  {
+    "title": "SOC analyst",
+    "covered_by": "Security specialisations (appsec, SOC, incident response, GRC)",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Software developer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "software development engineer in test",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "absorbed"
+  },
+  {
+    "title": "software engineer",
+    "covered_by": "Backend engineer",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "Software quality assurance analyst and tester",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "absorbed"
+  },
+  {
+    "title": "solutions architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "solutions engineer",
+    "covered_by": "not profiled",
+    "chapter": "28",
+    "status": "stable"
+  },
+  {
+    "title": "solutions engineer (AI)",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Space systems software engineer",
+    "covered_by": "Defence and aerospace software",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "sponsored developer",
+    "covered_by": "Open source maintainer",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Sports analytics engineer",
+    "covered_by": "not profiled",
+    "chapter": "26",
+    "status": "stable"
+  },
+  {
+    "title": "Statistician",
+    "covered_by": "not profiled",
+    "chapter": "27",
+    "status": "stable"
+  },
+  {
+    "title": "Storage engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "support engineer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "sustainability data engineer",
+    "covered_by": "Climate and energy systems software",
+    "chapter": "26",
+    "status": "growing"
+  },
+  {
+    "title": "sysadmin",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "contracting"
+  },
+  {
+    "title": "systems administrator",
+    "covered_by": "not profiled",
+    "chapter": "30",
+    "status": "contracting"
+  },
+  {
+    "title": "systems analyst",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Systems engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "Systems programmer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "stable"
+  },
+  {
+    "title": "talent partner (technical)",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "teaching professor",
+    "covered_by": "Teaching-focused faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "Teaching-focused faculty",
+    "covered_by": "Teaching-focused faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "technical account manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "technical architect",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "technical consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Technical education and content",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Technical product manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "technical program manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Technical programme manager",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "Technical recruiter",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "contracting"
+  },
+  {
+    "title": "technical writer",
+    "covered_by": "Technical education and content",
+    "chapter": "28",
+    "status": "profiled"
+  },
+  {
+    "title": "Telecom network and OSS/BSS systems",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "Temenos developer",
+    "covered_by": "Core banking and payments engineering",
+    "chapter": "25",
+    "status": "profiled"
+  },
+  {
+    "title": "tenure-track faculty",
+    "covered_by": "The academic path: doctorate to tenure-track faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "test automation engineer",
+    "covered_by": "Manual QA / software tester",
+    "chapter": "24",
+    "status": "absorbed"
+  },
+  {
+    "title": "The academic path: doctorate to tenure-track faculty",
+    "covered_by": "The academic path: doctorate to tenure-track faculty",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "The funded doctorate as a route abroad",
+    "covered_by": "The funded doctorate as a route abroad",
+    "chapter": "27",
+    "status": "profiled"
+  },
+  {
+    "title": "threat and warning analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "Threat intelligence analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "growing"
+  },
+  {
+    "title": "TPM",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "stable"
+  },
+  {
+    "title": "UAS engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "UI developer",
+    "covered_by": "Junior UX / UX research",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "unmanned systems engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "UX engineer",
+    "covered_by": "Junior UX / UX research",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "validation engineer",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "VLSI design engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "Vulnerability assessment analyst",
+    "covered_by": "not profiled",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "warehouse automation engineer",
+    "covered_by": "Robotics and automation software",
+    "chapter": "26",
+    "status": "profiled"
+  },
+  {
+    "title": "Web and digital interface designer",
+    "covered_by": "Junior UX / UX research",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "Web developer",
+    "covered_by": "Generalist frontend / web development",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "web3 developer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "stable"
+  },
+  {
+    "title": "WebAssembly engineer",
+    "covered_by": "not profiled",
+    "chapter": "23",
+    "status": "growing"
+  },
+  {
+    "title": "wireless engineer",
+    "covered_by": "Telecom network and OSS/BSS systems",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "WordPress developer",
+    "covered_by": "not profiled",
+    "chapter": "24",
+    "status": "contracting"
+  },
+  {
+    "title": "Workday consultant",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "Workday integration developer",
+    "covered_by": "SAP S/4HANA (ABAP, Basis, functional)",
+    "chapter": "25",
+    "status": "stable"
+  },
+  {
+    "title": "yield engineer",
+    "covered_by": "not profiled",
+    "chapter": "29",
+    "status": "growing"
+  },
+  {
+    "title": "z/OS developer",
+    "covered_by": "Mainframe / COBOL developer",
+    "chapter": "25",
+    "status": "profiled"
+  }
+]
