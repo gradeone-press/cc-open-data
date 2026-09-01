@@ -1,4 +1,5 @@
 # Computing Careers 2026 — source bibliography and gap register
+[![DOI](https://zenodo.org/badge/1340829213.svg)](https://doi.org/10.5281/zenodo.22225579)
 
 Open data from *Computing Careers 2026*, published by **Grade One**.
 Licensed **CC BY 4.0**. See `LICENCE.txt`.
