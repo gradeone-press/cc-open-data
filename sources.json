@@ -172,7 +172,7 @@
     "method": "ADP payroll microdata, 3.5 to 5 million US workers a month, data through June 2026",
     "key_figure": "19% relative employment decline for workers aged 22-25 in AI-exposed occupations, November 2022 to June 2026: the two most exposed quintiles fell about 11% while the three least exposed grew about 10%, a divergence of 21 percentage points. Experienced workers show no comparable gap. Fact 4 is the one that matters most to an entrant: the divergence runs through reduced hiring rather than increased separations, and separations among young workers fell at least as fast in exposed occupations as in unexposed ones.",
     "note": "One paper, three published estimates, and they are versions rather than rival quantities. 13% in the August 2025 version, data to July 2025. 16% in the November 2025 version. 19% in the August 2026 version, data to June 2026. Every revision extended the window and raised the estimate, so the version has to be quoted with the number. The 19% is a levels comparison and is NOT the firm-controlled figure. The August 2025 abstract had claimed the decline held after controlling for firm-level shocks; under firm-time fixed effects this version reports only that changes are \"directionally consistent... though precision varies across samples\". The headline grew and the control behind it weakened in the same revision, which is why the book states both. Separately, ~20% was an ABSOLUTE fall, software developers aged 22-25 only, against their own late-2022 peak. It was Fact 1 of the November 2025 version. The August 2026 version restated its six facts and the developer-specific series is now an appendix chart with no figure in the text, so it is dated to the version it came from. Do not let any of this regress: an outside reader has twice tried to correct one of these numbers into another.",
-    "caveat": "The age gap alone does not identify an AI effect, because young hiring is more cyclical than experienced hiring in any downturn. The cross-occupation comparison is what carries the weight. This version flags three limits of its own: the estimates attenuate when occupational education level is controlled for, some divergence between exposed and unexposed occupations predates ChatGPT, and the pattern is stronger in the ADP sample than in national survey benchmarks such as the CPS and the ACS. The authors' own summary is that the results \"may be influenced by factors other than generative AI\" and are \"consistent with the hypothesis\" that AI has begun to affect entry-level employment. That is weaker than the causal reading the coverage gives it, and it is the reading this book prints. See stanford-canaries-timing-2026 and eig-looking-for-the-ladder-2026 for the live dispute over timing.",
+    "caveat": "The age gap alone does not identify an AI effect, because young hiring is more cyclical than experienced hiring in any downturn. The cross-occupation comparison is what carries the weight. This version flags three limits of its own: the estimates attenuate when occupational education level is controlled for, some divergence between exposed and unexposed occupations predates ChatGPT, and the pattern is stronger in the ADP sample than in national survey benchmarks such as the CPS and the ACS. The authors' own summary is that the results \"may be influenced by factors other than generative AI\" and are \"consistent with the hypothesis\" that AI has begun to affect entry-level employment. That is weaker than the causal reading the coverage gives it, and it is the reading printed here. See stanford-canaries-timing-2026 and eig-looking-for-the-ladder-2026 for the live dispute over timing.",
     "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
     "retrieved": "2026-08-13",
     "distinct_from": {
@@ -449,11 +449,11 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "Across more than 100 million applications and 200,000 jobs, the average opening now draws over 300 candidates, roughly triple the 2021 level.",
-    "caveat": "Counts applications processed by one system, so the population is employers who buy that product, weighted towards technology companies. It counts applications rather than applicants, and one person may send many. The denominator is not settled: the vendor's own published headline is applications per HIRE, and per opening is a smaller number. This book has not read the primary and grades the figure accordingly.",
+    "caveat": "Counts applications processed by one system, so the population is employers who buy that product, weighted towards technology companies. It counts applications rather than applicants, and one person may send many. The denominator is not settled: the vendor's own published headline is applications per HIRE, and per opening is a smaller number. The primary has not been read, and the figure is graded accordingly.",
     "used_in": [
       "ch11"
     ],
-    "no_url": "The vendor's figures reached this book through press coverage rather than a published report. Recorded as 'as reported' for that reason.",
+    "no_url": "The vendor's figures reached this record through press coverage rather than a published report. Recorded as 'as reported' for that reason.",
     "grade": 4
   },
   {
@@ -601,7 +601,7 @@
     "date": 2026,
     "reliability": 5,
     "key_figure": "The engineering entrance paper requires Mathematics as a school subject. A student in the Physics-Chemistry-Biology stream without Mathematics cannot sit it. Taking Mathematics without Biology closes the medical entrance route in the other direction.",
-    "caveat": "The primary source is the exam body's own eligibility notification, which it republishes every year. This edition did not read it. The structural fact — Mathematics is required — is stable and widely reported, but the details around accepted substitute subjects and qualifying marks change, and a reader must check the current notification rather than this book.",
+    "caveat": "The primary source is the exam body's own eligibility notification, which it republishes every year. This edition did not read it. The structural fact — Mathematics is required — is stable and widely reported, but the details around accepted substitute subjects and qualifying marks change, and a reader must check the current notification rather than this record.",
     "gap": true,
     "used_in": [
       "ch14"
@@ -884,7 +884,7 @@
     "date": 2026,
     "reliability": 5,
     "key_figure": "Claims include a 340% rise in legal AI postings between January 2024 and January 2026, 78% of large US firms creating an AI role, and AI legal specialists earning $180,000-$350,000.",
-    "caveat": "Nearly all of this traces to sites that sell courses or recruit. The percentage rise has no stated base. This book cites the field as an example of coverage running far ahead of measurement.",
+    "caveat": "Nearly all of this traces to sites that sell courses or recruit. The percentage rise has no stated base. The field is cited as an example of coverage running far ahead of measurement.",
     "used_in": [
       "ch26"
     ],
@@ -1018,7 +1018,7 @@
     "date": 2026,
     "reliability": 5,
     "key_figure": "A 400,000-worker deficit; sector unemployment quoted at 1.5-2.9% against a 3.6-4.2% national rate",
-    "caveat": "Repeated everywhere and traceable nowhere in the form quoted. This book cites it as an example of a claim to distrust, in the manner of Ch 4. The tightness is real; the number is not evidence.",
+    "caveat": "Repeated everywhere and traceable nowhere in the form quoted. It is cited as an example of a claim to distrust, in the manner of Ch 4. The tightness is real; the number is not evidence.",
     "used_in": [
       "ch25"
     ],
@@ -1142,7 +1142,7 @@
     "used_in": [
       "ch25"
     ],
-    "no_url": "A salary aggregator's live pages. Chapter 5 grades these 4 and this book does not link to them, because sending a reader to a site it has told them to distrust works against the text.",
+    "no_url": "A salary aggregator's live pages. Chapter 5 grades these 4 and they are not linked here, because sending a reader to a site it has told them to distrust works against the text.",
     "grade": 4
   },
   {
@@ -1181,7 +1181,7 @@
     "date": 2026,
     "reliability": 5,
     "key_figure": "Average mainframe developer age commonly cited as 55-60",
-    "caveat": "Vendor-promoted and weakly sourced. This book cites it only as an example of a claim to distrust. See Ch 4. The ageing trend is plausible; the number is not evidence.",
+    "caveat": "Vendor-promoted and weakly sourced. It is cited only as an example of a claim to distrust. See Ch 4. The ageing trend is plausible; the number is not evidence.",
     "used_in": [
       "ch04",
       "ch25"
@@ -1250,7 +1250,7 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "$150-$500 per hour, $1,500-$4,000 per day, or $5,000-$15,000 monthly on retainer, with a common engagement around 12 hours a week. One platform quotes an average of $216/hour in North America. Gartner is cited as forecasting that over 30% of midsize enterprises will retain a fractional executive by 2027.",
-    "caveat": "Every source found sells fractional placements. The Gartner forecast is quoted second-hand throughout and was not read directly for this book. One platform also reports demand falling over the most recent 90 days, which sits oddly beside the growth story and is worth more attention than the forecast.",
+    "caveat": "Every source found sells fractional placements. The Gartner forecast is quoted second-hand throughout and was not read directly. One platform also reports demand falling over the most recent 90 days, which sits oddly beside the growth story and is worth more attention than the forecast.",
     "used_in": [
       "ch28"
     ],
@@ -1279,12 +1279,12 @@
     "date": "2026-08",
     "reliability": 2,
     "key_figure": "No source at grade 3 or better publishes pay for a named computing specialisation in India. The national labour survey stops at the occupation group. Institutional placement medians are self-reported by the institution. Aggregator sites are grade 4 and excluded.",
-    "caveat": "This is a finding about India's statistical system rather than about Indian pay. Salaries obviously exist and are known to the people earning them; they are not published at a standard this book can cite.",
+    "caveat": "This is a finding about India's statistical system rather than about Indian pay. Salaries obviously exist and are known to the people earning them; they are not published at a standard this dataset can cite.",
     "gap": true,
     "used_in": [
       "ch12"
     ],
-    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
+    "no_url": "This record is an assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
     "grade": 2
   },
   {
@@ -1294,7 +1294,7 @@
     "date": 2026,
     "reliability": 1,
     "key_figure": "The engineering paper requires Physics and Mathematics as compulsory subjects, plus one of Chemistry, Biology, Biotechnology or a technical vocational subject. There is no age limit. Candidates may attempt it in three consecutive years. Admission to the national institutes requires a 75% aggregate at Class 12, or 65% for scheduled caste and tribe candidates, or a place in the top twenty percentile of the board.",
-    "caveat": "Rules are republished each year and the qualifying percentage and accepted substitute subjects have moved before. Read the current notification rather than this book.",
+    "caveat": "Rules are republished each year and the qualifying percentage and accepted substitute subjects have moved before. Read the current notification rather than this record.",
     "no_url": "The examination information bulletin is reissued each cycle at a new address. No stable locator was verified for this edition.",
     "retrieved": "2026-08-10",
     "used_in": [
@@ -1345,7 +1345,7 @@
       "ch12",
       "ch40"
     ],
-    "no_url": "Industry association report published behind registration. Figures reached this book through press coverage of it.",
+    "no_url": "Industry association report published behind registration. Figures reached this record through press coverage of it.",
     "grade": 3
   },
   {
@@ -1432,7 +1432,7 @@
     "reliability": 1,
     "method": "Statutory disclosure under Section 197(12) of the Companies Act 2013 read with Rule 5(1) of the Companies (Appointment and Remuneration of Managerial Personnel) Rules 2014. Published in the Board's Report of the audited annual report, printed pages 139 to 140.",
     "key_figure": "Median remuneration of employees was ₹947,425 in financial year 2025-26 against ₹978,516 in 2024-25, a decrease of 3.18%. Permanent employees on the rolls rose from 233,346 to 242,156. The aggregate remuneration of employees grew 0.7%, which the company attributes to the increase in headcount.",
-    "caveat": "A company-wide median across every function, not a computing role. It covers the listed entity including overseas branches but excludes subsidiaries, so it is mostly but not purely Indian. A fall in cash terms is a fall in real terms whatever inflation was, but this book has not sourced the inflation figure needed to size the real cut.",
+    "caveat": "A company-wide median across every function, not a computing role. It covers the listed entity including overseas branches but excludes subsidiaries, so it is mostly but not purely Indian. A fall in cash terms is a fall in real terms whatever inflation was, but the inflation figure needed has not been sourced to size the real cut.",
     "used_in": [
       "ch13",
       "ch40"
@@ -1548,7 +1548,7 @@
     "date": "2026-08",
     "reliability": 1,
     "key_figure": "Listed companies must publish a median employee pay figure. Capability centres are wholly-owned private subsidiaries of foreign parents, are not listed in India, and carry no such duty. A foreign parent's own pay ratio disclosure covers its global workforce and cannot isolate the Indian entity. So one side of the comparison is compelled and the other is absent by construction.",
-    "caveat": "Consultancy compensation surveys do put a premium at 12% to 20%. Their methodology is not published, most visible citations are marketing pages rather than the reports, and a survey is grade 2 at best, which fails this book's grade 3 bar for pay in any case.",
+    "caveat": "Consultancy compensation surveys do put a premium at 12% to 20%. Their methodology is not published, most visible citations are marketing pages rather than the reports, and a survey is grade 2 at best, which fails the grade 3 bar for pay in any case.",
     "gap": true,
     "no_url": "An assessment of what the disclosure law does not require, not a document. The statute it reasons from is india-rule5-median-pay-duty.",
     "retrieved": "2026-08-10",
@@ -1582,7 +1582,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "112 certified filings. Offered annual wage, lowest tenth $85,178, median $116,208, highest tenth $160,436. GEICO entities filed 19 of the 112.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 112 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1598,7 +1598,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "2488 certified filings. Offered annual wage, lowest tenth $85,276, median $112,930, highest tenth $160,000. IBM filed 63 and Yash Technologies 34. The count is the largest of any specialisation here.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 2488 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1614,7 +1614,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "222 certified filings. Offered annual wage, lowest tenth $82,381, median $105,998, highest tenth $136,899. IBM filed 12. The spread is the narrowest in the pass.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 222 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1630,7 +1630,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "222 certified filings. Offered annual wage, lowest tenth $88,000, median $130,125, highest tenth $186,940. Ford filed 61 and Lucid 37, so the figure leans toward vehicle manufacturers rather than suppliers.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 222 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1646,7 +1646,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "246 certified filings. Offered annual wage, lowest tenth $85,740, median $131,867, highest tenth $200,001. ArcBest Technologies filed 10 and Tesla 9.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 246 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch26"
@@ -1662,7 +1662,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "361 certified filings. Offered annual wage, lowest tenth $70,000, median $100,000, highest tenth $152,080. St. Jude filed 17 and PPD Development 12, so research institutes and contract research dominate.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 361 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch26"
@@ -1678,7 +1678,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "107 certified filings. Offered annual wage, lowest tenth $58,690, median $83,200, highest tenth $127,035. The lowest median of any specialisation in this pass.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 107 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch26"
@@ -1694,7 +1694,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "3604 certified filings. Offered annual wage, lowest tenth $58,656, median $68,000, highest tenth $82,000. University of Michigan filed 119 and Stanford 96. The narrowest spread in the pass, which is what a public pay scale looks like.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 3604 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch27"
@@ -1710,7 +1710,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "2663 certified filings. Offered annual wage, lowest tenth $68,957, median $109,616, highest tenth $220,700. Meta filed 420 and Stanford 100. The widest spread in the pass, because the title covers both.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 2663 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch27"
@@ -1726,7 +1726,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "49 certified filings. Offered annual wage, lowest tenth $72,338, median $109,699, highest tenth $146,574. Thin at 49 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 49 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1742,7 +1742,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "37 certified filings. Offered annual wage, lowest tenth $61,090, median $93,205, highest tenth $175,606. Thin at 37 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 37 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1758,7 +1758,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "26 certified filings. Offered annual wage, lowest tenth $72,667, median $118,633, highest tenth $202,400. Thin at 26, AND THE THINNESS IS THE FINDING: this work generally needs a security clearance, a clearance needs citizenship, so sponsored workers structurally cannot hold most of these roles. Chapter 25's clearance gate predicts exactly this.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 26 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch25"
@@ -1774,7 +1774,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "13 certified filings. Offered annual wage, lowest tenth $94,664, median $150,000, highest tenth $183,560. Very thin at 13 filings, all pharmaceutical: Bristol-Myers Squibb and Wave Life Sciences.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 13 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch26"
@@ -1790,7 +1790,7 @@
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
     "key_figure": "18 certified filings. Offered annual wage, lowest tenth $74,851, median $101,837, highest tenth $143,800. Very thin at 18 filings.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 18 filings is part of the figure and must be printed with it.",
-    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this book.",
+    "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
       "ch26"
@@ -1804,7 +1804,7 @@
     "reliability": 2,
     "method": "Analysis of the publisher's own job-posting corpus, indexed to February 2020, segmented by an occupational AI-exposure measure.",
     "key_figure": "United States software development postings rose about 15% between February 2025 and mid-2026 while overall postings fell about 7%. They remain roughly 27.5% below the February 2020 baseline. 71% of the increase came from senior roles and 37% from roles naming AI in the title. The relationship between AI exposure and posting decline, which held from 2022, inverted after May 2025: the most AI-exposed occupations are now rebounding fastest.",
-    "caveat": "Explicitly correlational and senior-skewed. The publisher does not claim causation and neither does this book. Postings are not hires. The reversal finding is one publisher's measure of AI exposure, not an agreed one.",
+    "caveat": "Explicitly correlational and senior-skewed. The publisher does not claim causation and neither does this record. Postings are not hires. The reversal finding is one publisher's measure of AI exposure, not an agreed one.",
     "used_in": [
       "ch06",
       "ch09",
@@ -2130,7 +2130,7 @@
     "reliability": 1,
     "method": "Published eligibility criteria for the ten-year skilled-professional category.",
     "key_figure": "Ten-year residence requiring a monthly salary of at least AED 30,000, a bachelor's degree or higher, and an employment contract approved in the UAE, in labour-ministry skill level 1 or 2. Software engineering sits in level 2.",
-    "caveat": "TWO THINGS CHANGED HERE ON 2026-08-21 AND BOTH MATTER. The federal portal page this record used to cite was retired and now 404s, and the page that replaced it lists investor and exceptional-talent categories with no salary band for skilled professionals at all. The threshold is now cited to the Abu Dhabi government, which publishes it plainly; it is an emirate statement of a federal rule, which is a step down from where this record started. Separately, this record previously said BASIC salary and asserted that the basic-versus-gross distinction was the point. The cited page does not say basic. It says \"minimum monthly salary of AED 30,000 or equivalent\". Every source found that specifies basic salary excluding allowances is a visa consultancy, which Chapter 5 grades at 5 and this book does not print. So the qualifier is removed rather than kept on evidence the book would reject from anyone else. A reader near the threshold should assume the stricter reading and ask the employer which figure the contract states.",
+    "caveat": "TWO THINGS CHANGED HERE ON 2026-08-21 AND BOTH MATTER. The federal portal page this record used to cite was retired and now 404s, and the page that replaced it lists investor and exceptional-talent categories with no salary band for skilled professionals at all. The threshold is now cited to the Abu Dhabi government, which publishes it plainly; it is an emirate statement of a federal rule, which is a step down from where this record started. Separately, this record previously said BASIC salary and asserted that the basic-versus-gross distinction was the point. The cited page does not say basic. It says \"minimum monthly salary of AED 30,000 or equivalent\". Every source found that specifies basic salary excluding allowances is a visa consultancy, which Chapter 5 grades at 5 and which is not printed here. So the qualifier is removed rather than kept on evidence the book would reject from anyone else. A reader near the threshold should assume the stricter reading and ask the employer which figure the contract states.",
     "url": "https://www.added.gov.ae/en/live/long-term-residency/abu-dhabi-golden-visa/for-specialists/for-skilled-professionals",
     "used_in": [
       "ch12"
@@ -2164,7 +2164,7 @@
     "used_in": [
       "ch12"
     ],
-    "no_url": "This record is this book's own assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
+    "no_url": "This record is an assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
     "grade": 2
   },
   {
@@ -2252,7 +2252,7 @@
     "used_in": [
       "ch13"
     ],
-    "no_url": "The figures were read from the publisher's own bulk release, national_M2025_dl.xlsx, and bls.gov returns 403 to automated requests so that file cannot be linked in a way a reader could check the way this book asks. This record previously carried an O*NET link, which locates the occupation but not the release these numbers were read from: a locator that points somewhere other than where the data came from is the fault corrected in bls-employment-projections-2024-2034 on 2026-08-22, found again here by the audit that followed it. Downloadable from bls.gov/oes under the May 2025 national release.",
+    "no_url": "The figures were read from the publisher's own bulk release, national_M2025_dl.xlsx, and bls.gov returns 403 to automated requests so that file cannot be linked in a way a reader could check the way this dataset asks. This record previously carried an O*NET link, which locates the occupation but not the release these numbers were read from: a locator that points somewhere other than where the data came from is the fault corrected in bls-employment-projections-2024-2034 on 2026-08-22, found again here by the audit that followed it. Downloadable from bls.gov/oes under the May 2025 national release.",
     "distinct_from": {
       "india-infosys-seniority-bands": "Shares 10, 11 and 25 by coincidence. Those are percentile labels and lakh figures respectively. One record is an American establishment survey; the other is one Indian company's disclosure.",
       "onet-soc-computing-2026": "Shares 1211, 1299 and 15 because both use the same Standard Occupational Classification, so the code fragments necessarily match. They are different documents: that record is the occupational taxonomy, this one is the wage and employment survey reported against it."
@@ -2416,7 +2416,7 @@
       "ch24",
       "ch25"
     ],
-    "no_url": "Published behind a registration form. Figures reached this book through the institute's own summaries of it.",
+    "no_url": "Published behind a registration form. Figures reached this record through the institute's own summaries of it.",
     "caveat": "A survey of employers who chose to answer a security training provider's questionnaire, so the sample leans toward organisations already engaged with training. It ranks what employers say they weigh, which is not the same as what their hiring actually does.",
     "grade": 2
   },
@@ -2550,7 +2550,7 @@
       "ch14",
       "ch15"
     ],
-    "no_url": "Compiled by this book from eleven national statistical sources and education ministries. Appendix G lists each one separately with its own route in.",
+    "no_url": "Compiled for this dataset from eleven national statistical sources and education ministries. Appendix G lists each one separately with its own route in.",
     "grade": 2
   },
   {
@@ -2581,7 +2581,7 @@
       "ch07",
       "ch16"
     ],
-    "no_url": "Compiled by this book from national consumer-protection authorities. Appendix G lists each one separately.",
+    "no_url": "Compiled for this dataset from national consumer-protection authorities. Appendix G lists each one separately.",
     "grade": 2
   },
   {
@@ -2704,7 +2704,7 @@
     "reliability": 1,
     "method": "Built by the ministry from eSocial and monthly RAIS payroll records, which employers are legally obliged to file, not from a survey. Private employers with 100 or more staff are covered and reports are issued twice a year. Any report is public and retrieved by the employer's tax number. Three were read for this edition, on 2026-08-13: CI&T Software 00.609.634/0001-46, TOTVS 53.113.791/0001-22 and Nu Pagamentos 18.236.120/0001-58, all first-half 2026 reports covering pay for calendar 2025 with headcount at 31 December 2025.",
     "key_figure": "Women's pay as a percentage of men's, for a named employer, company-wide and within five broad occupational bands. Software work falls in the band called higher-education-level professionals. CI&T: 4,277 workers, 27.8% women, median contractual salary 82.5% and that band 80.2%. TOTVS: 4,144 workers, 37.5% women, median 73.6%, band 76.2%. Nu Pagamentos: 2,342 workers, 43.6% women, median 80.5%, band 83.9%. Each report also gives the workforce split by race.",
-    "caveat": "READ IT FOR WHAT IT IS. There is no amount of money anywhere in one of these reports. An earlier draft of this book called this the only regime anywhere publishing pay by occupation for a named employer; that was written before a report had been opened and it is wrong. A reader cannot learn what a developer is paid at a named Brazilian employer from this or from anything else found. A band containing fewer than three women or three men is left blank, so a smaller employer's report is largely empty, and the bands are broad enough that a developer and a lawyer sit in the same one. What it does establish for any employer over a hundred staff is headcount, the split by sex and race, and whether the gap widens with seniority.",
+    "caveat": "READ IT FOR WHAT IT IS. There is no amount of money anywhere in one of these reports. An earlier draft called this the only regime anywhere publishing pay by occupation for a named employer; that was written before a report had been opened and it is wrong. A reader cannot learn what a developer is paid at a named Brazilian employer from this or from anything else found. A band containing fewer than three women or three men is left blank, so a smaller employer's report is largely empty, and the bands are broad enough that a developer and a lawyer sit in the same one. What it does establish for any employer over a hundred staff is headcount, the split by sex and race, and whether the gap widens with seniority.",
     "used_in": [
       "ch13"
     ],
@@ -2754,7 +2754,7 @@
     "reliability": 1,
     "method": "Regulation requiring every employer, of any size, to keep an annual pay register showing mean and median base pay, salary complements and extra-salarial payments, split by sex and distributed across professional groups, categories, levels and posts.",
     "key_figure": "The register is internal and is not published. Article 5.3 gives workers' legal representatives a right to its full content. Where there is no legal representation, the individual worker is given only the percentage difference between the averaged pay of men and women, and not the amounts.",
-    "caveat": "Recorded because of what it proves rather than what it supplies. Spain compels every employer in the country to compute exactly the table this book keeps saying does not exist: pay by job category, for a named employer. It then keeps it out of the reader's hands. So where this book says pay per occupation per named employer is not published anywhere, the Spanish case shows that at least one country's gap is a decision about disclosure and not a failure of measurement.",
+    "caveat": "Recorded because of what it proves rather than what it supplies. Spain compels every employer in the country to compute exactly the table this dataset keeps recording as missing: pay by job category, for a named employer. It then keeps it out of the reader's hands. So where this dataset records pay per occupation per named employer as not published anywhere, the Spanish case shows that at least one country's gap is a decision about disclosure and not a failure of measurement.",
     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12215",
     "retrieved": "2026-08-14",
     "used_in": [
@@ -2923,7 +2923,7 @@
     "reliability": 2,
     "method": "Survey of graduates at one and five years after the degree. The duration is computed only for those who declared they were not working at graduation, and is reported by disciplinary group rather than by occupation.",
     "key_figure": "Average months to first employment for the disciplinary group \"informatica e tecnologie ICT\": 3.2 months for a first-level degree and 4.7 months for a second-level degree. Across all groups the averages are 5.0 and 7.0 months.",
-    "caveat": "A FIELD OF STUDY IS NOT AN OCCUPATION. This measures how long computing graduates took to find any first job, not how long it takes to enter a named computing career, which is what this book's profiles ask. It also counts only graduates who were not already working, and the duration is recalled at interview rather than observed. Italy only. It is recorded because it disproves the blanket claim the book used to print — that nobody anywhere measures this — not because it answers the question.",
+    "caveat": "A FIELD OF STUDY IS NOT AN OCCUPATION. This measures how long computing graduates took to find any first job, not how long it takes to enter a named computing career, which is what the profiles ask. It also counts only graduates who were not already working, and the duration is recalled at interview rather than observed. Italy only. It is recorded because it disproves the blanket claim the book used to print — that nobody anywhere measures this — not because it answers the question.",
     "url": "https://www.almalaurea.it/news/quanto-tempo-impiegano-laureati-trovare-lavoro",
     "retrieved": "2026-08-14",
     "used_in": [
@@ -2941,7 +2941,7 @@
     "no_url": "ELA publishes through an interactive portal; a query result has no durable address and the front page is the only stable locator, checked 2026-08-20.",
     "method": "Administrative linkage of higher-education records to social-insurance records, covering graduates rather than a survey sample. Reports per institution and per field of study, including the time a graduate took to find salaried employment.",
     "key_figure": "The system publishes time to salaried employment, in months, by field of study. Computing is one of the named fields. No national computing figure has been read from it for this edition.",
-    "caveat": "Established, not read. This book has confirmed what the system publishes and how it is built; it has not opened the reports or extracted a figure, which is why this sits at grade 2 while the underlying instrument is grade 1. Two further limits matter for computing specifically. It measures time to SALARIED employment only, and self-employment and business-to- business contracting are excluded — both are common in Polish technology work, so the measure sees less of that market than of others. And a field of study is not an occupation.",
+    "caveat": "Established, not read. What the system publishes and how it is built has been confirmed here; it has not opened the reports or extracted a figure, which is why this sits at grade 2 while the underlying instrument is grade 1. Two further limits matter for computing specifically. It measures time to SALARIED employment only, and self-employment and business-to- business contracting are excluded — both are common in Polish technology work, so the measure sees less of that market than of others. And a field of study is not an occupation.",
     "retrieved": "2026-08-14",
     "used_in": [
       "ch18",
@@ -2956,10 +2956,13 @@
     "date": "2024-04-17",
     "reliability": 1,
     "method": "Enforcement action and consent order. Findings of fact by the regulator.",
-    "key_figure": "Income share agreements required students earning over $50,000 to pay 17% of pre-tax income for 24 payments, capped at $30,000. The CFPB found the agreements were loans with an average finance charge of about $4,000, marketed as carrying no debt. One missed payment could trigger default. Advertised job placement of 71-86% against an internal figure near 50%. BloomTech was permanently banned from consumer lending; the chief executive was banned from student lending for ten years.",
-    "caveat": "A United States action, under the enforcement posture of that time. Regulator priorities change with administrations, and this book cites the finding as a fact about what happened, not as a prediction that a similar scheme would be stopped today. The lesson transfers; the enforcement may not.",
-    "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-bloomtech-and-ceo-austen-allred-for-deceiving-students-and-hiding-loan-costs/",
-    "retrieved": "2026-08-12",
+    "key_figure": "Income share agreements required students earning over $50,000 to pay 17% of pre-tax income for 24 payments, capped at $30,000. The CFPB found the agreements were loans with an average finance charge of about $4,000, marketed as carrying no debt. One missed payment could trigger default. Advertised job placement of 71-86% within six months of graduation, against internal metrics closer to 50% and in some cases as low as 30%. The chief executive publicly claimed a 100% placement rate for one cohort and later acknowledged privately that the sample was one student. BloomTech was permanently banned from consumer lending; the chief executive was banned from student lending for ten years.",
+    "distinct_from": {
+      "bd-ict-exports-and-incentive": "Shares 17, 30 and 50 by coincidence, and only since this record wrote the internal placement figures out in full. Here all three describe one American school: the share of pre-tax income its agreements took, and the low and central points of the placement rate its own metrics showed. There they are Bangladeshi export and incentive percentages. Nothing means the same thing in both, and the publishers are a United States regulator and a South Asian trade body."
+    },
+    "caveat": "A United States action, under the enforcement posture of that time. Regulator priorities change with administrations, and the finding is cited as a fact about what happened, not as a prediction that a similar scheme would be stopped today. The lesson transfers; the enforcement may not.",
+    "url": "https://www.consumerfinance.gov/enforcement/actions/bloomtech-inc-and-austen-allred/",
+    "retrieved": "2026-09-06",
     "used_in": [
       "ch07",
       "ch15",
@@ -3024,7 +3027,7 @@
     "reliability": 2,
     "method": "A voluntary standard under which member schools report graduate outcomes on a defined denominator at 90, 180 and 360 days, verified by an independent audit.",
     "key_figure": "The only widely used bootcamp outcome standard with independent verification. Membership has fallen to a small number of schools.",
-    "caveat": "This book could not establish the current member count from a primary source and does not state one. What matters for the reader is the test, not the roster: ask whether a school submits to it.",
+    "caveat": "The current member count could not be established from a primary source and is not stated. What matters for the reader is the test, not the roster: ask whether a school submits to it.",
     "gap": true,
     "used_in": [
       "ch07",
@@ -3041,7 +3044,7 @@
     "reliability": 5,
     "method": "Self-reported by the school and republished by an aggregator. Not audited.",
     "key_figure": "80% of students graduated. 98% of graduates were job-seeking. 91% of job-seeking graduates found work in the field within 180 days, at a reported median income of $100,000. The 180-day figures covered 390 graduates. Tuition about $17,900.",
-    "caveat": "Cited in this book as a worked example of the denominator problem, not as evidence about App Academy, which is one of the more transparent schools precisely because it publishes the whole funnel. Compounding the three published rates gives about 71% of everyone who enrolled, against a headline of 91%. Reached through a secondary aggregator rather than the primary report, so treat the exact percentages as a range.",
+    "caveat": "Cited as a worked example of the denominator problem, not as evidence about App Academy, which is one of the more transparent schools precisely because it publishes the whole funnel. Compounding the three published rates gives about 71% of everyone who enrolled, against a headline of 91%. Reached through a secondary aggregator rather than the primary report, so treat the exact percentages as a range.",
     "used_in": [
       "ch07"
     ],
@@ -3091,7 +3094,7 @@
       "ch11",
       "ch31"
     ],
-    "no_url": "Vendor report published behind a form. Figures reached this book through its public summary.",
+    "no_url": "Vendor report published behind a form. Figures reached this record through its public summary.",
     "grade": 2
   }
 ]

@@ -73,7 +73,7 @@ It reads `yes` on the rows where a published source exists and nobody has compil
 
 ## Citing this
 
-> Source bibliography, gap register and role index, Computing Careers 2026, Grade One, edition 1.0.0.
+> Source bibliography, gap register and role index, Computing Careers 2026, Grade One Press, edition 1.0.0.
 
 Third-party material inside these files is credited where it comes from. O*NET, published by the United States Department of Labor, and ESCO, published by the European Commission, are used under CC BY 4.0. Neither body has reviewed or endorsed this book.
 
