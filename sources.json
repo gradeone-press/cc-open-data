@@ -7,9 +7,9 @@
     "date": "2026-01",
     "reliability": 2,
     "key_figure": "311 institutions advertising 588 tenure-track positions, August to mid-November 2025. Against 2024 that is 25% fewer institutions searching and 33% fewer positions sought. Excluding the 2021 pandemic season, the lowest since 2016. AI, data mining and machine learning took 29% of positions, the highest in any year of the study, and security 21%. Regional falls against 2024: Pacific West 65%, Plains 60%, West and Northeast about 50%, South 22%, Southwest and Rocky Mountain 15-20%.",
-    "caveat": "The study's own stated limit, and it matters: this counts advertised SEARCHES, not hires, and not every search appears in the venues studied. A search can be cancelled or fail. Read it as demand advertised, not jobs filled. Same method since 2015, which is what makes the trend usable.",
+    "caveat": "The study's own stated limit, and it matters: this counts advertised searches, not hires, and not every search appears in the venues studied. A search can be cancelled or fail. Read it as demand advertised, not jobs filled. Same method since 2015, which is what makes the trend usable.",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "distinct_from": {
       "stanford-canaries": "Coincidence on the ages 22 and 25 and the number 20. One counts advertised faculty searches, the other is a payroll panel of millions of workers.",
@@ -29,7 +29,7 @@
     "caveat": "Covers PhD-granting departments in the United States and Canada only. \"Known employment\" excludes graduates who did not report, which is a real hole in any destination figure.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "grade": 2
   },
@@ -44,7 +44,7 @@
     "url": "https://www.ukri.org/news/ukri-is-increasing-phd-stipends-and-improving-student-support/",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "grade": 1
   },
@@ -59,7 +59,7 @@
     "no_url": "A collective agreement between employers and unions, not a web publication. The pay table is reproduced by many public-sector sites and none of them is the issuing body.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "grade": 1
   },
@@ -72,7 +72,7 @@
     "key_figure": "United States: top-50 computer science doctorates described as fully funded, tuition waived, stipend roughly $30,000-$45,000. Germany doctoral stipends quoted at €1,200-€2,800 per month. Postdoctoral pay quoted at €50,000-€75,000 in Germany, £34,000-£45,000 in the United Kingdom, and about $55,600 in the United States.",
     "caveat": "Compilation sites aimed at prospective international students, several of which sell services to them. The UK and German public figures above are the sources to trust; these are context.",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "distinct_from": {
       "cfpb-bloomtech-2024": "Coincidence on 30000 and 50000, which are a stipend and an income-share trigger. Unrelated documents in unrelated countries."
@@ -88,7 +88,7 @@
     "key_figure": "Young, highly cited researchers about five years into their careers were reported as roughly 100 times more likely to move to industry the following year than ten-year veterans with average citation counts. Transitions to industry are associated with lower subsequent novelty and citation impact.",
     "caveat": "A relative risk with a very small base, so 100 times more likely does not mean common. Chapter 6's warning about relative figures applies directly.",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "no_url": "Several academic papers and press reports read together. No single document carries the claim.",
     "grade": 2
@@ -102,7 +102,7 @@
     "key_figure": "$160,000-$250,000 base at most companies, with frontier laboratory total packages quoted past $600,000 and starting offers above $300,000 at the top few.",
     "caveat": "Recruiter content describing the most visible employers during a hiring race. The very high figures apply to a few hundred people worldwide, not to research scientists generally.",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "grade": 4
   },
@@ -114,10 +114,10 @@
     "retrieved": "2026-08-07",
     "reliability": 1,
     "method": "Each issuer's own published exam price and recertification policy, read directly. Third-party training providers and best-certificate listicles were excluded by rule and are not used anywhere in this record. Ten-year totals are computed from the issuer's stated exam fee and its stated renewal terms, assuming one certificate held continuously with no stacking.",
-    "key_figure": "Ten-year cost to hold one certificate, United States list prices. Microsoft role-based $165, renewed free each year online. Salesforce Administrator $200, free maintenance module. Scrum.org PSM I $200, lifetime. IIBA ECBA $250, lifetime. DAMA CDMP Associate $311. AWS Cloud Practitioner $400, being $100 plus three re-sits. Google Cloud Professional $600, being $200 plus four half-price renewals on a two-year cycle. PMI PMP for members $605, being $425 plus $60 every three years. CompTIA Security+ $889, being a $439 exam plus about $150 of continuing education every three years; the exam rose from $425 to $439 on 1 June 2026. ISACA CISM for members $1,075. Cisco CCNA $1,200 by re-sitting, or $300 using free continuing-education credits. IAPP CIPP $1,550, being $550 plus a $250 maintenance fee every two years. OffSec OSCP $1,749, lifetime. GIAC taken standalone about $1,977, being roughly $979 plus a $499 renewal then $249. EC-Council CEH $1,999, being $1,199 plus $80 a year. Red Hat RHCSA $2,000, being $500 plus three re-sits. ISC2 CISSP $2,099, being $749 plus an annual maintenance fee of $135. CNCF CKA $2,225, being $445 every two years.",
+    "key_figure": "Ten-year cost to hold one certificate, United States list prices. Microsoft role-based $165, renewed free each year online. Salesforce Administrator $200, free maintenance module. Scrum.org PSM I $200, lifetime. IIBA ECBA $250, lifetime. DAMA CDMP Associate $311. AWS Cloud Practitioner $400, being $100 plus three re-sits. Google Cloud Professional $600, being $200 plus four half-price renewals on a two-year cycle. PMI PMP for members $605, being $425 plus $60 every three years. CompTIA Security+ $889, being a $439 exam plus about $150 of continuing education every three years; the exam rose from $425 to $439 on 1 June 2026. ISACA CISM for members $1,075. Cisco CCNA $1,200 by re-sitting, or $300 using free continuing-education credits. IAPP CIPP $1,550, being $550 plus a $250 maintenance fee every two years. OffSec OSCP $1,749, lifetime. GIAC taken standalone about $1,977, being roughly $979 plus a $499 renewal every four years. The $249 rate applies only to further certifications renewed alongside the first. EC-Council CEH $1,999, being $1,199 plus $80 a year. Red Hat RHCSA $2,000, being $500 plus three re-sits. ISC2 CISSP $2,099, being $749 plus an annual maintenance fee of $135. CNCF CKA $2,225, being $445 every two years.",
     "caveat": "List prices in US dollars before tax, excluding training, travel and membership dues unless stated. Each total assumes one certificate held continuously with no stacking, and stacking materially changes several: a higher Cisco or CompTIA certificate renews the ones below it. Prices move, and at least one moved during this research. The three renewal mechanisms — an annual fee, a forced re-sit, or nothing — are the durable finding and they set the order.",
     "used_in": [
-      "ch31"
+      "Ch 31"
     ],
     "url": "https://www.isc2.org/policies-procedures/amfs-overview",
     "distinct_from": {
@@ -137,7 +137,7 @@
     "key_figure": "Duck Creek states that its University certification programmes \"provide formal recognition for employees of our partners and clients\", and that any individual \"employed by a Duck Creek client or partner\" is invited to attend its boot camps and take an assessment. Workday states that \"Workday Pro certifications are only available to Workday customers and Workday partners\", with exams costing one training credit per attempt rather than a published money price. Guidewire states that \"certification is required for all professionals working on Guidewire Cloud implementations\", delivered through its education portal with enrolment via a designated Training Coordinator, which ties access to a customer or partner project. Epic publishes no public certification terms, no price and no route for an individual; certification requires sponsorship by an Epic customer or partner, or employment at Epic. None of the four publishes an exam price.",
     "caveat": "Vendor policy can change, and one is already moving at the edges: a university partner has opened some Workday Pro training to the public while Workday's own registration route stays customer-gated. If any of the four opens an individual credit-card purchase path, it stops being a gate and Chapter 31 must reclassify it. Epic's rule is corroborated from healthcare-IT industry sources because Epic publishes nothing, so it is the one of the four not read from the vendor's own words.",
     "used_in": [
-      "ch31"
+      "Ch 31"
     ],
     "no_url": "Read from each vendor's certification pages during pass 13. Three publish terms without a stable public URL for the quoted sentence; the fourth publishes nothing, which is the record's point.",
     "grade": 1
@@ -153,7 +153,7 @@
     "key_figure": "For medical device software under IEC 62304, certification is issued to organisations rather than individuals: the certifying body states that clients seeking it must already hold a valid ISO 13485 certificate for medical devices. Individuals may take training and receive no personal credential. For avionics software under DO-178C the standards body offers a one-day training course only, and compliance is assessed at project and organisation level by the aviation regulator; no individual credential exists. For functional safety, an individual may sit the training and the exam, but the certifying body states that where the candidate lacks the business experience, the FS Engineer certificate \"will be issued to them as soon as the necessary 3 years of business experience in the area of functional safety are achieved\"; the expert grade requires ten years. The standards themselves are also priced: IEC 61508 in full is CHF 4,386 and the twelve-part ISO 26262 package CHF 1,837.",
     "caveat": "Describes the certification route, not the labour market. It does not follow that these fields are closed to entrants, only that the credential cannot be acquired ahead of the job. Other certifying bodies operate comparable schemes on their own terms and this record covers the ones read.",
     "used_in": [
-      "ch31"
+      "Ch 31"
     ],
     "no_url": "Read from the certifying bodies' programme pages during pass 13. The quoted experience-deferral wording is from the functional-safety programme's own FAQ.",
     "grade": 1
@@ -171,18 +171,18 @@
     "reliability": 1,
     "method": "ADP payroll microdata, 3.5 to 5 million US workers a month, data through June 2026",
     "key_figure": "19% relative employment decline for workers aged 22-25 in AI-exposed occupations, November 2022 to June 2026: the two most exposed quintiles fell about 11% while the three least exposed grew about 10%, a divergence of 21 percentage points. Experienced workers show no comparable gap. Fact 4 is the one that matters most to an entrant: the divergence runs through reduced hiring rather than increased separations, and separations among young workers fell at least as fast in exposed occupations as in unexposed ones.",
-    "note": "One paper, three published estimates, and they are versions rather than rival quantities. 13% in the August 2025 version, data to July 2025. 16% in the November 2025 version. 19% in the August 2026 version, data to June 2026. Every revision extended the window and raised the estimate, so the version has to be quoted with the number. The 19% is a levels comparison and is NOT the firm-controlled figure. The August 2025 abstract had claimed the decline held after controlling for firm-level shocks; under firm-time fixed effects this version reports only that changes are \"directionally consistent... though precision varies across samples\". The headline grew and the control behind it weakened in the same revision, which is why the book states both. Separately, ~20% was an ABSOLUTE fall, software developers aged 22-25 only, against their own late-2022 peak. It was Fact 1 of the November 2025 version. The August 2026 version restated its six facts and the developer-specific series is now an appendix chart with no figure in the text, so it is dated to the version it came from. Do not let any of this regress: an outside reader has twice tried to correct one of these numbers into another.",
+    "note": "One paper, three published estimates, and they are versions rather than rival quantities. 13% in the August 2025 version, data to July 2025. 16% in the November 2025 version. 19% in the August 2026 version, data to June 2026. Every revision extended the window and raised the estimate, so the version has to be quoted with the number. The 19% is a levels comparison and is not the firm-controlled figure. The August 2025 abstract had claimed the decline held after controlling for firm-level shocks; under firm-time fixed effects this version reports only that changes are \"directionally consistent... though precision varies across samples\". The headline grew and the control behind it weakened in the same revision, which is why the book states both. Separately, ~20% was an absolute fall, software developers aged 22-25 only, against their own late-2022 peak. It was Fact 1 of the November 2025 version. The August 2026 version restated its six facts and the developer-specific series is now an appendix chart with no figure in the text, so it is dated to the version it came from. Do not let any of this regress: an outside reader has twice tried to correct one of these numbers into another.",
     "caveat": "The age gap alone does not identify an AI effect, because young hiring is more cyclical than experienced hiring in any downturn. The cross-occupation comparison is what carries the weight. This version flags three limits of its own: the estimates attenuate when occupational education level is controlled for, some divergence between exposed and unexposed occupations predates ChatGPT, and the pattern is stronger in the ADP sample than in national survey benchmarks such as the CPS and the ACS. The authors' own summary is that the results \"may be influenced by factors other than generative AI\" and are \"consistent with the hypothesis\" that AI has begun to affect entry-level employment. That is weaker than the causal reading the coverage gives it, and it is the reading printed here. See stanford-canaries-timing-2026 and eig-looking-for-the-ladder-2026 for the live dispute over timing.",
     "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
     "retrieved": "2026-08-13",
     "distinct_from": {
       "india-infosys-seniority-bands": "Coincidence on small percentages and on an age band. One is a US payroll panel across every occupation, the other is one Indian company's own headcount disclosure.",
-      "oews-2025": "Coincidence on small percentages. One measures employment CHANGE over a period, the other is a wage survey of LEVELS at a point in time."
+      "oews-2025": "Coincidence on small percentages. One measures employment change over a period, the other is a wage survey of levels at a point in time."
     },
     "used_in": [
-      "ch06",
-      "ch09",
-      "ch10"
+      "Ch 6",
+      "Ch 9",
+      "Ch 10"
     ],
     "grade": 1
   },
@@ -198,14 +198,14 @@
     "date": "2026-02-09",
     "reliability": 1,
     "method": "Follow-up analysis on the same ADP payroll panel",
-    "key_figure": "Under firm-time fixed effects the employment decline in AI-exposed occupations becomes statistically significant only from 2024. Earlier declines are 'likely (at least partly) due to some combination of other factors, not just AI'. Separately, AI-exposed occupations were found to be LESS sensitive to interest rates than sectors such as construction, so rates do not explain the entry-level gap.",
+    "key_figure": "Under firm-time fixed effects the employment decline in AI-exposed occupations becomes statistically significant only from 2024. Earlier declines are 'likely (at least partly) due to some combination of other factors, not just AI'. Separately, AI-exposed occupations were found to be less sensitive to interest rates than sectors such as construction, so rates do not explain the entry-level gap.",
     "caveat": "Cuts both ways and the book prints both directions. The interest-rate test strengthens the AI reading. The timing result weakens any account that starts at the release of ChatGPT in November 2022.",
     "url": "https://digitaleconomy.stanford.edu/news/canaries-interest-rates-and-timinga-more-on-recent-drivers-of-employment-changes-for-young-workers/",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch06",
-      "ch09",
-      "ch10"
+      "Ch 6",
+      "Ch 9",
+      "Ch 10"
     ],
     "grade": 1
   },
@@ -225,8 +225,8 @@
     "url": "https://eig.org/wp-content/uploads/2026/01/TAWP-Iscenko-Millet.pdf",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch06",
-      "ch20"
+      "Ch 6",
+      "Ch 20"
     ],
     "grade": 1
   },
@@ -239,8 +239,8 @@
     "no_url": "A continuously updated tracker rather than a dated report: the series is revised in place and no address identifies the October 2025 reading, checked 2026-08-20.",
     "key_figure": "Down 36.4% vs Feb 1 2020 baseline; down 6.7% YoY",
     "used_in": [
-      "ch06",
-      "ch09"
+      "Ch 6",
+      "Ch 9"
     ],
     "caveat": "Counts job postings, not jobs. A posting can be duplicated, left up after a role is filled, or never filled at all, and no board publishes what share of its listings end in a hire. The direction is evidence; the level is not.",
     "grade": 2
@@ -262,7 +262,7 @@
     "url": "https://www.nature.com/articles/s41586-022-05222-x",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "caveat": "United States faculty only, and a snapshot of who currently holds posts rather than of who is hired now. It describes the hierarchy that exists, not the odds facing a particular applicant today.",
     "grade": 1
@@ -278,7 +278,7 @@
     "url": "https://cgsnet.org/data-insights/access-and-inclusion/degree-completion/ph-d-completion-project",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch27"
+      "Ch 27"
     ],
     "grade": 1
   },
@@ -290,12 +290,12 @@
     "reliability": 2,
     "key_figure": "Stopped publishing a global workforce gap estimate. 95% of teams report at least one skills gap; 59% call it critical or significant. 16,029 respondents.",
     "note": "The absence of the number is the finding. See Ch 4.",
-    "caveat": "ISC2 DID give a reason, and the book claimed otherwise until August 2026. The study says respondents in 2024 and 2025 prioritised critical skills over headcount, and that ISC2 therefore did not include a workforce gap estimate that year. Chapter 4 previously wrote that the organisation \"did not withdraw the number or explain its absence\", which was false and was caught by an outside reader checking the source. The chapter's conclusion was right and its evidence was not; the stated reason supports the reading rather than contradicting it.",
+    "caveat": "The study says respondents in 2024 and 2025 prioritised critical skills over headcount, and that ISC2 therefore did not include a workforce gap estimate that year. That stated reason supports the reading that the shortage is of skills rather than of people.",
     "url": "https://www.isc2.org/Insights/2025/12/ISC2-Publishes-2025-Cybersecurity-Workforce-Study",
     "used_in": [
-      "ch04",
-      "ch20",
-      "ch25"
+      "Ch 4",
+      "Ch 20",
+      "Ch 25"
     ],
     "grade": 2
   },
@@ -308,7 +308,7 @@
     "key_figure": "4.8 million professionals needed, +19% YoY; workforce ~5.5M, +0.1% YoY",
     "url": "https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study",
     "used_in": [
-      "ch04"
+      "Ch 4"
     ],
     "caveat": "Published by a body that sells security certifications, so it has a direct interest in a large stated workforce gap. This is the 2024 edition and the figure was withdrawn in 2025; it is kept because the book uses it as a worked example of a claim to distrust rather than as evidence about the workforce.",
     "grade": 2
@@ -321,9 +321,9 @@
     "reliability": 2,
     "method": "Not stated by the publisher. Drawn from hiring activity across the companies the firm tracks. No sample size, no population definition and no methodology note accompany the figures.",
     "key_figure": "Engineering roles fell 11% vs 25% for tech overall; engineers were 55% of 2025 Tech-Major new hires",
-    "caveat": "A venture capital firm reporting on the labour market it invests in, with no stated method or sample. It agrees with two better-documented sources, which is the only reason it is cited. It carries none of Chapter 9's argument on its own, and the chapter now says so. Added after an outside review found this was the one grade-2 record behind a main argument with no caveat at all.",
+    "caveat": "A venture capital firm reporting on the labour market it invests in, with no stated method or sample. It agrees with two better-documented sources, which is the only reason it is cited. It carries none of Chapter 9's argument on its own, and the chapter says so.",
     "used_in": [
-      "ch09"
+      "Ch 9"
     ],
     "no_url": "The firm publishes the report behind a contact form and states no method. There is no stable public document to link.",
     "grade": 2
@@ -337,8 +337,8 @@
     "key_figure": "COBOL powers 70% of business transaction processing, 95% of ATM swipes, ~220 billion lines",
     "caveat": "Traces through Rocket Software back to a 1997 DataPro survey of 421 companies. Directional at best. This is a worked example in Ch 4, not a figure the book relies on.",
     "used_in": [
-      "ch04",
-      "ch25"
+      "Ch 4",
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -349,14 +349,14 @@
     "date": "2025-10-29",
     "reliability": 2,
     "method": "Ecosystem-wide supply and demand counts by role, with a stated method. Read through the Salesforce Ben write-up of the report, not from 10K directly.",
-    "key_figure": "ALL ROLES, globally: supply +27% year on year, demand +8%, saturation over 330%, meaning supply about 3.4 times demand. ADMINISTRATOR: supply +47%, the highest growth of any role; demand +14%; about 9% of listings are administrator-focused. TECHNICAL ARCHITECT: supply +4%, demand +27%, about 1% of the global talent pool. Solution architect demand +21%. DEVELOPER: demand -12%, the only role where demand fell; supply +20%.",
-    "caveat": "Every figure here is a role-level count and the role matters. An outside review read the book's 27% as a mis-copy of the technical architect demand figure. It is not: 27% is genuine all-roles supply growth. The real defect was worse and subtler. The book ran an argument about ADMINISTRATORS on the ALL-ROLES pair, 27% against 8%, without saying so. The administrator-specific pair is 47% against 14%. Quote the population with the number or you are doing what Chapter 5 trap 2 describes. Also note that this record and a grade-4 'Salesforce community publication' record were the same underlying report filed twice under two publisher names. Merged August 2026. No duplicate rule caught it, because the publisher strings differed.",
+    "key_figure": "All roles, globally: supply +27% year on year, demand +8%, saturation over 330%, meaning supply about 3.4 times demand. Administrator: supply +47%, the highest growth of any role; demand +14%; about 9% of listings are administrator-focused. Technical architect: supply +4%, demand +27%, about 1% of the global talent pool. Solution architect demand +21%. Developer: demand -12%, the only role where demand fell; supply +20%.",
+    "caveat": "Every figure here is a role-level count and the role matters. The 27% supply growth is for all roles, and happens to equal the technical architect demand figure. An argument about administrators needs the administrator pair, 47% against 14%. Quoting the all-roles pair for administrators is the fit problem Chapter 5 describes: a right number about somebody else. A grade 4 record for a Salesforce community publication was this same report under a second publisher name, and is merged into this one.",
     "used_in": [
-      "ch13",
-      "ch24",
-      "ch25",
-      "ch29",
-      "ch31"
+      "Ch 13",
+      "Ch 24",
+      "Ch 25",
+      "Ch 29",
+      "Ch 31"
     ],
     "url": "https://www.salesforceben.com/the-state-of-the-salesforce-job-market-in-2025-26-according-to-the-10k-report/",
     "distinct_from": {
@@ -374,10 +374,10 @@
     "key_figure": "Senior developer ~$63.70/hr US, ~$32.10/hr Nigeria, ~$34/hr Philippines",
     "caveat": "Known selection bias: only vetted contractors who chose this platform.",
     "used_in": [
-      "ch12",
-      "ch23",
-      "ch24",
-      "ch28"
+      "Ch 12",
+      "Ch 23",
+      "Ch 24",
+      "Ch 28"
     ],
     "no_url": "Rates are shown inside a live marketplace calculator rather than in a document, so any link would show a different number to a later reader.",
     "grade": 3
@@ -391,10 +391,10 @@
     "method": "Verified payroll, 12,500+ developers across 8 countries",
     "key_figure": "Average developer salaries $53k-$63k/year; Argentina highest ~$63k mid-to-senior",
     "used_in": [
-      "ch12",
-      "ch23",
-      "ch24",
-      "ch28"
+      "Ch 12",
+      "Ch 23",
+      "Ch 24",
+      "Ch 28"
     ],
     "no_url": "Payroll aggregates published as marketing collateral behind a form, not as a stable document.",
     "caveat": "Published by a company that places LATAM developers with foreign employers, so it has an interest in the rates it reports. It is an average across a whole region and several countries, which hides more than it shows, and it describes contract placements rather than local employment.",
@@ -409,7 +409,7 @@
     "key_figure": "Entry-level hiring rates in European technology down about 73% over a year. New graduates now under 6% of startup hires, more than 30% below pre-pandemic levels. The graduate share at large technology companies more than halved since 2022.",
     "caveat": "Built from the payroll data of the companies that use the firm's benchmarking product, so the sample is European, startup-weighted and self-selected. Better than a survey and not a census.",
     "used_in": [
-      "ch09"
+      "Ch 9"
     ],
     "no_url": "Benchmarking output published to customers and summarised in press coverage. No public document.",
     "grade": 3
@@ -423,7 +423,7 @@
     "key_figure": "A roughly 35% fall in junior technology positions across major EU economies is widely quoted, with UK graduate technology roles reported down 46% from 2024 and a further 53% projected for 2026.",
     "caveat": "Recruiters describing the market they sell into, and the 2026 figure is a projection rather than a measurement. Quoted here for direction only, and the book says so in the text.",
     "used_in": [
-      "ch09"
+      "Ch 9"
     ],
     "grade": 5
   },
@@ -438,7 +438,7 @@
     "no_url": "Several companies' quarterly results read together. There is no single document to link to.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch09"
+      "Ch 9"
     ],
     "grade": 1
   },
@@ -449,9 +449,9 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "Across more than 100 million applications and 200,000 jobs, the average opening now draws over 300 candidates, roughly triple the 2021 level.",
-    "caveat": "Counts applications processed by one system, so the population is employers who buy that product, weighted towards technology companies. It counts applications rather than applicants, and one person may send many. The denominator is not settled: the vendor's own published headline is applications per HIRE, and per opening is a smaller number. The primary has not been read, and the figure is graded accordingly.",
+    "caveat": "Counts applications processed by one system, so the population is employers who buy that product, weighted towards technology companies. It counts applications rather than applicants, and one person may send many. The denominator is not settled: the vendor's own published headline is applications per hire, and per opening is a smaller number. The primary has not been read, and the figure is graded accordingly.",
     "used_in": [
-      "ch11"
+      "Ch 11"
     ],
     "no_url": "The vendor's figures reached this record through press coverage rather than a published report. Recorded as 'as reported' for that reason.",
     "grade": 4
@@ -463,9 +463,9 @@
     "date": 2026,
     "reliability": 5,
     "key_figure": "242 and 250 applications per opening are both widely quoted, alongside claims that 77% of hiring teams see AI-assisted applications, 64% of recruiters report more look-alike applications, and 83% of companies plan to use AI to review applications in 2026.",
-    "caveat": "Aggregated by content sites without stated methods, and frequently circular, with each site citing another. Cited in Ch 9 only to show what the weaker figures look like beside a measured one.",
+    "caveat": "Aggregated by content sites without stated methods, and frequently circular, with each site citing another. Cited in Chapter 11 only to show what the weaker figures look like beside a measured one.",
     "used_in": [
-      "ch11"
+      "Ch 11"
     ],
     "grade": 5
   },
@@ -476,9 +476,9 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "Reported shifts: take-home tests losing credibility, live sessions and in-person final rounds returning, take-homes increasingly followed by a defend-your-decisions conversation, and a new assisted round in which candidates are handed a tool deliberately.",
-    "caveat": "Mostly written by companies selling interview tooling or coaching, which is grade 5 in motive. Graded 4 because the same pattern appears independently across unrelated publishers and matches what candidates report. Ch 9 states plainly that it is describing patterns, not measures.",
+    "caveat": "Mostly written by companies selling interview tooling or coaching, which is grade 5 in motive. Graded 4 because the same pattern appears independently across unrelated publishers and matches what candidates report. Chapter 11 states plainly that it is describing patterns, not measures.",
     "used_in": [
-      "ch11"
+      "Ch 11"
     ],
     "grade": 4
   },
@@ -491,9 +491,9 @@
     "reliability": 1,
     "method": "Direct search of each named regulator's own publications, in the national language as well as English: Urdu for Pakistan, Bangla for Bangladesh, Arabic for Egypt, Filipino for the Philippines, Vietnamese for Vietnam and Bahasa Indonesia for Indonesia.",
     "key_figure": "In none of Pakistan, Bangladesh, Egypt, the Philippines, Vietnam or Indonesia could a published, named enforcement decision be located against a computing or IT training provider for false job-placement claims. Every one of the six names a regulator with the legal power to act, and several publish the power explicitly: the Philippine TVET authority's own rules state that for fraud or deceit in unauthorised advertisements the certificate of registration shall be revoked after due process, and an Indonesian training provider operating without a licence faces sanctions up to forced closure. What none of them publishes is a searchable register of decisions naming a respondent, a date and an outcome.",
-    "caveat": "This is a negative finding from public sources. It means no published, named decision was locatable after searching in the national language. It does NOT mean no enforcement has ever occurred, which is a materially weaker claim and the book must not overstate it. The absence is about the published record, and the published record is the only thing a parent checking a provider can actually consult.",
+    "caveat": "This is a negative finding from public sources. It means no published, named decision was locatable after searching in the national language. It does not mean no enforcement has ever occurred, which is a materially weaker claim and the book must not overstate it. The absence is about the published record, and the published record is the only thing a parent checking a provider can actually consult.",
     "used_in": [
-      "ch19"
+      "Ch 19"
     ],
     "no_url": "The finding is the absence of a document. It is reproduced by searching each regulator's own domain, which pass 14 and pass 15 name individually.",
     "grade": 1
@@ -509,7 +509,7 @@
     "key_figure": "Candidates from the HSSC Pre-Medical group entering computing programmes without an additional mathematics exam must clear deficient mathematics courses of 6 credit hours within one year. The condensed eight-week mathematics course was formalised by Pakistan Engineering Council regulation PEC/EAD/49-GB/004/2024 dated 11 July 2024, and must be passed at 60% or better before merit is calculated. Under PEC regulation PEC/EAD/46-VCCM/Regulations/2023 of 30 March 2023, students holding Intermediate in Computer Science are eligible for all engineering programmes but must clear Chemistry as a remedial subject. A second university requires 60% in FSc Pre-Engineering or ICS.",
     "caveat": "One university's rules and one regulator's, not a national rule binding every institution. Admission rules change each intake. A student must read the current notification for the specific programme.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from the university's admissions pages and the regulator's numbered regulations during pass 15. The regulation numbers are given in full so the documents can be requested directly, which is more durable than an admissions URL that moves every intake.",
     "grade": 1
@@ -525,7 +525,7 @@
     "key_figure": "Applicants must have passed HSC in the Science group with top grades in Physics, Chemistry and Higher Mathematics, set at GPA 5.00 in each for the 2025-26 intake, with a 4.00 in any one of the three disqualifying. SSC must also be Science group at a minimum GPA of 4.00. A student who did not take Higher Mathematics at HSC is excluded, and no remedial pathway exists. The general university cluster requires Science with Mathematics and Physics. Private universities accept lower grades and still require Mathematics and Physics at HSC.",
     "caveat": "The named grade thresholds are for one intake and move between years. The structural finding — that Higher Mathematics is required with no remedial route at the elite tier — is the durable part.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from the university's own admission circular during pass 15. The circular is reissued each intake at a new address, so a link would point at a superseded document within a year.",
     "grade": 1
@@ -541,7 +541,7 @@
     "key_figure": "Thanaweya Amma students choose between the science-mathematics, science-biology and literary divisions. Public university faculties of Computers and Information admit students from both science divisions and exclude the literary division. Some private and national universities admit literary students to computing programmes. Minimum-mark indicators for 2025 ran at roughly 83 to 87% for the science-mathematics division.",
     "caveat": "Minimum-mark figures circulating before results are indicators and are not official until the coordination office publishes final cut-offs. The exclusion of the literary division is the structural finding and does not depend on the marks.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from ministry coordination reporting in Arabic during pass 15. The placement office publishes cut-offs per cycle rather than as a standing document.",
     "grade": 1
@@ -557,7 +557,7 @@
     "key_figure": "DepEd Order No. 55, series of 2016, requires a final grade of 85 or above in both Science and Mathematics in Grade 10 for entry to the STEM strand, plus a percentile rank of 86 or above in the STEM subtest of the career assessment examination. CHED Memorandum Order No. 105, series of 2017, states that all Senior High School graduates are entitled to enrol in college regardless of the track or strand taken, provided they fulfil the entrance standards of the chosen university. Competitive computing programmes set their own mathematics-heavy entrance standards. The strand structure is being reduced from four tracks to two.",
     "caveat": "The gap between the regulator's stated openness and the universities' entrance standards is documented rather than measured: no published study counts how many non-STEM graduates enter computing degrees. The strand reform means the structure should be re-checked each cycle.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from the two numbered issuances during pass 14. Both are cited by number so they can be retrieved from the issuing body directly.",
     "grade": 1
@@ -573,7 +573,7 @@
     "key_figure": "Under Kurikulum Merdeka the science, social and language streams were abolished from the 2024-25 school year, per Permendikbudristek No. 12 of 2024, so students in grades 11 and 12 choose subject clusters by interest. The stated aim was to stop non-science students being disadvantaged in national university selection. The national test route now assesses general reasoning with no subject-specific paper. Universities continue to set their own independent selection rules; the leading technology institute dropped the stream requirement in 2022 and instead publishes subject guidance advising applicants to hold the foundational subjects the programme expects, which for informatics means advanced mathematics and physics.",
     "caveat": "That students who drop advanced mathematics are competitively disadvantaged is an inference from the universities' published guidance, not a measured outcome. The reform is recent enough that no cohort has completed the cycle.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from the numbered ministry regulation and the institute's admission guidance during pass 14, in Bahasa Indonesia.",
     "grade": 1
@@ -589,7 +589,7 @@
     "key_figure": "Information technology programmes admit principally through combination A00, which is Mathematics, Physics and Chemistry, and A01, which is Mathematics, Physics and English. Several also accept D01, Mathematics, Literature and English, D07, and newer combinations built on Mathematics, Informatics and English. Mathematics appears in every combination admitting to computing. The leading public programmes prioritise A00 and A01, and the binding constraint is the benchmark score each university sets, which has run at roughly 23 to 27.",
     "caveat": "Benchmark scores are set per university per year and move with the applicant pool. Combination lists are revised between intakes. Vietnam does not stream students rigidly, so this is a preparation decision rather than an irreversible school placement.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "no_url": "Read from university admission schemes during pass 14, in Vietnamese. Each university publishes its own scheme annually at its own address.",
     "grade": 1
@@ -604,7 +604,7 @@
     "caveat": "The primary source is the exam body's own eligibility notification, which it republishes every year. This edition did not read it. The structural fact — Mathematics is required — is stable and widely reported, but the details around accepted substitute subjects and qualifying marks change, and a reader must check the current notification rather than this record.",
     "gap": true,
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 5
   },
@@ -618,7 +618,7 @@
     "caveat": "Reported through a secondary site rather than the board's own statistics. Used in the book only to establish scale, never as a precise figure, and it covers one board out of many.",
     "gap": true,
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 5
   },
@@ -631,8 +631,8 @@
     "key_figure": "A paid apprenticeship of roughly three years combining employment with vocational school. The information-technology route (Fachinformatiker) leads to qualified IT employment with no university degree.",
     "caveat": "The primary sources are the federal training regulations and the chamber of commerce that certifies each route. This edition did not read them. The existence and shape of the route are not in doubt; the current occupational profiles and their durations should be checked directly.",
     "used_in": [
-      "ch14",
-      "ch15"
+      "Ch 14",
+      "Ch 15"
     ],
     "grade": 5
   },
@@ -645,7 +645,7 @@
     "key_figure": "Two separate courses. Computer Science A is a programming course assessed in Java. Computer Science Principles is broader and less code-heavy.",
     "caveat": "Published by the body that sells the exams. The course descriptions are a verifiable fact about the product; any claim about what either is worth in admissions is not.",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 5
   },
@@ -659,7 +659,7 @@
     "caveat": "The chapter states no saving and no transfer rate, because both depend entirely on the pair of institutions involved. Credit transfers only where a written articulation agreement covers that course in that year. The primary sources are those agreements themselves, held by the two institutions. This edition did not read any of them, and tells the reader to request theirs in writing instead.",
     "gap": true,
     "used_in": [
-      "ch15"
+      "Ch 15"
     ],
     "grade": 5
   },
@@ -671,14 +671,14 @@
     "reliability": 1,
     "method": "Several governments match higher-education records against tax and employment records, then publish median earnings by course and institution at fixed intervals after graduation.",
     "key_figure": "Where it exists, this is the strongest evidence available about the outcome of a degree: administrative data covering everyone who finished, with no survey response bias.",
-    "caveat": "This edition names the source type but has not compiled which countries publish it or where. It also measures who was admitted as much as what was taught, and any figure describes people who started many years earlier.",
+    "caveat": "Which countries publish it, and where, is compiled in graduate-earnings- registry. It also measures who was admitted as much as what was taught, and any figure describes people who started many years earlier.",
     "gap": true,
     "no_url": "One record covering the datasets of several governments. Appendix G names each publisher and its filing route separately.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch07",
-      "ch14",
-      "ch15"
+      "Ch 7",
+      "Ch 14",
+      "Ch 15"
     ],
     "grade": 1
   },
@@ -690,13 +690,13 @@
     "reliability": 3,
     "method": "Employer-attested wage filings, public disclosure",
     "key_figure": "204 LCA filings covering 1,048 positions across 2 states; median salary $95,000",
-    "scope_warning": "IMPORTANT: this covers Epic Systems Corporation's OWN employees in Verona, Wisconsin - the software vendor. It does NOT cover hospital-side Epic analysts, who are a different job in a different employer type. Do not present this figure as hospital analyst pay. Ch 4's comparison traps apply directly.",
-    "note": "Partial win. This is a real Tier 3 anchor and it tells us the vendor side of the market. The hospital side stays unsourced - see the gap note on the pay dimension.",
+    "scope_warning": "Important: this covers Epic Systems Corporation's own employees in Verona, Wisconsin - the software vendor. It does not cover hospital-side Epic analysts, who are a different job in a different employer type. Do not present this figure as hospital analyst pay. Ch 4's comparison traps apply directly.",
+    "note": "A grade 3 anchor for the vendor side of the market. The hospital side stays unsourced; see the gap note on the pay dimension.",
     "no_url": "Filed disclosure data, read through a third-party viewer. The underlying quarterly files are bulk downloads from the Department of Labor, not per-employer pages.",
-    "caveat": "Covers Epic Systems' OWN staff in Wisconsin, not the hospital analysts most of this profile is about. Sponsored roles only, and an offered wage is not an accepted one. It is a real grade-3 anchor for the vendor side of the market and says nothing about the customer side.",
+    "caveat": "Covers Epic Systems' own staff in Wisconsin, not the hospital analysts most of this profile is about. Sponsored roles only, and an offered wage is not an accepted one. It is a real grade-3 anchor for the vendor side of the market and says nothing about the customer side.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -710,7 +710,7 @@
     "replace_with": "H-1B/LCA disclosure filings for 'Epic' / 'clinical systems analyst' job titles at named hospital systems. Public, employer-attested, Tier 3. This is the single highest-value research task for this profile.",
     "grade": 4,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -720,12 +720,12 @@
     "date": 2026,
     "reliability": 2,
     "key_figure": "Certification requires employer or partner sponsorship; ~6-12 week programme; reported 25-30% pay rise within a year",
-    "note": "The sponsorship rule is vendor policy and is well documented. The 25-30% pay rise figure is weaker than the policy claim - split these before ship.",
+    "note": "The sponsorship rule is vendor policy and is well documented. The 25-30% pay rise is a weaker, self-reported claim, and the two should not be read as one.",
     "no_url": "The vendor's training material is available only to staff of customer organisations. That restriction is itself the finding in Chapter 25.",
-    "caveat": "Two claims of very different strength in one record. The sponsorship rule is vendor policy, stated by the vendor, and is solid. The 25-30% pay rise is self-reported by people who took the training, so it carries the selection bias Chapter 4 describes: those who paid the cost and stayed are the ones answering. A rise is also not a level.",
+    "caveat": "Two claims of very different strength in one record. The sponsorship rule is vendor policy, stated by the vendor, and is solid. The 25-30% pay rise is self-reported by people who took the training, so it carries the selection bias Chapter 5 describes: those who paid the cost and stayed are the ones answering. A rise is also not a level.",
     "grade": 2,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -738,7 +738,7 @@
     "caveat": "Platform-specific. Postings are not openings. One opening can generate several postings.",
     "grade": 4,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -748,10 +748,10 @@
     "date": 2025,
     "reliability": 4,
     "key_figure": "18% YoY growth in remote Epic roles",
-    "caveat": "Single source, no published method, staffing-firm origin. Ch 5 teaches readers to distrust exactly this. Either upgrade or cut.",
+    "caveat": "Single source, no published method, staffing-firm origin. Chapter 5 teaches readers to distrust exactly this, so it is printed as a direction only.",
     "grade": 4,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -764,7 +764,7 @@
     "caveat": "Billing rate, not earnings. Vendor-adjacent source.",
     "grade": 4,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -776,8 +776,8 @@
     "key_figure": "$147,524 average with a $120,000-$173,000 middle band was returned for precision agriculture software engineer, energy grid software engineer and government software engineer, in three different months of 2026. The same site's general software engineer page states the identical average and the identical band.",
     "caveat": "The general software engineer page was read directly. The three specialism figures were observed through search result summaries, because the site refused direct requests. Presented in Ch 5 as an exercise for the reader to repeat, not as a settled finding.",
     "used_in": [
-      "ch05",
-      "ch26"
+      "Ch 5",
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -788,9 +788,9 @@
     "date": 2026,
     "reliability": 3,
     "key_figure": "631 postings in Q2 2026, up from 419 across 110 companies in Q1. Genentech led Q2 with 48 roles, then Gilead 31, AstraZeneca 30, Dana-Farber 29. Biostatistics and statistical programming was the largest single category at 80 postings.",
-    "caveat": "A niche job board counting its own listings, so it undercounts the field and cannot see roles advertised only on company sites. Use it for the SHAPE of the market and for which employers hire, not as a headcount.",
+    "caveat": "A niche job board counting its own listings, so it undercounts the field and cannot see roles advertised only on company sites. Use it for the shape of the market and for which employers hire, not as a headcount.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "no_url": "A job board's own posting counts, read from the live board. The count changes daily and a link would not reproduce it.",
     "grade": 3
@@ -804,7 +804,7 @@
     "key_figure": "$148,000-$215,000 quoted average band for Q2 2026. Entry roles from about $90,000, senior scientists near $180,000, principal roles above $250,000. A PhD is described as adding $20,000-$30,000 at the start.",
     "caveat": "Posting-derived and skewed towards well-funded American biotech. Academic and non-US bioinformatics pay is far lower and is not in these figures.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -819,8 +819,8 @@
     "caveat": "An industry consortium counting its own sector, so the boundary of \"pure-play\" is set by the people being counted. Still the only serious headcount that exists, and the estimate range for the wider pool is wide enough to admit that.",
     "note": "The credible counter to the '2 million quantum jobs by 2025' vendor claim.",
     "used_in": [
-      "ch04",
-      "ch26"
+      "Ch 4",
+      "Ch 26"
     ],
     "url": "https://quantumconsortium.org/publication/2026-state-of-the-global-quantum-industry-report/",
     "grade": 2
@@ -834,7 +834,7 @@
     "key_figure": "250,000 new quantum jobs projected by 2030, and 840,000 by 2035",
     "caveat": "A forward projection published by a sector media company whose audience is the sector. Chapter 6 explains why a projection is not a measurement. Set it beside the 16,500 people who exist today and decide for yourself.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 5
   },
@@ -847,7 +847,7 @@
     "key_figure": "About 14,000 active GIS postings on one large job board, against an estimated 28,000 US GIS analysts. Average GIS pay quoted near $79,600, geospatial analyst near $90,900, geospatial software and data engineer near $167,000.",
     "caveat": "Published by training providers and a niche job board, so grade 5 in motive. The gap between the analyst and engineer figures is the useful part, not the figures themselves.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -860,7 +860,7 @@
     "key_figure": "Cheminformatics quoted near $56.81/hour, typical $48.08-$68.75. Around 46 cheminformatics and 60 computational chemist openings visible nationally on one large board.",
     "caveat": "Aggregator pay. The posting counts are more interesting than the salary: a national market this small is the actual finding.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -873,7 +873,7 @@
     "key_figure": "Robotics software engineer near $155,000, typical $124,300-$196,000. Warehouse automation specifically near $116,600, typical $91,500-$139,000. Senior humanoid and autonomous vehicle roles quoted at $240,000-$290,000 base.",
     "caveat": "The humanoid figures come from a staffing firm during a funding boom in that specific niche. Treat them as a snapshot of one moment, not a level.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -886,7 +886,7 @@
     "key_figure": "Claims include a 340% rise in legal AI postings between January 2024 and January 2026, 78% of large US firms creating an AI role, and AI legal specialists earning $180,000-$350,000.",
     "caveat": "Nearly all of this traces to sites that sell courses or recruit. The percentage rise has no stated base. The field is cited as an example of coverage running far ahead of measurement.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 5
   },
@@ -899,7 +899,7 @@
     "key_figure": "General agriculture software near $111,800, typical $90,000-$130,000. The figure returned for precision agriculture software engineer was the site's generic software engineer average.",
     "caveat": "See ziprecruiter-generic-fallback. The precision agriculture figure should not be used at all, and the reason it should not be used is worth more than the figure would have been.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -912,7 +912,7 @@
     "key_figure": "Climate technology software engineer postings quoted at $120,000-$205,000. The figure returned for energy grid software engineer was the site's generic software engineer average.",
     "caveat": "See ziprecruiter-generic-fallback. The posting band is real; the average is not specific to the field.",
     "used_in": [
-      "ch26"
+      "Ch 26"
     ],
     "grade": 4
   },
@@ -925,7 +925,7 @@
     "key_figure": "€42,000 entry to €95,000+ experienced; freelancers €100-200/hr",
     "caveat": "Market compilation without a published method. German language is often required and this is not priced separately.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -938,7 +938,7 @@
     "key_figure": "ABAP consultant ~₹8-16 LPA at 5 years; certified S/4HANA talent ₹18-35 LPA in Hyderabad/Bengaluru; reported 12-18% YoY salary inflation",
     "caveat": "Recruiter-sourced. The S/4HANA premium is real and widely reported; the exact bands are not measured.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -951,8 +951,8 @@
     "key_figure": "$28-45/hr blended, roughly 55-65% below Germany, Netherlands and Singapore",
     "caveat": "Vendor-adjacent. Useful for the shape of the gap, not the exact rate.",
     "used_in": [
-      "ch25",
-      "ch28"
+      "Ch 25",
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -965,7 +965,7 @@
     "key_figure": "Salary.com ~$95,861; Glassdoor ~$124,662; Coursera cites $118,000 median total. Modernisation consultants $86k-$150k",
     "caveat": "Three aggregators disagreeing by nearly $30,000 on the same job title is itself the finding. Treat the $80k-$125k band as directional and the individual figures as unreliable.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -976,12 +976,12 @@
     "url": "https://www.swift.com/standards/iso-20022/iso-20022-bytes/call-action-november-2026",
     "date": 2026,
     "reliability": 1,
-    "key_figure": "14 November 2026 ends MT 101 coexistence over CBPR+. MT 101 multiple is end of life and will be rejected. MT 101 single moves to contingency processing instead: an automatic bootstrap converts it to pain.001, subject to additional FIN validation, and conversion has been chargeable since 1 January 2026. This is the INTERBANK relay only: corporates may continue sending MT 101 initiation messages to their banks, and Swift states there is currently no migration deadline for corporates to move to SCORE+. Separately, unstructured postal addresses stop being accepted on the same date, with structured Town Name and Country mandatory and NO contingency measure for non-compliant messages. Ancillary messages must follow by November 2027.",
-    "caveat": "None on the deadline itself; this is the standards body publishing it. Two distinctions matter and the chapter originally lost both. Only the MULTIPLE variant stops being accepted; single messages keep flowing through chargeable contingency conversion. And the deadline is for the interbank relay — a corporate treasury sending MT 101 to its bank has no deadline at all. So a reader should not plan on the format going dark on one day. The harder change that date carries is the address one, which Swift says has no contingency.",
+    "key_figure": "14 November 2026 ends MT 101 coexistence over CBPR+. MT 101 multiple is end of life and will be rejected. MT 101 single moves to contingency processing instead: an automatic bootstrap converts it to pain.001, subject to additional FIN validation, and conversion has been chargeable since 1 January 2026. This is the interbank relay only: corporates may continue sending MT 101 initiation messages to their banks, and Swift states there is currently no migration deadline for corporates to move to SCORE+. Separately, unstructured postal addresses stop being accepted on the same date, with structured Town Name and Country mandatory and no contingency measure for non-compliant messages. Ancillary messages must follow by November 2027.",
+    "caveat": "None on the deadline itself; this is the standards body publishing it. Two distinctions matter and the chapter originally lost both. Only the multiple variant stops being accepted; single messages keep flowing through chargeable contingency conversion. And the deadline is for the interbank relay — a corporate treasury sending MT 101 to its bank has no deadline at all. So a reader should not plan on the format going dark on one day. The harder change that date carries is the address one, which Swift says has no contingency.",
     "retrieved": "2026-08-13",
     "retrieved_via": "publisher",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 1
   },
@@ -994,7 +994,7 @@
     "key_figure": "~$74,500 average, $54,000-$89,500 typical band, on postings mentioning ISO 20022",
     "caveat": "Keyword-matched postings, not a role. It mixes testers, analysts and engineers, which is why the band is so wide and so low against the seniority the work actually needs.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1007,7 +1007,7 @@
     "key_figure": "Glassdoor ~$149,800; ZipRecruiter ~$109,900 with a $84,000-$134,500 middle band",
     "caveat": "A $40,000 disagreement on one job title. See Ch 5 on aggregators. The direction, well above generalist development, is consistent across all three.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1020,7 +1020,7 @@
     "key_figure": "A 400,000-worker deficit; sector unemployment quoted at 1.5-2.9% against a 3.6-4.2% national rate",
     "caveat": "Repeated everywhere and traceable nowhere in the form quoted. It is cited as an example of a claim to distrust, in the manner of Ch 4. The tightness is real; the number is not evidence.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 5
   },
@@ -1033,7 +1033,7 @@
     "key_figure": "~$125,000 average with a $105,000-$137,000 band on DO-178 postings; avionics engineer with software skills ~$90,000 base",
     "caveat": "The two figures measure different jobs under similar titles. Postings mentioning DO-178 skew senior; the avionics engineer figure does not.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1044,9 +1044,9 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "TS/SCI ~$131,900 against ~$93,700 for Secret, a 40.6% difference. Full scope polygraph ~$148,300. Secret adds roughly $10,000-$15,000; Top Secret roughly $15,000-$30,000.",
-    "caveat": "Self-reported data from a cleared jobs board, so the population is people who already hold clearances. It cannot tell you what clearance causes, only what cleared people earn. Ch 5, comparison trap 3.",
+    "caveat": "Self-reported data from a cleared jobs board, so the population is people who already hold clearances. It cannot tell you what clearance causes, only what cleared people earn. That is selection bias in the form Chapter 5 describes.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1059,7 +1059,7 @@
     "key_figure": "Demand quoted as 3.5 times supply",
     "caveat": "A staffing firm publishing a shortage number about the roles it is paid to fill. Ch 5, grade 5 territory in motive if not in method. Directional only.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1072,7 +1072,7 @@
     "key_figure": "US ~$109,500 average, $84,500-$130,000 band. ADAS with functional safety certification $135,000-$165,000, quoted as a 15-20% premium over general roles. India ~₹33 lakh average on ISO 26262 postings.",
     "caveat": "Aggregators throughout. The India figure comes from a small self-reported sample.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1085,7 +1085,7 @@
     "key_figure": "Edition 2 expected during 2026. It redefines how process rigour is set, widens scope, adds explicit AI and machine learning lifecycle requirements, and makes cybersecurity a design control. IEC 62304 is on the EU harmonised standards list, so it is effectively required for CE marking. The Commission proposed targeted MDR and IVDR simplification on 16 December 2025.",
     "caveat": "The standard and the harmonised list are primary. The publication date for Edition 2 is commentary and has slipped before.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "no_url": "The standard is sold, not published. Its scope and dates come from the standards body's catalogue entry and from commission notices.",
     "grade": 2
@@ -1101,7 +1101,7 @@
     "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 1
   },
@@ -1114,7 +1114,7 @@
     "key_figure": "ICS/OT SCADA security engineer ~$152,800 with a narrow $143,000-$158,500 band. PLC SCADA engineer ~$97,700 on one aggregator and ~$155,200 on another. GICSP quoted as adding $20,000-$35,000; Ignition certification $12,000-$20,000.",
     "caveat": "The certification premiums come from training-adjacent publishers, which is grade 5 in motive. The gap between the two PLC figures is the usual title problem: one counts controls technicians, the other counts engineers.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1127,7 +1127,7 @@
     "key_figure": "US OSS ~$47.89/hour, $33.65-$63.94 typical. OSS/BSS engineer postings $73,000-$175,000. Senior 5G core and BSS architects quoted at $180,000-$245,000 base.",
     "caveat": "The senior architect figure comes from a staffing firm describing a population it estimates at a few dozen firms nationally. Treat it as a description of scarcity, not a salary you can plan on.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1140,7 +1140,7 @@
     "key_figure": "Government software developer ~$108,500, with an $88,500-$124,000 band. Government software engineer ~$147,500.",
     "caveat": "An aggregator, and it mixes federal, state and contractor pay, which differ by more than the averages suggest. Use it for the shape and not the level. The exact federal figures are in us-federal-pay-schedule-2026.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "no_url": "A salary aggregator's live pages. Chapter 5 grades these 4 and they are not linked here, because sending a reader to a site it has told them to distrust works against the text.",
     "grade": 4
@@ -1157,7 +1157,7 @@
     "caveat": "Exact, and narrower than it looks. The General Schedule is what the federal government pays; it says nothing about state, local or contractor work, which is where most government software is actually written. The $197,200 ceiling is one small elite programme in the most expensive city in the country, and Chapter 25 says so rather than using it as a typical salary.",
     "url": "https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 1
   },
@@ -1168,9 +1168,9 @@
     "date": 2026,
     "reliability": 4,
     "key_figure": "Legacy modernisation specialists listed alongside cloud, DevSecOps and security among the most in-demand state and local roles. Agencies report needing people who can work both modern cloud and COBOL-era systems.",
-    "caveat": "Staffing-vendor content. The pattern matches Ch 13's argument, which is a reason for extra suspicion, not less.",
+    "caveat": "Staffing-vendor content. The pattern matches Chapter 25's argument about old systems, which is a reason for extra suspicion, not less.",
     "used_in": [
-      "ch25"
+      "Ch 25"
     ],
     "grade": 4
   },
@@ -1183,8 +1183,8 @@
     "key_figure": "Average mainframe developer age commonly cited as 55-60",
     "caveat": "Vendor-promoted and weakly sourced. It is cited only as an example of a claim to distrust. See Ch 4. The ageing trend is plausible; the number is not evidence.",
     "used_in": [
-      "ch04",
-      "ch25"
+      "Ch 4",
+      "Ch 25"
     ],
     "grade": 5
   },
@@ -1198,7 +1198,7 @@
     "key_figure": "Over $100 million distributed through GitHub Sponsors since 2019, to more than 70,000 maintainers and organisations, from over 280,000 sponsors. About 4,200 companies participate.",
     "caveat": "A platform reporting its own totals, which makes the figures reliable and the framing promotional. It covers one platform only, and excludes foundations, grants and employment, which fund most serious open source work.",
     "used_in": [
-      "ch28"
+      "Ch 28"
     ],
     "grade": 3
   },
@@ -1211,7 +1211,7 @@
     "key_figure": "About 60% of maintainers are unpaid and fewer than 12% earn any revenue from the work. Median monthly sponsorship reported at roughly $50. Tidelift found 46% of professional maintainers had experienced burnout, rising to 58% among maintainers of widely used projects.",
     "caveat": "Self-selected survey populations, and the burnout figures are from 2020 and are quoted forward. Directionally consistent across several independent surveys, which is why this is graded 3 rather than 4.",
     "used_in": [
-      "ch28"
+      "Ch 28"
     ],
     "no_url": "Several community surveys and reports read together. No single document.",
     "grade": 3
@@ -1225,7 +1225,7 @@
     "key_figure": "Across 8,699 tracked startups, 3,787 with any revenue averaged $4,298 MRR and the median was $145. Separately, about 50% of active independent founders reported under $1,000 a month, 20% between $1,000 and $10,000, 10% between $10,000 and $100,000, and under 5% above $100,000. Roughly 70% of small software products earn under $1,000 MRR and about 6% clear $10,000.",
     "caveat": "Self-reported and self-selected: people register a product on a tracker when they are trying, and stop updating when they stop. That biases towards the optimistic, which makes the low medians more striking rather than less. The gap between the $4,298 mean and the $145 median is the finding.",
     "used_in": [
-      "ch28"
+      "Ch 28"
     ],
     "no_url": "Independent revenue trackers and community analyses read together. The trackers change continuously.",
     "grade": 3
@@ -1239,7 +1239,7 @@
     "key_figure": "Junior $20-$40/hour globally, mid $40-$70, senior $70-$150. Specialisms quoted higher: cybersecurity consulting median about $120/hour, full stack median about $85. Day rates commonly quoted at six to eight times the hourly rate. Specialist rates described as holding while generalist rates face pressure.",
     "caveat": "Published by platforms and rate-calculator sites that benefit from confident numbers. Billing rate is not income. See Ch 5, trap 3.",
     "used_in": [
-      "ch28"
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -1252,7 +1252,7 @@
     "key_figure": "$150-$500 per hour, $1,500-$4,000 per day, or $5,000-$15,000 monthly on retainer, with a common engagement around 12 hours a week. One platform quotes an average of $216/hour in North America. Gartner is cited as forecasting that over 30% of midsize enterprises will retain a fractional executive by 2027.",
     "caveat": "Every source found sells fractional placements. The Gartner forecast is quoted second-hand throughout and was not read directly. One platform also reports demand falling over the most recent 90 days, which sits oddly beside the growth story and is worth more attention than the forecast.",
     "used_in": [
-      "ch28"
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -1266,8 +1266,8 @@
     "key_figure": "Average earnings in regular wage or salaried employment rose to ₹24,217 a month for men and ₹18,353 for women during 2025, women earning about 76% of the male figure. Labour force participation 59.3%, unemployment 3.1%, and regular salaried work 23.6% of all employment.",
     "caveat": "This is the whole economy, not computing. Earnings are published by broad occupation group only, so no computing specialisation can be separated out. The sampling redesign also breaks the series against earlier annual estimates, so the year-on-year growth figures should not be compared with pre-2025 numbers.",
     "used_in": [
-      "ch12",
-      "ch40"
+      "Ch 12",
+      "Appendix H"
     ],
     "no_url": "Published as periodic survey reports carrying many tables. The earnings figures used here are read from the report rather than from a page that states them.",
     "grade": 2
@@ -1282,7 +1282,7 @@
     "caveat": "This is a finding about India's statistical system rather than about Indian pay. Salaries obviously exist and are known to the people earning them; they are not published at a standard this dataset can cite.",
     "gap": true,
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "no_url": "This record is an assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
     "grade": 2
@@ -1298,7 +1298,7 @@
     "no_url": "The examination information bulletin is reissued each cycle at a new address. No stable locator was verified for this edition.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 1
   },
@@ -1314,7 +1314,7 @@
     "retrieved": "2026-08-10",
     "retrieved_via": "secondary",
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 1
   },
@@ -1329,7 +1329,9 @@
     "caveat": "Outcome evaluations do exist; see india-apprenticeship-outcomes in this file. What remains unverified is the methodology behind the reported employment rates.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch15"
+      "Ch 15",
+      "Appendix F",
+      "Appendix H"
     ],
     "grade": 1
   },
@@ -1342,8 +1344,8 @@
     "key_figure": "2,117 global capability centres operating across 3,728 units as of March 2026, employing about 2.36 million people, with revenue of $98.4bn and 32% growth since 2021. More than 1,200 embed machine learning work, drawing on an AI talent pool of roughly 250,000.",
     "caveat": "Published by the industry association whose members are being counted, with a consultancy that sells advice to them. The direction is corroborated by hiring data from other sources; the absolute counts are not audited. Nothing here says what any of those jobs pay or how long people stay.",
     "used_in": [
-      "ch12",
-      "ch40"
+      "Ch 12",
+      "Appendix H"
     ],
     "no_url": "Industry association report published behind registration. Figures reached this record through press coverage of it.",
     "grade": 3
@@ -1359,7 +1361,7 @@
     "no_url": "A gazette notification. No stable public locator was verified for this edition.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch16"
+      "Ch 16"
     ],
     "grade": 1
   },
@@ -1374,7 +1376,7 @@
     "url": "https://www.mea.gov.in/emigration-clearance-system",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -1387,8 +1389,8 @@
     "key_figure": "Trailing-twelve-month attrition across the six largest listed firms ran between 11.8% and 13.9% for the quarter ending June 2026. Two of the six reduced headcount over the quarter. The six together employ over 1.56 million people.",
     "caveat": "Definitions differ between firms. Some report voluntary attrition only, some exclude parts of the business, and the trailing window is not always the same. The band is indicative; the ranking between firms is not meaningful.",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "no_url": "Several companies' quarterly results read together. There is no single document to link to.",
     "grade": 3
@@ -1402,7 +1404,7 @@
     "key_figure": "An employee base of about 5.8 million after net hiring of 126,000 in the year to March 2025, with roughly 135,000 further net additions projected for the following year.",
     "caveat": "Published by the industry association whose members are counted. The aggregate grows while the largest firms shrink, so a headline industry number describes mid-sized firms and capability centres more than it describes the employers most graduates apply to.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "no_url": "Industry association aggregate, published in press releases rather than as a standing document.",
     "grade": 3
@@ -1417,8 +1419,8 @@
     "key_figure": "Capability centre attrition at about 12.6%, described by the publisher as a historic low. India-wide attrition across all sectors was 17.1% in 2025, with e-commerce and fintech at 25% to 28%.",
     "caveat": "A commercial survey of participating employers, not a census. It does not separate computing roles from other functions inside a capability centre.",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "no_url": "Consultancy survey published to clients and summarised in press coverage.",
     "grade": 3
@@ -1434,8 +1436,8 @@
     "key_figure": "Median remuneration of employees was ₹947,425 in financial year 2025-26 against ₹978,516 in 2024-25, a decrease of 3.18%. Permanent employees on the rolls rose from 233,346 to 242,156. The aggregate remuneration of employees grew 0.7%, which the company attributes to the increase in headcount.",
     "caveat": "A company-wide median across every function, not a computing role. It covers the listed entity including overseas branches but excludes subsidiaries, so it is mostly but not purely Indian. A fall in cash terms is a fall in real terms whatever inflation was, but the inflation figure needed has not been sourced to size the real cut.",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "retrieved": "2026-08-10",
     "distinct_from": {
@@ -1454,7 +1456,7 @@
     "key_figure": "The median remuneration of employees rose 17.63% in the financial year. There were 167,316 permanent employees on the rolls at 31 March 2025, plus 56,104 on the rolls of subsidiaries. In the sustainability report, median pay for employees other than directors and key managerial personnel was ₹18.18 lakh for 167,071 men and ₹9.53 lakh for 67,217 women.",
     "caveat": "The company publishes the percentage change but not the absolute median, which Rule 5(1) permits. The gender figures are global and converted at a stated rate of ₹82 to the dollar, so the difference may reflect where the two groups work rather than pay for comparable work. It is one company with no controls, and must not be read as an Indian gender pay gap.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "retrieved": "2026-08-10",
     "grade": 1
@@ -1470,7 +1472,7 @@
     "key_figure": "The report states that median remuneration was ₹11,13,024 in fiscal 2026 against ₹10,72,008 in fiscal 2025, an increase of approximately 4%.",
     "caveat": "A company-wide median across every function and every country in which Infosys employs people, not a role figure and not an Indian figure.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "retrieved": "2026-08-10",
     "grade": 1
@@ -1487,8 +1489,8 @@
     "url": "https://www.nseindia.com/api/annual-reports?index=equities&symbol=INFY",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "grade": 1
   },
@@ -1503,8 +1505,8 @@
     "no_url": "Eight companies' annual reports read together. The individual records in this file carry their own exchange links.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "grade": 1
   },
@@ -1519,8 +1521,8 @@
     "key_figure": "The median for the Indian company was ₹16,76,000 in the year to March 2025, and the report states it remained the same in the year to March 2026. The median at Persistent Systems Inc. was USD 136,516 for the year to March 2026, which the company puts at about ₹12.17 million. The American median is roughly seven times the Indian one.",
     "caveat": "Not the same job paying seven times more. Two different workforces at different grades doing different work, in economies with different prices. A United States subsidiary also skews client-facing and senior. What it does establish is how far a company-wide median sits from an Indian one, which is the limitation attached to every other figure in this file.",
     "used_in": [
-      "ch13",
-      "ch40"
+      "Ch 13",
+      "Appendix H"
     ],
     "retrieved": "2026-08-10",
     "grade": 1
@@ -1537,7 +1539,7 @@
     "url": "https://www.nseindia.com/api/annual-reports?index=equities&symbol=COFORGE",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -1548,12 +1550,12 @@
     "date": "2026-08",
     "reliability": 1,
     "key_figure": "Listed companies must publish a median employee pay figure. Capability centres are wholly-owned private subsidiaries of foreign parents, are not listed in India, and carry no such duty. A foreign parent's own pay ratio disclosure covers its global workforce and cannot isolate the Indian entity. So one side of the comparison is compelled and the other is absent by construction.",
-    "caveat": "Consultancy compensation surveys do put a premium at 12% to 20%. Their methodology is not published, most visible citations are marketing pages rather than the reports, and a survey is grade 2 at best, which fails the grade 3 bar for pay in any case.",
+    "caveat": "Consultancy compensation surveys do put a premium at 12% to 20%. Their methodology is not published, most visible citations are marketing pages rather than the reports. A survey with no published method is not grade 2 under Chapter 5. And a premium is a percentage rather than an amount of pay, so it could not clear the pay bar even with a method.",
     "gap": true,
     "no_url": "An assessment of what the disclosure law does not require, not a document. The statute it reasons from is india-rule5-median-pay-duty.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -1567,7 +1569,7 @@
     "caveat": "This edition read the government's summary of the evaluations, not the evaluations themselves. One official wording describes apprentices who \"reported receiving offers of full-time employment\", which is weaker than a verified placement. Sample size, employment definition and measurement timing are all unverified.",
     "gap": true,
     "used_in": [
-      "ch15"
+      "Ch 15"
     ],
     "no_url": "A government summary citing commissioned evaluations that are not themselves published. The gap register records that the underlying evaluations were not read.",
     "grade": 3
@@ -1585,7 +1587,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1601,7 +1603,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1617,7 +1619,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1633,7 +1635,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1649,7 +1651,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -1665,7 +1667,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -1681,7 +1683,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -1697,7 +1699,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch27"
+      "Ch 27"
     ]
   },
   {
@@ -1713,7 +1715,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch27"
+      "Ch 27"
     ]
   },
   {
@@ -1729,7 +1731,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1745,7 +1747,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1756,12 +1758,12 @@
     "retrieved": "2026-08-09",
     "reliability": 3,
     "method": "Certified Labor Condition Application filings for fiscal year 2025, all four quarters, filtered by the employer-written job title and required to sit in a technical occupation family. Offered wage floor, normalised to a year. 2,422,227 certified filings scanned in total.",
-    "key_figure": "26 certified filings. Offered annual wage, lowest tenth $72,667, median $118,633, highest tenth $202,400. Thin at 26, AND THE THINNESS IS THE FINDING: this work generally needs a security clearance, a clearance needs citizenship, so sponsored workers structurally cannot hold most of these roles. Chapter 25's clearance gate predicts exactly this.",
+    "key_figure": "26 certified filings. Offered annual wage, lowest tenth $72,667, median $118,633, highest tenth $202,400. Thin at 26, and the thinness is the finding: this work generally needs a security clearance, a clearance needs citizenship, so sponsored workers structurally cannot hold most of these roles. Chapter 25's clearance gate predicts exactly this.",
     "caveat": "Sponsored roles only, so this sees employers large enough to run an immigration programme and misses everyone else. An offered wage is not an accepted wage, and a filing is a position requested rather than a person hired. United States only. The count of 26 filings is part of the figure and must be printed with it.",
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch25"
+      "Ch 25"
     ]
   },
   {
@@ -1777,7 +1779,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -1793,7 +1795,7 @@
     "no_url": "Published as quarterly Excel disclosure files at dol.gov/agencies/eta/foreign-labor/performance, which refuses automated requests. The quarterly files were downloaded by hand and the per-role counts extracted from them for this dataset.",
     "grade": 3,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -1806,11 +1808,11 @@
     "key_figure": "United States software development postings rose about 15% between February 2025 and mid-2026 while overall postings fell about 7%. They remain roughly 27.5% below the February 2020 baseline. 71% of the increase came from senior roles and 37% from roles naming AI in the title. The relationship between AI exposure and posting decline, which held from 2022, inverted after May 2025: the most AI-exposed occupations are now rebounding fastest.",
     "caveat": "Explicitly correlational and senior-skewed. The publisher does not claim causation and neither does this record. Postings are not hires. The reversal finding is one publisher's measure of AI exposure, not an agreed one.",
     "used_in": [
-      "ch06",
-      "ch09",
-      "ch13",
-      "ch20",
-      "ch24"
+      "Ch 6",
+      "Ch 9",
+      "Ch 13",
+      "Ch 20",
+      "Ch 24"
     ],
     "url": "https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
     "grade": 2
@@ -1824,7 +1826,7 @@
     "key_figure": "Senior-level postings up 14.7% year on year as of May 2026. Entry-level postings, which peaked in 2022, down 7.5% year on year and 6.3% against January 2025. Mid-level down 6.7% against January 2025.",
     "caveat": "Seniority is inferred from posting text, not from what the employer actually hires. It is a measure of what is advertised.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "url": "https://hiringlab.indeed.com/2026/07/23/the-labor-market-is-tilting-toward-seniority/",
     "grade": 2
@@ -1838,7 +1840,7 @@
     "key_figure": "Job Postings Index at 101.0 on 30 June 2026, against a February 2020 baseline of 100. Year-on-year change of −3.7%, still negative but improving from −7.5% a year earlier. Software development, data analysis and marketing all sit roughly 30% or more below February 2020, while healthcare and manufacturing sit above it.",
     "caveat": "One country and one job board. Not a national statistics agency.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "url": "https://hiringlab.indeed.com/2026/07/23/us-labor-market-snapshot-june-2026/",
     "grade": 2
@@ -1852,7 +1854,7 @@
     "key_figure": "514,359 United States cybersecurity job listings over the trailing twelve months, an increase of nearly 57,000 or 12%. Supply-demand ratio of 74%, meaning roughly three of every four openings can be filled from the existing workforce.",
     "caveat": "Built from job-posting data by an organisation that also sells cybersecurity certifications. The direction is corroborated by independent workforce studies; the exact ratio depends on how \"cybersecurity worker\" is defined, and that definition is the publisher's.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "url": "https://www.cyberseek.org/heatmap.html",
     "grade": 2
@@ -1867,8 +1869,8 @@
     "key_figure": "28% of respondents were laid off in the previous two years, rising to 33% in the United States. Two thirds of respondents at large studios saw layoffs at their company. Roughly 45,000 jobs lost across the industry since 2022 while revenue held at record levels.",
     "caveat": "Self-selected survey of conference-attending professionals, so people still in the industry are over-represented and the laid-off share is if anything understated. Run by a body whose members are the respondents.",
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "no_url": "Survey published as a downloadable report behind a form.",
     "grade": 2
@@ -1883,7 +1885,7 @@
     "caveat": "Crowd-compiled from public announcements, so it captures what companies announce rather than what happens. The AI attribution is a company's stated reason and is partly a cost-cutting narrative. Do not read it as measured task automation.",
     "gap": true,
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 4
   },
@@ -1897,8 +1899,8 @@
     "key_figure": "The share of FinOps teams managing AI spend rose from 31% to 63% to 98% across 2024, 2025 and 2026. 78% of teams now report to a chief technology or information officer, up 18 points against 2023.",
     "caveat": "Published by the foundation that certifies FinOps practitioners, and answered by its own community. Good evidence that the discipline is formalising; not independent evidence of how many such jobs exist.",
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "no_url": "Foundation survey published to members and summarised publicly.",
     "grade": 2
@@ -1912,8 +1914,8 @@
     "key_figure": "A projected need for 115,000 additional jobs by 2030, with around 67,000 at risk of going unfilled. United States semiconductor manufacturing employment about 368,400 in March 2026, down from a peak near 401,000 in 2023.",
     "caveat": "Published by the industry it describes, at a time when that industry was seeking public subsidy. A projection is not a measurement, and Chapter 6 applies. The employment figures are firmer than the projection.",
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "grade": 4
   },
@@ -1926,8 +1928,8 @@
     "key_figure": "About 38% of 2026 quality assurance listings still hire manual testers, concentrated in banking, healthcare and government, while about 78% of listings name at least one programming language. One survey reports a 13.8% senior income penalty for pure-execution testing against a 10.6% premium for those moving into strategy.",
     "caveat": "Published by vendors selling test automation tooling, whose interest lies in exactly this conclusion. The direction is corroborated across several such sources, which is weak corroboration because they share an interest.",
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "grade": 4
   },
@@ -1941,8 +1943,8 @@
     "caveat": "No primary posting-index publication for this specific title was read. The finding is consistent across several trade sources and matches the structural argument, but the percentages should be treated as directional.",
     "gap": true,
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "grade": 4
   },
@@ -1956,8 +1958,8 @@
     "caveat": "A small absolute number growing from a small base, measured by recruiting firms. 224 open roles is not a labour market; it is a category forming. The compensation figures are self-reported and cover a handful of well-funded employers.",
     "gap": true,
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "grade": 4
   },
@@ -1971,8 +1973,8 @@
     "caveat": "Revenue and headcount figures come from company statements repeated in trade press. The structural shift from crowd work to expert work is well corroborated; the rates are not independently verified.",
     "gap": true,
     "used_in": [
-      "ch13",
-      "ch29"
+      "Ch 13",
+      "Ch 29"
     ],
     "grade": 4
   },
@@ -1987,7 +1989,7 @@
     "no_url": "The classification and the task database that implements it are published by two different bodies, and this record describes the pair rather than either page.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch22"
+      "Ch 22"
     ],
     "grade": 1
   },
@@ -2003,7 +2005,7 @@
     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181r1.pdf",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch22"
+      "Ch 22"
     ],
     "grade": 1
   },
@@ -2019,7 +2021,7 @@
     "url": "https://esco.ec.europa.eu/en/classification/occupation_main",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch22"
+      "Ch 22"
     ],
     "grade": 1
   },
@@ -2034,7 +2036,7 @@
     "url": "https://sfia-online.org/en/sfia-9",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch22"
+      "Ch 22"
     ],
     "grade": 1
   },
@@ -2046,11 +2048,11 @@
     "retrieved": "2026-08-09",
     "reliability": 1,
     "method": "Statutory threshold under Section 18g of the Residence Act, pegged to the general pension insurance contribution assessment ceiling and reset each 1 January. Thresholds are published annually by the Federal Ministry of the Interior. Read from the federal portal's own page on 2026-08-09.",
-    "key_figure": "€50,700 gross a year general and €45,934.20 for shortage occupations, both as of 2026. The shortage list includes academic STEM professionals and information and communications technology service managers, and employment must be approved by the Federal Employment Agency. TWO LOWER ROUTES ALSO SIT AT €45,934.20. First, new entrants to the labour market: anyone whose last degree or equivalent qualification was obtained less than three years ago qualifies at that figure, and this applies to entry-level jobs in ALL professions rather than only shortage ones. Second, IT specialists with no formal qualification, who need three of the past seven years working in IT at a level the job required. A settlement permit follows after 27 months with A1 German or 21 months with B1. The card is issued for the contract duration plus three months, to a maximum of four years.",
-    "caveat": "These are the 2026 thresholds. The 2025 pair was €48,300 and €43,759.80, which are close enough to be mistaken for current: check the year on any figure you find, because this number changes every January. The 2026 values were read from the federal portal itself on 2026-08-09 and are VERIFIED, not merely located. An earlier version of this record took them from independent immigration-law publishers because the page sits behind a bot check that needs a browser; every figure matched. The young professionals rule was missing from this record and from Chapter 12 until that read, which is the same defect as the UK new entrant rule an outside reviewer caught in round 2 — a threshold written for entry-level applicants, omitted, in a chapter drawing conclusions about entry-level access.",
+    "key_figure": "€50,700 gross a year general and €45,934.20 for shortage occupations, both as of 2026. The shortage list includes academic STEM professionals and information and communications technology service managers, and employment must be approved by the Federal Employment Agency. Two lower routes also sit at €45,934.20. First, new entrants to the labour market: anyone whose last degree or equivalent qualification was obtained less than three years ago qualifies at that figure, and this applies to entry-level jobs in all professions rather than only shortage ones. Second, IT specialists with no formal qualification, who need three of the past seven years working in IT at a level the job required. A settlement permit follows after 27 months with A1 German or 21 months with B1. The card is issued for the contract duration plus three months, to a maximum of four years.",
+    "caveat": "These are the 2026 thresholds. The 2025 pair was €48,300 and €43,759.80, which are close enough to be mistaken for current: check the year on any figure you find, because this number changes every January. The 2026 values were read from the federal portal itself on 2026-08-09 and are ve rified, not merely located. The page sits behind a bot check that needs a browser. Near the start of a career, read the young professionals rule first: it sets a lower threshold for recent graduates.",
     "url": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "distinct_from": {
       "10k-salesforce-ecosystem": "Shares 1, 21 and 27 by coincidence. Here they are Section 18g and the settlement months at B1 and A1 German; there they are percentages of ecosystem growth."
@@ -2069,7 +2071,7 @@
     "key_figure": "About PLN 13,355 gross a month for 2026 applications. Contract must run at least one year. IT specialists may qualify on three years of experience instead of a degree, against five years for other fields.",
     "caveat": "This threshold is indexed to the national average wage, so it rises each year rather than falling. Older figures circulate widely — around PLN 11,700 was current a few years ago — so check the year before using one. Published figures differ in the last digit between PLN 13,355.34 and PLN 13,355.84, which is why this record rounds; do not print more precision than the sources agree on.",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2081,11 +2083,11 @@
     "retrieved": "2026-08-06",
     "reliability": 1,
     "method": "Immigration Rules as published on the government's own service pages.",
-    "key_figure": "£41,700 general salary floor, with a going rate near £49,400 for software engineers. A NEW ENTRANT may be paid 70% of the going rate, subject to an absolute floor of £33,400, which is roughly £34,580 for a software engineer. New entrant means under 26 on the date of application, or switching from a Student or Graduate visa, and it can be held for a maximum of four years total stay. A UK STEM PhD gets 80% of the going rate; a non-STEM PhD gets 90% subject to a £37,500 floor.",
-    "caveat": "The thresholds were right in the first draft and the conclusion drawn from them was wrong. The book stated that these figures \"effectively closed the sponsored entry-level route\", having omitted the provision written for entry-level applicants. The phrase \"new entrant\" did not appear anywhere in the book. Corrected in August 2026 after an outside reviewer found it.",
+    "key_figure": "£41,700 general salary floor, with a going rate near £49,400 for software engineers. A new entrant may be paid 70% of the going rate, subject to an absolute floor of £33,400, which is roughly £34,580 for a software engineer. New entrant means under 26 on the date of application, or switching from a Student or Graduate visa, and it can be held for a maximum of four years total stay. A UK STEM PhD gets 80% of the going rate; a non-STEM PhD gets 90% subject to a £37,500 floor.",
+    "caveat": "The general threshold is not the one an entry-level applicant faces. The new entrant rule lets a sponsored worker under 26, or one switching from a Student or Graduate visa, be paid 70% of the going rate for up to four years. Read that rule before concluding the sponsored route is closed.",
     "url": "https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2101,7 +2103,7 @@
     "caveat": "Corrected in August 2026. The book printed \"S$5,000 minimum, rising to S$6,000 in 2027\" — the pre-2025 floor beside the correct 2027 figure. A right future number next to a wrong present one is the signature of a stale secondary source, which is what Chapter 5 warns about. The age-adjustment was missing entirely and matters more to an older career changer than the headline does.",
     "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2117,7 +2119,7 @@
     "caveat": "The book previously gave only informal salary guidance of 5 to 7 million yen for junior roles, with no threshold and no source. That guidance is not a rule and has been replaced with the published points bar. J-Find is the entry-level route and the book had not mentioned it.",
     "url": "https://www.moj.go.jp/isa/content/001398882.pdf",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2130,10 +2132,10 @@
     "reliability": 1,
     "method": "Published eligibility criteria for the ten-year skilled-professional category.",
     "key_figure": "Ten-year residence requiring a monthly salary of at least AED 30,000, a bachelor's degree or higher, and an employment contract approved in the UAE, in labour-ministry skill level 1 or 2. Software engineering sits in level 2.",
-    "caveat": "TWO THINGS CHANGED HERE ON 2026-08-21 AND BOTH MATTER. The federal portal page this record used to cite was retired and now 404s, and the page that replaced it lists investor and exceptional-talent categories with no salary band for skilled professionals at all. The threshold is now cited to the Abu Dhabi government, which publishes it plainly; it is an emirate statement of a federal rule, which is a step down from where this record started. Separately, this record previously said BASIC salary and asserted that the basic-versus-gross distinction was the point. The cited page does not say basic. It says \"minimum monthly salary of AED 30,000 or equivalent\". Every source found that specifies basic salary excluding allowances is a visa consultancy, which Chapter 5 grades at 5 and which is not printed here. So the qualifier is removed rather than kept on evidence the book would reject from anyone else. A reader near the threshold should assume the stricter reading and ask the employer which figure the contract states.",
+    "caveat": "The federal portal page that once carried this rule was retired, and the page that replaced it lists investor and exceptional-talent categories with no salary band for skilled professionals at all. The threshold is now cited to the Abu Dhabi government, which publishes it plainly; it is an emirate statement of a federal rule, a step down from a federal source. The cited page does not say basic. It says \"minimum monthly salary of AED 30,000 or equivalent\". Every source found that specifies basic salary excluding allowances is a visa consultancy, which Chapter 5 grades at 5 and which is not printed here. S o that qualifier is not printed, on evidence the book would reject from anyone else. A reader near the threshold should assume the stricter reading and ask the employer which figure the contract states.",
     "url": "https://www.added.gov.ae/en/live/long-term-residency/abu-dhabi-golden-visa/for-specialists/for-skilled-professionals",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2147,7 +2149,7 @@
     "key_figure": "Informal employment above 92% of all employment. Wage employees about 14% of those working. A labour force of roughly 100 million.",
     "caveat": "Publishes labour market structure and not occupation-level earnings. No computing pay figure can be derived from it at any granularity.",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "no_url": "Published as periodic statistical releases. The figures used here are read from the release rather than from a page that states them.",
     "grade": 2
@@ -2162,7 +2164,7 @@
     "caveat": "Aggregator salary sites carry Nigerian data and are grade 4, so they were not substituted. The finding is a null, which is what the book prints.",
     "gap": true,
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "no_url": "This record is an assessment that no qualifying source exists. There is nothing to link to, which is the finding.",
     "grade": 2
@@ -2178,7 +2180,7 @@
     "no_url": "No official gazette copy was found online. The Act's text and assent date were confirmed against legal and press reporting.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2191,7 +2193,7 @@
     "key_figure": "About 2,001 employees in 2025, of whom 659 earned ₦2.4 million a month or more, roughly double the previous year. Over 84% earned at least ₦1 million a month in 2024.",
     "caveat": "One employer, in one sector, in one year. It is the cleanest formal-sector pay disclosure available for Nigeria and it is not a market figure. The sharp year-on-year rise reflects currency movement as much as pay policy.",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "no_url": "Read from the company's annual report PDF, which is reissued yearly at a changing address.",
     "grade": 3
@@ -2207,7 +2209,7 @@
     "no_url": "The central bank publishes circulars as dated PDFs behind an index that is reorganised periodically. No stable locator was verified.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch12"
+      "Ch 12"
     ],
     "grade": 1
   },
@@ -2221,7 +2223,7 @@
     "caveat": "Reached through secondary compilations rather than the examination board's own brochure. The structural fact that Mathematics and Physics are required is not in doubt; the accepted fourth subjects should be checked against the current brochure.",
     "gap": true,
     "used_in": [
-      "ch14"
+      "Ch 14"
     ],
     "grade": 4
   },
@@ -2235,7 +2237,7 @@
     "caveat": "Scale and cohort structure are documented by the government portal. The placement rate of roughly two thirds that circulates comes from a secondary analysis, not an independent evaluation, and should not be read as a measured outcome.",
     "gap": true,
     "used_in": [
-      "ch15"
+      "Ch 15"
     ],
     "grade": 4
   },
@@ -2246,13 +2248,13 @@
     "date": "2025-05",
     "retrieved": "2026-08-08",
     "reliability": 1,
-    "method": "Mandatory establishment survey of employer payroll records, constructed from six semi-annual panels with older observations adjusted to the May 2025 reference period. Read from the publisher's own bulk release, national_M2025_dl.xlsx inside oesm25nat.zip, on 2026-08-09. An earlier version of this record took the percentiles from the US Department of Labor's O*NET republication because bls.gov refuses automated requests; every figure in that reading matched the bulk file exactly.",
+    "method": "Mandatory establishment survey of employer payroll records, constructed from six semi-annual panels with older observations adjusted to the May 2025 reference period. Read from the publisher's own bulk release, national_M2025_dl.xlsx inside oesm25nat.zip, on 2026-08-09. The US Department of Labor's O*NET republication of the same percentiles matches the bulk file exactly, and is easier to reach because bls.gov refuses automated requests.",
     "key_figure": "United States employment, May 2025. Software developers 1,687,890. Computer user support specialists 717,190. Computer and information systems managers 670,570. Computer systems analysts 519,530. Computer occupations not elsewhere classified 435,370. Network and computer systems administrators 314,340. Data scientists 262,440. Information security analysts 190,650. Software quality assurance analysts and testers 186,740. Computer network architects 179,740. Computer network support specialists 146,190. Web and digital interface designers 113,330. Computer programmers 92,230. Web developers 70,190. Database administrators 69,990. Database architects 67,140. Computer and information research scientists 37,200. Annual wages by percentile, all seventeen computing occupations, as 10th / 25th / median / 75th / 90th. Software developers (15-1252) $82,460 / $105,210 / $135,980 / $171,980 / $214,670. Computer and information systems managers (11-3021) $107,550 / $138,060 / $175,140 / $220,730 / $297,510. Computer and information research scientists (15-1221) $82,200 / $103,570 / $140,300 / $188,700 / $230,630. Database architects (15-1243) $86,240 / $109,370 / $139,500 / $169,290 / $204,000. Computer network architects (15-1241) $79,900 / $104,620 / $134,050 / $168,200 / $202,680. Information security analysts (15-1212) $75,090 / $97,810 / $129,180 / $163,500 / $199,850. Data scientists (15-2051) $67,240 / $85,660 / $120,230 / $158,880 / $199,130. Computer occupations, all other (15-1299) $55,940 / $79,370 / $116,580 / $157,500 / $188,470. Computer systems analysts (15-1211) $67,340 / $82,860 / $105,850 / $134,110 / $167,710. Database administrators (15-1242) $60,230 / $79,610 / $104,620 / $135,460 / $163,320. Software quality assurance analysts and testers (15-1253) $61,440 / $80,310 / $104,300 / $133,180 / $167,010. Web and digital interface designers (15-1255) $53,750 / $73,290 / $104,000 / $158,820 / $201,550. Computer programmers (15-1251) $57,710 / $75,850 / $100,390 / $130,680 / $160,460. Network and computer systems administrators (15-1244) $62,640 / $78,010 / $99,130 / $126,640 / $155,050. Web developers (15-1254) $48,100 / $64,230 / $92,650 / $126,230 / $162,290. Computer network support specialists (15-1231) $47,120 / $58,240 / $76,220 / $98,750 / $127,780. Computer user support specialists (15-1232) $40,980 / $49,000 / $61,860 / $79,040 / $100,540.",
-    "caveat": "VERIFIED against the publisher's bulk release on 2026-08-09. Every employment count and every percentile in this record was read from national_M2025_dl.xlsx; nothing here is second-hand. Note also that BLS applied NO top-coding in this release: the 90th percentile is a literal value in all 1,000-plus rows, none carries the \"#\" flag, and the highest in the whole file is $742,310. So the $297,510 for computing managers is a real figure and not a censored one, which an earlier draft flagged as unsettled. On the figures themselves: straight-time gross pay only, so equity, signing and retention bonuses, overtime and benefits are all excluded, which understates total pay most at the large technology employers paying the most equity. The self-employed and independent contractors are excluded entirely, which matters most for web development and consulting. Annual figures assume full-time year-round work at 2,080 hours. A SOC code holds everyone the survey classifies into it at every seniority and every specialism: 15-1252 folds backend, frontend, mobile, embedded, machine learning and platform engineers into one estimate. United States only.",
+    "caveat": "Verified against the publisher's bulk release on 2026-08-09. Every employment count and every percentile in this record was read from national_M2025_dl.xlsx; nothing here is second-hand. Note also that BLS applied no top-coding in this release: the 90th percentile is a literal value in all 1,000-plus rows, none carries the \"#\" flag, and the highest in the whole file is $742,310. So the $297,510 for computing managers is a real figure and not a censored one. On the figures themselves: straight-time gross pay only, so equity, signing and retention bonuses, overtime and benefits are all excluded, which understates total pay most at the large technology employers paying the most equity. The self-employed and independent contractors are excluded entirely, which matters most for web development and consulting. Annual figures assume full-time year-round work at 2,080 hours. A SOC code holds everyone the survey classifies into it at every seniority and every specialism: 15-1252 folds backend, frontend, mobile, embedded, machine learning and platform engineers into one estimate. United States only.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
-    "no_url": "The figures were read from the publisher's own bulk release, national_M2025_dl.xlsx, and bls.gov returns 403 to automated requests so that file cannot be linked in a way a reader could check the way this dataset asks. This record previously carried an O*NET link, which locates the occupation but not the release these numbers were read from: a locator that points somewhere other than where the data came from is the fault corrected in bls-employment-projections-2024-2034 on 2026-08-22, found again here by the audit that followed it. Downloadable from bls.gov/oes under the May 2025 national release.",
+    "no_url": "The figures were read from the publisher's own bulk release, national_M2025_dl.xlsx, and bls.gov returns 403 to automated requests so that file cannot be linked in a way a reader could check the way this dataset asks. A n O*NET link would locate the occupation but not the release these numbers were read from. Downloadable from bls.gov/oes under the May 2025 national release.",
     "distinct_from": {
       "india-infosys-seniority-bands": "Shares 10, 11 and 25 by coincidence. Those are percentile labels and lakh figures respectively. One record is an American establishment survey; the other is one Indian company's disclosure.",
       "onet-soc-computing-2026": "Shares 1211, 1299 and 15 because both use the same Standard Occupational Classification, so the code fragments necessarily match. They are different documents: that record is the occupational taxonomy, this one is the wage and employment survey reported against it."
@@ -2268,15 +2270,15 @@
     "reliability": 1,
     "method": "The Employment Projections programme's detailed occupation table, read from the published workbook rather than from any republication of it. Separate from the OEWS survey: base-year employment is modelled from several inputs rather than taken from the OEWS estimate, which is why the two disagree.",
     "key_figure": "Software developers, SOC 15-1252: employment 1,693,800 in 2024 rising to 1,961,400 in 2034, a change of 267,700 and 15.8 percent, with 115,200 occupational openings a year and a median annual wage of $133,080. Software quality assurance analysts and testers, SOC 15-1253: employment 201,700 rising to 221,900, a change of 20,200 and 10.0 percent, with 14,000 openings a year and a median annual wage of $102,610.",
-    "caveat": "THE TWO ROWS SUM TO THE HEADLINE, WHICH IS HOW THE BUNDLE CAN BE TAKEN APART. Their 2024 employment adds to 1,895,500 and their annual openings to 129,200, which is exactly the figure the Occupational Outlook Handbook publishes for \"Software Developers, Quality Assurance Analysts, and Testers\" as one occupation, at 15 percent growth. So the published bundle is these two occupations and nothing else. THIS RECORD REPLACED A WRONG ONE ON 2026-08-22, and the error is worth keeping in view. The previous version cited O*NET OnLine, which reports projected growth as a BAND rather than a number, and its page for this occupation reads \"Much faster than average (7% or higher)\". That band floor was recorded as though it were the occupation's growth rate, so the book printed 7 percent for software developers against 15 percent for the bundle, and concluded the headline overstated developers. The truth is the reverse: developers grow at 15.8 percent, faster than the bundle, and it is quality assurance and testing at 10.0 percent that the headline flatters. The record was also graded 1 and attributed to the Bureau while citing a republication, which is two further faults in one entry. A projection is not a measurement. Projected openings combine growth with replacement of people who leave the occupation, so most of the annual figure is churn rather than new jobs. The 1,693,800 base-year count is from a different BLS programme than the 1,687,890 OEWS estimate and the two must not be presented as rival versions of one number.",
+    "caveat": "The two rows sum to the headline, which is how the bundle can be taken apart. Their 2024 employment adds to 1,895,500 and their annual openings to 129,200, which is exactly the figure the Occupational Outlook Handbook publishes for \"Software Developers, Quality Assurance Analysts, and Testers\" as one occupation, at 15 percent growth. So the published bundle is these two occupations and nothing else. O*NET OnLine reports projected growth as a band, and its page for this occupation reads \"Much faster than average (7% or higher)\". That is the floor of a band shared by every fast-growing occupation, not this one's rate. Developers grow at 15.8 percent, faster than the bundle, and it is quality assurance and testing at 10.0 percent that the headline flatters. A projection is not a measurement. Projected openings combine growth with replacement of people who leave the occupation, so most of the annual figure is churn rather than new jobs. The 1,693,800 base-year count is from a different BLS programme than the 1,687,890 OEWS estimate and the two must not be presented as rival versions of one number.",
     "distinct_from": {
       "oews-2025": "Two different BLS programmes measuring two different things, and the book prints both on purpose. The shared digits are the SOC codes 15-1252 and 15-1253 and the number 15, not a shared measurement. OEWS is a survey of what employers currently pay and employ; this is a ten-year projection whose base-year employment is modelled rather than surveyed, which is why 1,693,800 here and 1,687,890 there are both correct and must never be presented as rival versions of one figure."
     },
     "used_in": [
-      "ch09",
-      "ch13",
-      "ch34",
-      "ch38"
+      "Ch 9",
+      "Ch 13",
+      "Appendix B",
+      "Appendix F"
     ],
     "no_url": "bls.gov returns 403 to automated requests, so this workbook cannot be fetched programmatically and no stable link is offered in place of one that cannot be checked the way the book asks readers to check. It is Table 1.2 of the 2024-34 Employment Projections, published at bls.gov/emp under Occupational projections, and it downloads as occupation.xlsx. Retrieved by hand on 2026-08-22.",
     "grade": 1
@@ -2290,10 +2292,10 @@
     "reliability": 1,
     "method": "Standing dashboard built on the US Census Bureau's American Community Survey, covering graduates aged 22 to 27 holding a bachelor's degree or higher, broken out across 73 subjects of study.",
     "key_figure": "On 2024 census data, the most recent available, recent computer science graduates had 7.0% unemployment and computer engineering graduates 7.8%, against 5.6% for recent graduates of all subjects. Underemployment, which counts graduates in work that does not need a degree, stood at about 42% across all subjects and about 16% for computer science, among the lowest of any subject. Early-career median wages were $87,000 for computer science and $90,000 for computer engineering. An earlier vintage of the same dashboard, built on 2023 data and widely shared during 2025, put computer science at 6.1% and computer engineering at 7.5%.",
-    "caveat": "LOCATED, NOT VERIFIED AT THE PUBLISHER. newyorkfed.org returned 403 to automated requests on 2026-08-08, so these figures were read from secondary reporting of the release rather than from the dashboard. The publisher and the instrument are grade 1; this reading of them is one step removed and the next edition should re-read it directly. Survey estimates for a single subject carry wide confidence intervals, and the Economic Innovation Group has shown that the interval for computer engineering runs roughly 4% to 11%. A one-point difference between subjects is noise. United States only, and graduates only.",
+    "caveat": "Located, not verified at the publisher. newyorkfed.org returned 403 to automated requests on 2026-08-08, so these figures were read from secondary reporting of the release rather than from the dashboard. The publisher and the instrument are grade 1; this reading of them is one step removed and the next edition should re-read it directly. Survey estimates for a single subject carry wide confidence intervals, and the Economic Innovation Group has shown that the interval for computer engineering runs roughly 4% to 11%. A one-point difference between subjects is noise. United States only, and graduates only.",
     "used_in": [
-      "ch04",
-      "ch13"
+      "Ch 4",
+      "Ch 13"
     ],
     "url": "https://www.newyorkfed.org/research/college-labor-market",
     "grade": 1
@@ -2310,7 +2312,7 @@
     "key_figure": "The page attributes to BLS OEWS May 2025 a software developer median of $132,684 and employment of 1,225,060, against the published $135,980 and 1,687,890. It also prints a 10th-to-90th percentile range of $138,420 to $289,150, placing its own stated 10th percentile of $138,420 above its own stated median of $132,684, which is arithmetically impossible.",
     "caveat": "One page on one date. It is cited as a worked example of what a reader meets when the primary source is hard to retrieve, not as evidence about the wider quality of secondary salary sites. Pass 12 documents four more of the same shape, including a widely-read page attributing May 2023 figures to May 2024.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "distinct_from": {
       "oews-2025": "Shares the figures 10, 90 and 135980 with the OEWS record because it quotes the percentile labels and the correct median in order to contrast them with the wrong ones. It is the error, not the source."
@@ -2328,7 +2330,7 @@
     "key_figure": "Every automated request to bls.gov returned HTTP 403: the OEWS news release table, the bulk download directory and the public data API. BLS discontinued its static per-occupation profile pages after the May 2023 release, so from May 2024 onward the percentile spreads and the state and metropolitan tables are published only through a JavaScript tool and in bulk spreadsheets.",
     "caveat": "This records what happened from one machine on one date. A person using a browser can reach all of it, and the data itself is free. The finding is about how the most important labour statistics in the world are now shaped for retrieval, not about whether they are public.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "no_url": "The record is an observation about a publisher's access behaviour rather than a document. Reproduce by requesting bls.gov/news.release/ocwage.t01.htm without a browser.",
     "grade": 1
@@ -2341,13 +2343,13 @@
     "reliability": 3,
     "method": "Employer-attested base wage filings, public disclosure",
     "key_figure": "National average base $190,310; New York ~$197,753; Miami ~$242,353. Five Rings and Jane Street file a flat $300,000 base",
-    "note": "BASE salary only. Quant total compensation is mostly bonus, so these filings understate total pay badly while being the most honest numbers available. This is Ch 5's base-vs-total-comp trap in its purest form - use the profile to teach it.",
+    "note": "Base salary only. Quant total compensation is mostly bonus, so these filings understate total pay badly while being the most honest numbers available. This is Chapter 5's trap of base pay against total pay, in its purest form.",
     "no_url": "Filed disclosure data, read through a third-party viewer. The underlying quarterly files are bulk downloads, not per-employer pages.",
-    "caveat": "BASE salary only. Quantitative finance pay is mostly bonus, so these filings understate total pay badly, and the flat $300,000 figures from two firms are filing conventions rather than what anyone is paid. Sponsored roles at firms large enough to run an immigration programme.",
+    "caveat": "Base salary only. Quantitative finance pay is mostly bonus, so these filings understate total pay badly, and the flat $300,000 figures from two firms are filing conventions rather than what anyone is paid. Sponsored roles at firms large enough to run an immigration programme.",
     "used_in": [
-      "ch05",
-      "ch25",
-      "ch26"
+      "Ch 5",
+      "Ch 25",
+      "Ch 26"
     ],
     "grade": 3
   },
@@ -2361,7 +2363,7 @@
     "caveat": "Recruiter-sourced and survivorship-biased. These are the numbers that attract applicants, drawn from the best-paid firms in the best years. Present them as a ceiling, never as an expectation.",
     "grade": 4,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -2374,7 +2376,7 @@
     "caveat": "Aggregator, thin sample for a small specialist market.",
     "grade": 4,
     "used_in": [
-      "ch26"
+      "Ch 26"
     ]
   },
   {
@@ -2387,7 +2389,7 @@
     "caveat": "Platform-sourced, covers developers who already reached international clients. Strong selection bias - it does not describe the average Lagos developer.",
     "grade": 4,
     "used_in": [
-      "ch28"
+      "Ch 28"
     ]
   },
   {
@@ -2400,7 +2402,7 @@
     "caveat": "Expected rather than realised pay, from a platform with an interest in high numbers.",
     "grade": 4,
     "used_in": [
-      "ch28"
+      "Ch 28"
     ]
   },
   {
@@ -2412,9 +2414,9 @@
     "key_figure": "Top hiring qualifications ranked: technical capability 19%, certification 14%, work experience 14%",
     "note": "Employers rank demonstrated capability above certification. Important counter to the certification-first advice sold to entrants.",
     "used_in": [
-      "ch23",
-      "ch24",
-      "ch25"
+      "Ch 23",
+      "Ch 24",
+      "Ch 25"
     ],
     "no_url": "Published behind a registration form. Figures reached this record through the institute's own summaries of it.",
     "caveat": "A survey of employers who chose to answer a security training provider's questionnaire, so the sample leans toward organisations already engaged with training. It ranks what employers say they weigh, which is not the same as what their hiring actually does.",
@@ -2429,8 +2431,8 @@
     "key_figure": "Junior developers ~$49,656/year; senior ~$72,240/year; ~$66/hr on contract",
     "caveat": "Aggregated market reporting without a published method. Directional.",
     "used_in": [
-      "ch12",
-      "ch23"
+      "Ch 12",
+      "Ch 23"
     ],
     "grade": 4
   },
@@ -2443,8 +2445,8 @@
     "key_figure": "Mid-level $45-65/hr; senior $58-85/hr. Durable ~35-40% cost gap vs Western Europe",
     "caveat": "Market compilation. Also mixes B2B contract rates with employment - see Ch 5 trap 3.",
     "used_in": [
-      "ch12",
-      "ch28"
+      "Ch 12",
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -2457,8 +2459,8 @@
     "key_figure": "Mid-level $40-60/hr, resilient despite the war",
     "caveat": "Compilation source, and a market under conditions no dataset captures well.",
     "used_in": [
-      "ch12",
-      "ch28"
+      "Ch 12",
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -2471,8 +2473,8 @@
     "key_figure": "Nairobi developers ~$14,700/year locally; Cape Town software engineers ~$55,452/year",
     "caveat": "Thin sampling. Sub-Saharan Africa beyond Nigeria, Kenya and South Africa is a documented gap.",
     "used_in": [
-      "ch12",
-      "ch28"
+      "Ch 12",
+      "Ch 28"
     ],
     "grade": 4
   },
@@ -2483,13 +2485,13 @@
     "date": 2026,
     "reliability": 1,
     "key_figure": "15% projected employment growth 2024-2034; ~129,200 openings per year",
-    "note": "Projection, not measurement - but a Tier 1 projection with a published method. Ch 6's distinction applies.",
+    "note": "Projection, not measurement, but a grade 1 projection with a published method. Chapter 6's distinction applies.",
     "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch09",
-      "ch23",
-      "ch38"
+      "Ch 9",
+      "Ch 23",
+      "Appendix F"
     ],
     "caveat": "A projection, not a measurement. It models a decade ahead from assumptions the publisher states, and Chapter 6 explains why a projection cannot be checked the way a count can. The annual openings figure combines growth with replacing people who leave, so most of it is churn rather than new jobs.",
     "grade": 1
@@ -2504,7 +2506,7 @@
     "url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch24"
+      "Ch 24"
     ],
     "caveat": "A projection, not a measurement, with the same limits as any ten-year forecast. Flat growth is a modelled expectation and not an observed count.",
     "grade": 1
@@ -2517,7 +2519,7 @@
     "reliability": 2,
     "key_figure": "Senior and generalist UX roles recovering; entry-level remains scarce and highly competitive",
     "used_in": [
-      "ch24"
+      "Ch 24"
     ],
     "no_url": "Drawn from several of the group's articles and its own job-market commentary rather than from one report.",
     "caveat": "Published by a consultancy that sells user-experience training and certification, so it has an interest in the health of the field it reports on. The direction is corroborated elsewhere; treat the emphasis as interested.",
@@ -2532,7 +2534,7 @@
     "key_figure": "UX research postings dropped below 1,000/month in early 2025",
     "caveat": "Single-source posting count with no published method.",
     "used_in": [
-      "ch24"
+      "Ch 24"
     ],
     "grade": 4
   },
@@ -2542,13 +2544,13 @@
     "publisher": "Compiled from national statistical and education agencies",
     "date": "2026-08",
     "reliability": 2,
-    "method": "Identification of administrative datasets that link higher-education records to tax or social-insurance records and publish earnings by field of study. Six confirmed: the United Kingdom, the United States, Canada, France, Chile and Colombia. Five more strongly indicated and marked unverified in Appendix G.",
+    "method": "Identification of administrative datasets that link higher-education records to tax or social-insurance records and publish earnings by field of study. Eleven confirmed against the publisher's own primary source: the United Kingdom, the United States, Canada, France, Chile, Colombia, the Netherlands, Ireland, New Zealand, Poland, and the shared register systems of Norway, Denmark, Sweden and Finland.",
     "key_figure": "Where such a dataset exists it covers everyone who finished, with no survey response bias, and reports earnings by course and often by institution. It is the strongest evidence a prospective student can get about a degree, and it beats every other source in Chapter 7.",
     "caveat": "This edition established existence, publisher and linkage type. It did not read the datasets or reproduce any figure from them, so the registry is graded 2 even though the products themselves are grade 1. Cadence, granularity and coverage should be checked against the publisher before any figure is quoted.",
     "used_in": [
-      "ch07",
-      "ch14",
-      "ch15"
+      "Ch 7",
+      "Ch 14",
+      "Ch 15"
     ],
     "no_url": "Compiled for this dataset from eleven national statistical sources and education ministries. Appendix G lists each one separately with its own route in.",
     "grade": 2
@@ -2563,7 +2565,7 @@
     "caveat": "Absence of a finding is not proof of absence. These searches ran in English against national portals, and a dataset published only in a national language could have been missed. The claim made in the book is that none was found, which is a statement about this edition.",
     "gap": true,
     "used_in": [
-      "ch07"
+      "Ch 7"
     ],
     "no_url": "A recorded absence rather than a document. It states that no such dataset was found for seventeen markets.",
     "grade": 2
@@ -2575,11 +2577,11 @@
     "date": "2026-08",
     "reliability": 2,
     "method": "For each of seventeen origin markets: the responsible body, the statute it acts under, the channel a consumer files through, and whether any action against an education or training provider could be named.",
-    "key_figure": "A named regulator exists in all seventeen. Documented action against an education or training provider was found in seven: India, Poland, Brazil, Mexico, South Africa, Pakistan and Turkey.",
+    "key_figure": "A named regulator exists in all seventeen. Documented action against an education or training provider was found in seven: India, Poland, Brazil, Mexico, South Africa, Turkey and Colombia. In Pakistan a formal inquiry is open, about schools, with no penalty yet.",
     "caveat": "Filing channels and monetary thresholds change, and several of these bodies publish little enforcement detail in English. Where a specific order is named it should be read as of its date; at least two of the Indian orders are under challenge before the national commission and are therefore not final.",
     "used_in": [
-      "ch07",
-      "ch16"
+      "Ch 7",
+      "Ch 16"
     ],
     "no_url": "Compiled for this dataset from national consumer-protection authorities. Appendix G lists each one separately.",
     "grade": 2
@@ -2596,9 +2598,9 @@
     "no_url": "An aggregate of more than sixty notices and thirty-one penalty orders. The total comes from the ministry, not from one order.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch07",
-      "ch16",
-      "ch39"
+      "Ch 7",
+      "Ch 16",
+      "Appendix G"
     ],
     "grade": 1
   },
@@ -2614,7 +2616,7 @@
     "url": "https://api.sci.gov.in/supremecourt/2014/40179/40179_2014_9_1503_61700_Judgement_14-May-2025.pdf",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch16"
+      "Ch 16"
     ],
     "grade": 1
   },
@@ -2626,11 +2628,11 @@
     "reliability": 1,
     "method": "Section 197(12) of the Companies Act 2013, read with rule 5(1) of the Companies (Appointment and Remuneration of Managerial Personnel) Rules 2014. Verified by reading the resulting disclosure in two audited annual reports rather than only the statute.",
     "key_figure": "Every listed company must disclose, in the Board's Report, the median remuneration of its employees, the percentage increase in that median, and the number of permanent employees on the rolls.",
-    "caveat": "A whole-company median across every function, not a role figure. It covers the listed entity and its overseas branches but not subsidiaries. The rule requires the percentage change, so a company may lawfully publish that and withhold the absolute level, and one of the three checked does exactly that.",
+    "caveat": "A whole-company median across every function, not a role figure. It covers the listed entity and its overseas branches but not subsidiaries. The rule requires the percentage change, so a company may lawfully publish that and withhold the absolute level. Three of the five largest listed employers checked do exactly that.",
     "no_url": "A statute read with the rules made under it. This edition verified the duty by reading the resulting disclosure in two annual reports.",
     "retrieved": "2026-08-10",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2645,7 +2647,7 @@
     "caveat": "The most useful of these regimes, because it gives three points rather than one and counts UK employees only. It is still a whole-company distribution and says nothing about any particular job.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2660,7 +2662,7 @@
     "url": "https://www.sec.gov/newsroom/press-releases/2015-160",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2671,12 +2673,12 @@
     "url": "https://eur-lex.europa.eu/eli/dir/2023/970/oj/eng",
     "date": "2023-05",
     "reliability": 1,
-    "key_figure": "Member states were required to bring the directive into national law by 7 June 2026. Employer reporting of pay gaps by sex, broken down by category of worker, phases in from June 2027 for employers above 100 workers.",
+    "key_figure": "Member states were required to bring the directive into national law by 7 June 2026. Employer reporting of pay gaps by sex, broken down by category of worker, phases in from June 2027 for employers of 150 or more, and from June 2031 for those of 100 to 149. Smaller employers are not required to report.",
     "caveat": "Not a usable source yet. Reporting had barely begun at the transposition deadline. It also produces gap ratios by category rather than a median pay level, so it will answer a different question from the Indian, UK and US rules.",
     "gap": true,
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2692,7 +2694,7 @@
     "caveat": "The published measure is a gap between men and women rather than a pay level, but the quartile averages come close to a distribution. It says nothing about a particular job. It is still the most detailed employer-level pay disclosure found in any market, ahead of both the United States and the United Kingdom.",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2704,9 +2706,9 @@
     "reliability": 1,
     "method": "Built by the ministry from eSocial and monthly RAIS payroll records, which employers are legally obliged to file, not from a survey. Private employers with 100 or more staff are covered and reports are issued twice a year. Any report is public and retrieved by the employer's tax number. Three were read for this edition, on 2026-08-13: CI&T Software 00.609.634/0001-46, TOTVS 53.113.791/0001-22 and Nu Pagamentos 18.236.120/0001-58, all first-half 2026 reports covering pay for calendar 2025 with headcount at 31 December 2025.",
     "key_figure": "Women's pay as a percentage of men's, for a named employer, company-wide and within five broad occupational bands. Software work falls in the band called higher-education-level professionals. CI&T: 4,277 workers, 27.8% women, median contractual salary 82.5% and that band 80.2%. TOTVS: 4,144 workers, 37.5% women, median 73.6%, band 76.2%. Nu Pagamentos: 2,342 workers, 43.6% women, median 80.5%, band 83.9%. Each report also gives the workforce split by race.",
-    "caveat": "READ IT FOR WHAT IT IS. There is no amount of money anywhere in one of these reports. An earlier draft called this the only regime anywhere publishing pay by occupation for a named employer; that was written before a report had been opened and it is wrong. A reader cannot learn what a developer is paid at a named Brazilian employer from this or from anything else found. A band containing fewer than three women or three men is left blank, so a smaller employer's report is largely empty, and the bands are broad enough that a developer and a lawyer sit in the same one. What it does establish for any employer over a hundred staff is headcount, the split by sex and race, and whether the gap widens with seniority.",
+    "caveat": "Read it for what it is. There is no amount of money anywhere in one of these reports.  A reader cannot learn what a developer is paid at a named Brazilian employer from this or from anything else found. A band containing fewer than three women or three men is left blank, so a smaller employer's report is largely empty, and the bands are broad enough that a developer and a lawyer sit in the same one. What it does establish for any employer over a hundred staff is headcount, the split by sex and race, and whether the gap widens with seniority.",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "no_url": "There is no single document, because there is one report per employer. Reports are looked up at relatoriodetransparenciasalarial.trabalho.gov.br, which takes that employer's public tax number and returns a one-page PDF. No login is needed and the number is the company's, not the reader's. The three read for this edition are named in the method above and can be pulled again the same way. Employers must also publish their own report on their own channels, which is a second route to one.",
     "retrieved": "2026-08-13",
@@ -2724,8 +2726,8 @@
     "url": "https://positive-ryouritsu.mhlw.go.jp/positivedb/",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch13",
-      "ch39"
+      "Ch 13",
+      "Appendix G"
     ],
     "grade": 1
   },
@@ -2737,12 +2739,12 @@
     "reliability": 2,
     "method": "National survey of graduates about four to six months after completing a course. 335,153 invitations, 117,794 valid responses, a 38.5% response rate, across 130 institutions. Salary is self-reported and covers domestic graduates in full-time work only.",
     "key_figure": "Median annual salary for undergraduates in computing and information systems, in full-time work: A$75,300, against A$75,000 across all study areas. Table 7 of the 2024 report.",
-    "caveat": "A STUDY AREA IS NOT AN OCCUPATION, and four to six months is not a career. This measures what computing graduates in full-time work reported earning shortly after finishing, which is a starting salary for the people who found full-time work and answered a survey. Graduates in part-time work and graduates without work are excluded, so the figure describes the employed end of the cohort. Self-reported, and a survey rather than a tax record, which is why it sits at grade 2 beside the tax-linked systems in Appendix G.",
+    "caveat": "A study area is not an occupation, and four to six months is not a career. This measures what computing graduates in full-time work reported earning shortly after finishing, which is a starting salary for the people who found full-time work and answered a survey. Graduates in part-time work and graduates without work are excluded, so the figure describes the employed end of the cohort. Self-reported, and a survey rather than a tax record, which is why it sits at grade 2 beside the tax-linked systems in Appendix G.",
     "url": "https://www.qilt.edu.au/surveys/graduate-outcomes-survey-(gos)",
     "retrieved": "2026-08-14",
     "used_in": [
-      "ch07",
-      "ch39"
+      "Ch 7",
+      "Appendix G"
     ],
     "grade": 2
   },
@@ -2758,7 +2760,7 @@
     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12215",
     "retrieved": "2026-08-14",
     "used_in": [
-      "ch13"
+      "Ch 13"
     ],
     "grade": 1
   },
@@ -2771,9 +2773,9 @@
     "reliability": 1,
     "method": "Establishment survey of firms with ten or more workers, reporting average monthly wage rates for time-rated full-time employees, by occupation within industry.",
     "key_figure": "Average monthly wage rates, Philippines, 2024. Applications programmers in the insurance, reinsurance and pension funding industry P96,360. Web and multimedia developers in motion picture, video, television, sound recording and music publishing P79,064. Applications programmers in information service activities P73,804. Software developers in publishing activities P66,180. All time-rated full-time workers in the whole information and communication industry P43,676, the highest-paid industry group in 2024. All time-rated full-time workers nationally, every industry and occupation, P21,544, being basic P20,309 plus allowance P1,235. The 2022 round put applications programmers at P58,643.",
-    "caveat": "EVERY COMPUTING FIGURE IS ONE OCCUPATION INSIDE ONE INDUSTRY, not a national average for the role. Programmers in insurance are not programmers in the Philippines, and the survey publishes no economy-wide occupational average for them. Establishment survey of firms with ten or more staff, so the informal sector and all freelancers are excluded, and these are not individual tax records. No breakdown by seniority or experience.",
+    "caveat": "Every computing figure is one occupation inside one industry, not a national average for the role. Programmers in insurance are not programmers in the Philippines, and the survey publishes no economy-wide occupational average for them. Establishment survey of firms with ten or more staff, so the informal sector and all freelancers are excluded, and these are not individual tax records. No breakdown by seniority or experience.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "url": "https://psa.gov.ph/statistics/occupational-wages-survey",
     "grade": 1
@@ -2789,7 +2791,7 @@
     "key_figure": "ICT service exports rose US$541 million, or 23.7%, to US$2.825 billion in July to March of the 2025 financial year, the highest trade surplus among all services at US$2.429 billion and 45.31% of total services exports. Freelancer remittances were US$400 million over the same nine months. Full-year IT and ITeS exports for 2024-25 were US$3.8 billion, up from US$3.2 billion. The government-funded DigiSkills programme reports over 4.55 million trainings and US$1.65 billion earned by its freelancers to December 2024.",
     "caveat": "Aggregate foreign-currency inflows, not pay. They cannot be divided by any headcount to infer earnings, because no publisher states how many people the receipts belong to. The nine-month figure is not a full year. The DigiSkills total is a cumulative self-reported programme metric and no causal link to the training is established.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "no_url": "Published as a chapter of the annual Economic Survey PDF on the finance ministry's site, reissued each year at a new address.",
     "grade": 1
@@ -2805,7 +2807,7 @@
     "key_figure": "The Freelancer Digital Account framework lets a freelancer open an Exporters' Special Foreign Currency Account remotely. Retention was raised to 50% of export proceeds or US$5,000 a month, with the remainder converted to rupees; no foreign-currency cash withdrawal is allowed inside Pakistan. Proceeds may be processed on self-declaration where no contract exists. The Form R inward-remittance report was scrapped for IT exports with the reporting threshold raised to US$25,000. Registration with the software export board unlocks a 0.25% final tax rate on IT export receipts against 1% unregistered, extended to 30 June 2029.",
     "caveat": "Policy thresholds, not earnings. Foreign-exchange rules in Pakistan have changed repeatedly since 2023 and several of these are recent. Read the current circular before acting; the structure is durable and the numbers are not.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "distinct_from": {
       "bd-ict-exports-and-incentive": "Shares 30, 50 and 5000 with the Bangladeshi record, and the overlap is real rather than coincidental: both regimes settled on a 50% retention quota and a US$5,000 threshold, and both set a lower rate for non-technology services. They are two central banks writing separate circulars, and the parallel design is a finding in itself rather than evidence of one document."
@@ -2824,7 +2826,7 @@
     "key_figure": "Bangladesh's ICT service exports were US$702,934,714 in 2024, up from US$638.213 million in 2023 and below the 2022 peak of US$721.191 million. Under a July 2026 circular, ICT freelancers and service exporters may retain up to 50% of export earnings in foreign currency, against 30% for other services. Platform statements, emails, invoices and contracts count as proof of income; earnings up to US$20,000 may be brought in without formal declaration and up to US$10,000 per transaction through an online payment gateway. A 4% cash incentive is paid on verified foreign earnings up to US$5,000 for freelancers listed on the 55 marketplaces submitted by the ICT Division on 17 January 2022; a separate 10% applies to registered IT and ITES firms.",
     "caveat": "Aggregate flows and policy thresholds, not pay, and not divisible by any headcount. The export board's shipment figures differ materially from the central bank's receipts and the receipts are the more reliable of the two. The marketplace list is a fixed whitelist: a platform not on it does not qualify for the incentive.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "distinct_from": {
       "indie-saas-distribution-2026": "Shares 10, 10000 and 50 by coincidence. That record covers independent software revenue distribution; here the figures are a US$10,000 per-transaction gateway cap, a US$20,000 declaration threshold and a 50% retention quota."
@@ -2842,9 +2844,9 @@
     "no_url": "The central bank issues these as dated press releases that are rotated off the site; no stable locator remained for the March 2024 announcement, checked 2026-08-20.",
     "method": "The central bank's own special monetary policy statement for the float. The export figures are agency statements made at a public summit.",
     "key_figure": "On 6 March 2024 the Central Bank of Egypt announced the exchange rate would be set by market forces and raised rates by 600 basis points. The pound moved from about 30.9 to the dollar to a record of about 50.6 the same day. Residents may hold foreign-currency bank accounts, and inbound foreign currency is converted to pounds only if it lands in a pound account. No bespoke freelancer foreign-exchange scheme and no export-board registration requirement was located. The technology agency reports US$5.2 billion of digital-services offshoring revenue for 2025 and 850,000 active digital freelancers, and targets US$6 billion for 2026.",
-    "caveat": "MIXED GRADES IN ONE RECORD, deliberately. The float and the account rules are central-bank facts and are grade 1. The US$5.2 billion and the 850,000 are agency-reported by the body that promotes the sector, and the US$6 billion is an explicit TARGET rather than an achieved figure — it must never be printed as one. The absence of a freelancer scheme is a negative finding after searching in Arabic, not a proven absence.",
+    "caveat": "Mixed grades in one record, deliberately. The float and the account rules are central-bank facts and are grade 1. The US$5.2 billion and the 850,000 are agency-reported by the body that promotes the sector, and the US$6 billion is an explicit target rather than an achieved figure — it must never be printed as one. The absence of a freelancer scheme is a negative finding after searching in Arabic, not a proven absence.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "grade": 1
   },
@@ -2859,7 +2861,7 @@
     "key_figure": "Under Article 62 of the Labour Code 2019 and Article 61(2) of the Law on Vocational Education and Training 2014, where an employer funds training the worker must serve the committed period. Leaving early creates a duty to reimburse the scholarship and training cost, prorated to the time not served. The training contract must state the committed working period, the training cost and the reimbursement responsibility. No national stipend figure is fixed by statute.",
     "caveat": "The statute establishes the duty; it does not show how often the duty is enforced, and no enforcement data was located. Contrast with the Philippine and Indonesian schemes, which carry no equivalent repayment liability.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "no_url": "Read from the consolidated statutes during pass 14, in Vietnamese. Both are published as gazette instruments rather than at a stable page.",
     "grade": 1
@@ -2873,9 +2875,9 @@
     "reliability": 1,
     "method": "National labour force surveys. Reported through the statistics offices' releases; several exact cells were cross-checked through reputable secondary reporting because the primary tables render their numbers via JavaScript.",
     "key_figure": "Vietnam's average monthly income across all employed workers was about VND 8.3 million in the first quarter of 2025 and about VND 9 million in the second quarter of 2026. The 2020 labour force survey reported VND 10.5 million a month for managers and VND 8.8 million for high-level technical professionals, at one-digit occupation detail. Indonesia's average net monthly wage for employees was about Rp 3.09 million in February 2025 and about Rp 3.29 million in February 2026, and about Rp 4.35 million for workers holding a university degree in any field.",
-    "caveat": "NONE OF THESE IS A COMPUTING FIGURE. Vietnam publishes occupation detail only at one digit, where every professional is counted together, so a programmer cannot be separated from a doctor. Indonesia collapses occupations into eight broad groups and computing disappears inside professionals and technicians. The Indonesian degree-holder figure covers all fields and is an education proxy, not an occupation. Several figures rest on secondary reporting of the primary release and should be confirmed on the portals before the next edition.",
+    "caveat": "None of these is a computing figure. Vietnam publishes occupation detail only at one digit, where every professional is counted together, so a programmer cannot be separated from a doctor. Indonesia collapses occupations into eight broad groups and computing disappears inside professionals and technicians. The Indonesian degree-holder figure covers all fields and is an education proxy, not an occupation. Several figures rest on secondary reporting of the primary release and should be confirmed on the portals before the next edition.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "url": "https://www.bps.go.id/en/statistics-table/2/MTUyMSMy/rata-rata-upah-gaji.html",
     "grade": 1
@@ -2889,9 +2891,9 @@
     "reliability": 1,
     "method": "The ministry's own regulation and its official public guidance.",
     "key_figure": "Under the Manpower Law and Ministerial Regulation No. 6 of 2020, a domestic apprentice is not a full employee and receives an allowance rather than a wage, which must cover transport, meals and an incentive, with the amount set in a mandatory written agreement. An apprenticeship without a written agreement converts the apprentice into a regular employee. Duration is capped at one year and apprentices are limited to 20% of the workforce. Separately, the Kartu Prakerja scheme gives each participant a total benefit of Rp 4,200,000: a training balance of Rp 3,500,000, a job-search incentive of Rp 600,000, and Rp 100,000 for completing two surveys.",
-    "caveat": "Kartu Prakerja is a government training voucher and NOT an employer-paid-while-you-train scheme; only Rp 700,000 of the package is cash and no employer is involved. The apprenticeship allowance has no published national figure for the technology sector. Benefit amounts were much larger during the pandemic and should be re-checked.",
+    "caveat": "Kartu Prakerja is a government training voucher and not an employer-paid-while-you-train scheme; only Rp 700,000 of the package is cash and no employer is involved. The apprenticeship allowance has no published national figure for the technology sector. Benefit amounts were much larger during the pandemic and should be re-checked.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "distinct_from": {
       "indie-saas-distribution-2026": "Shares 100000, 20 and 6 by coincidence. That record covers independent software revenue; here they are a rupiah survey incentive, a 20% cap on apprentices as a share of workforce, and a regulation number."
@@ -2910,7 +2912,7 @@
     "key_figure": "Universities self-report graduate employment rates and most report between 90% and 100%. A ministry report for 2018 to 2021 put information technology and computer science employment near 99%. An independent analysis of 181 universities estimated overall graduate employment nearer 65.5% for 2018. Vietnam limits enrolment increases at universities where more than 30% of graduates are unemployed. The ministry is building a higher education management information system linking university records to social insurance data to verify outcomes.",
     "caveat": "The self-reported figures are graded 2 rather than 1 because the reporting body is the institution being judged and a stated quota rule gives it a direct interest in the answer. That conflict is the finding. The 65.5% estimate and the 99% claim are not measuring identical populations or years, so the gap between them shows unreliability rather than a quantified error.",
     "used_in": [
-      "ch42"
+      "Appendix J"
     ],
     "no_url": "Published inside each university's annual admission scheme rather than as one national dataset, which is part of why the figures are unverifiable.",
     "grade": 2
@@ -2923,12 +2925,12 @@
     "reliability": 2,
     "method": "Survey of graduates at one and five years after the degree. The duration is computed only for those who declared they were not working at graduation, and is reported by disciplinary group rather than by occupation.",
     "key_figure": "Average months to first employment for the disciplinary group \"informatica e tecnologie ICT\": 3.2 months for a first-level degree and 4.7 months for a second-level degree. Across all groups the averages are 5.0 and 7.0 months.",
-    "caveat": "A FIELD OF STUDY IS NOT AN OCCUPATION. This measures how long computing graduates took to find any first job, not how long it takes to enter a named computing career, which is what the profiles ask. It also counts only graduates who were not already working, and the duration is recalled at interview rather than observed. Italy only. It is recorded because it disproves the blanket claim the book used to print — that nobody anywhere measures this — not because it answers the question.",
+    "caveat": "A field of study is not an occupation. This measures how long computing graduates took to find any first job, not how long it takes to enter a named computing career, which is what the profiles ask. It also counts only graduates who were not already working, and the duration is recalled at interview rather than observed. Italy only. It is recorded because it disproves the blanket claim the book used to print — that nobody anywhere measures this — not because it answers the question.",
     "url": "https://www.almalaurea.it/news/quanto-tempo-impiegano-laureati-trovare-lavoro",
     "retrieved": "2026-08-14",
     "used_in": [
-      "ch18",
-      "ch22"
+      "Ch 18",
+      "Ch 22"
     ],
     "grade": 2
   },
@@ -2941,11 +2943,11 @@
     "no_url": "ELA publishes through an interactive portal; a query result has no durable address and the front page is the only stable locator, checked 2026-08-20.",
     "method": "Administrative linkage of higher-education records to social-insurance records, covering graduates rather than a survey sample. Reports per institution and per field of study, including the time a graduate took to find salaried employment.",
     "key_figure": "The system publishes time to salaried employment, in months, by field of study. Computing is one of the named fields. No national computing figure has been read from it for this edition.",
-    "caveat": "Established, not read. What the system publishes and how it is built has been confirmed here; it has not opened the reports or extracted a figure, which is why this sits at grade 2 while the underlying instrument is grade 1. Two further limits matter for computing specifically. It measures time to SALARIED employment only, and self-employment and business-to- business contracting are excluded — both are common in Polish technology work, so the measure sees less of that market than of others. And a field of study is not an occupation.",
+    "caveat": "Established, not read. What the system publishes and how it is built has been confirmed here; it has not opened the reports or extracted a figure, which is why this sits at grade 2 while the underlying instrument is grade 1. Two further limits matter for computing specifically. It measures time to salaried employment only, and self-employment and business-to- business contracting are excluded — both are common in Polish technology work, so the measure sees less of that market than of others. And a field of study is not an occupation.",
     "retrieved": "2026-08-14",
     "used_in": [
-      "ch18",
-      "ch22"
+      "Ch 18",
+      "Ch 22"
     ],
     "grade": 2
   },
@@ -2964,9 +2966,9 @@
     "url": "https://www.consumerfinance.gov/enforcement/actions/bloomtech-inc-and-austen-allred/",
     "retrieved": "2026-09-06",
     "used_in": [
-      "ch07",
-      "ch15",
-      "ch16"
+      "Ch 7",
+      "Ch 15",
+      "Ch 16"
     ],
     "grade": 1
   },
@@ -2982,8 +2984,8 @@
     "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-11-states-order-prehired-to-provide-students-more-than-30-million-in-relief-for-illegal-student-lending-practices/",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch07",
-      "ch16"
+      "Ch 7",
+      "Ch 16"
     ],
     "grade": 1
   },
@@ -2999,8 +3001,8 @@
     "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/232-3019-career-step-llc-ftc-v",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch07",
-      "ch16"
+      "Ch 7",
+      "Ch 16"
     ],
     "grade": 1
   },
@@ -3015,7 +3017,7 @@
     "url": "https://consumer.ftc.gov/all-scams/job-scams",
     "retrieved": "2026-08-12",
     "used_in": [
-      "ch07"
+      "Ch 7"
     ],
     "grade": 1
   },
@@ -3030,8 +3032,8 @@
     "caveat": "The current member count could not be established from a primary source and is not stated. What matters for the reader is the test, not the roster: ask whether a school submits to it.",
     "gap": true,
     "used_in": [
-      "ch07",
-      "ch15"
+      "Ch 7",
+      "Ch 15"
     ],
     "url": "https://www.cirr.org/our-standards",
     "grade": 2
@@ -3046,7 +3048,7 @@
     "key_figure": "80% of students graduated. 98% of graduates were job-seeking. 91% of job-seeking graduates found work in the field within 180 days, at a reported median income of $100,000. The 180-day figures covered 390 graduates. Tuition about $17,900.",
     "caveat": "Cited as a worked example of the denominator problem, not as evidence about App Academy, which is one of the more transparent schools precisely because it publishes the whole funnel. Compounding the three published rates gives about 71% of everyone who enrolled, against a headline of 91%. Reached through a secondary aggregator rather than the primary report, so treat the exact percentages as a range.",
     "used_in": [
-      "ch07"
+      "Ch 7"
     ],
     "grade": 5
   },
@@ -3060,8 +3062,8 @@
     "key_figure": "82% of respondents learn to code using online resources, against 49% who learn in school. 66% hold a bachelor's or master's degree.",
     "caveat": "Self-selected. Respondents come to a developer website, so people already working in software are heavily over-represented. It says nothing about people who tried to enter and failed, which is the population a prospective student most needs to know about.",
     "used_in": [
-      "ch07",
-      "ch15"
+      "Ch 7",
+      "Ch 15"
     ],
     "url": "https://survey.stackoverflow.co/2024/developer-profile",
     "grade": 2
@@ -3075,8 +3077,8 @@
     "key_figure": "Published ladder: A+ then Network+ then Security+ then CySA+ or PenTest+ then SecurityX. Each higher certificate renews the ones below it.",
     "caveat": "Published by the body that sells the exams, so grade 5. The structure of the ladder is a verifiable fact about the product. Any claim about what it earns you is advertising.",
     "used_in": [
-      "ch07",
-      "ch31"
+      "Ch 7",
+      "Ch 31"
     ],
     "grade": 5
   },
@@ -3090,9 +3092,9 @@
     "key_figure": "77% of developers surveyed say most assessments do not match the skills the role needs. 66% prefer practical challenges to abstract coding problems.",
     "caveat": "Published by a company that sells technical assessments, which is a direct interest in the finding that current assessments are wrong. The sample size and method are stated, so it stays at grade 2, but read the conclusion with the seller in mind.",
     "used_in": [
-      "ch07",
-      "ch11",
-      "ch31"
+      "Ch 7",
+      "Ch 11",
+      "Ch 31"
     ],
     "no_url": "Vendor report published behind a form. Figures reached this record through its public summary.",
     "grade": 2

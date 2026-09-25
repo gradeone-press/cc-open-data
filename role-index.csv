@@ -324,7 +324,7 @@ programmer analyst,Backend engineer,23,contracting
 Prompt engineer,not profiled,29,absorbed
 public research institute,National laboratory and public institute researcher,27,profiled
 public sector modernisation,Government and public sector IT,25,profiled
-QA engineer,Manual QA / software tester,24,absorbed
+QA engineer,Manual QA / software tester,24,stable
 quant,"Quantitative finance (researcher, trader, developer)",26,profiled
 quant developer,"Quantitative finance (researcher, trader, developer)",26,profiled
 quant researcher,"Quantitative finance (researcher, trader, developer)",26,profiled
@@ -371,7 +371,7 @@ SCADA engineer,Industrial automation and OT security,25,profiled
 scientific computing specialist,Research computing and high-performance computing,26,profiled
 scrum master,not profiled,24,stable
 SDE,Backend engineer,23,stable
-SDET,Manual QA / software tester,24,absorbed
+SDET,Manual QA / software tester,24,growing
 secure software developer,"Security specialisations (appsec, SOC, incident response, GRC)",25,growing
 Security architect,not profiled,25,growing
 security content engineer,not profiled,25,growing
@@ -394,9 +394,9 @@ smart contract auditor,not profiled,29,stable
 smart contract engineer,not profiled,29,stable
 SOC analyst,"Security specialisations (appsec, SOC, incident response, GRC)",25,growing
 Software developer,Backend engineer,23,stable
-software development engineer in test,Manual QA / software tester,24,absorbed
+software development engineer in test,Manual QA / software tester,24,growing
 software engineer,Backend engineer,23,stable
-Software quality assurance analyst and tester,Manual QA / software tester,24,absorbed
+Software quality assurance analyst and tester,Manual QA / software tester,24,stable
 solutions architect,not profiled,25,growing
 solutions engineer,not profiled,28,stable
 solutions engineer (AI),not profiled,29,growing
@@ -427,7 +427,7 @@ technical writer,Technical education and content,28,profiled
 Telecom network and OSS/BSS systems,Telecom network and OSS/BSS systems,25,profiled
 Temenos developer,Core banking and payments engineering,25,profiled
 tenure-track faculty,The academic path: doctorate to tenure-track faculty,27,profiled
-test automation engineer,Manual QA / software tester,24,absorbed
+Test automation engineer,Manual QA / software tester,24,growing
 The academic path: doctorate to tenure-track faculty,The academic path: doctorate to tenure-track faculty,27,profiled
 The funded doctorate as a route abroad,The funded doctorate as a route abroad,27,profiled
 threat and warning analyst,not profiled,25,growing

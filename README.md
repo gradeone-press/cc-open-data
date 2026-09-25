@@ -1,6 +1,6 @@
 # Computing Careers 2026 — source bibliography and gap register
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22225580.svg)](https://doi.org/10.5281/zenodo.22225580)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22225579.svg)](https://doi.org/10.5281/zenodo.22225579)
 
 Open data from *Computing Careers 2026*, published by **Grade One**.
 Licensed **CC BY 4.0**. See `LICENCE.txt`.
@@ -12,7 +12,8 @@ Licensed **CC BY 4.0**. See `LICENCE.txt`.
 | File | Rows | What it holds |
 |---|---|---|
 | `sources.csv` / `.json` | 200 | Every source the book used, graded, dated, with what it cannot tell you |
-| `gaps.csv` / `.json` | 138 | Every question the book could not answer at the grade it requires |
+| `gaps.csv` / `.json` | 154 | Every question the book could not answer at the grade it requires |
+| `role-index.csv` / `.json` | 452 | Every job title the book could place, and what covers it |
 
 **`sources.csv`** carries, for each source: the grade it earns under the book's
 five-grade hierarchy, the date it was published, the date it was read, a
@@ -21,8 +22,8 @@ caveat. 75 of the 200 are grade 1.
 
 **`gaps.csv`** carries, for each gap: the role and chapter it belongs to, what
 is missing, why, and whether it is *closeable* — meaning a published source
-exists and nobody has compiled it. 22 are closeable. Of the 138,
-88 come from the career profiles and 50 are declared
+exists and nobody has compiled it. 22 are closeable. Of the 154,
+100 come from the career profiles and 54 are declared
 by the chapters themselves.
 
 ## The grades
@@ -49,7 +50,7 @@ Copy it, republish it, adapt it, build on it, sell something built on it. The
 only condition is credit:
 
 > Source bibliography and gap register, *Computing Careers 2026*, Grade One,
-> edition 1.0.0.
+> edition 1.0.1.
 
 **Corrections are wanted.** If a grade is wrong, a source has moved, or a gap
 has been closed by something published since, write to **corrections@gradeone.press**.

@@ -1,5 +1,5 @@
 Computing Careers 2026 — source bibliography and gap register
-Grade One, edition 1.0.0
+Grade One, edition 1.0.1
 
 LICENCE
 
@@ -10,7 +10,7 @@ You may copy, redistribute, adapt and build on it, including commercially, as
 long as you credit the source. Suggested credit:
 
   Source bibliography and gap register, Computing Careers 2026, Grade One,
-  edition 1.0.0.
+  edition 1.0.1.
 
 WHAT THIS IS
 
@@ -21,6 +21,8 @@ WHAT THIS IS
                   cannot tell you.
   gaps.csv        Every question this book could not answer at the grade it
                   requires, by role and by chapter, with the reason.
+  role-index.csv  Every job title the book could place, and the profile or
+                  chapter that covers it.
 
 The grades run 1 to 5, best first. Grade 1 is a body with the power to compel an
 answer and nothing to sell you. Grade 5 is somebody selling something.
